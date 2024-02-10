@@ -1,0 +1,244 @@
+id,participant_id,collection_date,isolation_date,internal_sample_id,isolation_method,type_of_sample,sample_collection_device,dna_qubt_1,dna_qubt_2,dna_qubt_average,dna_din,dna_qc_a260_a280_1,dna_qc_a260_a280_2,dna_qc_a260_a280_average,dna_qc_a260_a230_1,dna_qc_a260_a230_2,dna_qc_a260_a230_average,rna_contamination_1,rna_contamination_2,rna_contamination_average
+1,PMGRC-265-265-0,3/2/2022,5/13/2022,90A,whole blood frozen 3/8/2022; blood thawed at RT for 20 min just before manual prep (column T);  80 ul elute in EB,Peripheral Blood,Purple Top Tube,128,127,127.5,,1.76,1.8,1.78,1.37,1.54,1.46,15.2,15.2,15.2
+2,PMGRC-265-265-0,3/2/2022,5/13/2022,90B,whole blood frozen 3/8/2022; blood thawed at RT for 20 min just before manual prep (column T);  80 ul elute in EB,Peripheral Blood,Purple Top Tube,139,139,139,,1.84,1.83,1.84,1.88,1.89,1.89,19.8,19.6,19.7
+3,PMGRC-205-205-0,,,91A,NO SAMPLE WAS COLLECTED,Peripheral Blood,Purple Top Tube,,,,,,,,,,,,,
+4,PMGRC-240-240-0,3/7/2022,5/5/2022,92A,whole blood frozen 3/8/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 1x 750 ul AW1 and 2x 700 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,84.8,86.2,85.5,,1.83,1.71,1.77,1.95,1.2,1.58,15.4,15.4,15.4
+5,PMGRC-240-240-0,3/7/2022,5/5/2022,92B,whole blood frozen 3/8/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 1x 750 ul AW1 and 2x 700 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,97.8,95.8,96.8,,1.84,1.83,1.84,2.02,2.05,2.04,15.8,15.6,15.7
+6,PMGRC-122-122-0,3/7/2022,5/5/2022,93A,whole blood frozen 3/8/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 1x 750 ul AW1 and 2x 700 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,59,61.6,60.3,,1.71,1.84,1.78,1.19,1.75,1.47,11.8,11,11.4
+7,PMGRC-122-122-0,3/7/2022,5/5/2022,93B,whole blood frozen 3/8/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 1x 750 ul AW1 and 2x 700 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,132,139,135.5,,1.7,1.72,1.71,1.19,1.27,1.23,10.2,10.4,10.3
+8,PMGRC-123-122-1,3/7/2022,5/5/2022,94A,whole blood frozen 3/8/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 1x 750 ul AW1 and 2x 700 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,54.8,55.6,55.2,,1.57,1.78,1.68,0.85,1.56,1.21,10.8,10,10.4
+9,PMGRC-123-122-1,3/7/2022,5/5/2022,94B,whole blood frozen 3/8/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 1x 750 ul AW1 and 2x 700 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,52.2,55,53.6,,1.76,1.81,1.79,1.55,1.63,1.59,12.2,11.2,11.7
+10,PMGRC-239-239-0,3/7/2022,5/5/2022,95A,whole blood frozen 3/8/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 1x 750 ul AW1 and 2x 700 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,70.2,74.8,72.5,,1.77,1.78,1.78,1.41,1.35,1.38,14.4,12.8,13.6
+11,PMGRC-239-239-0,3/7/2022,5/5/2022,95B,whole blood frozen 3/8/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 1x 750 ul AW1 and 2x 700 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,93,93.4,93.2,,1.73,1.77,1.75,1.27,1.65,1.46,15.8,15.8,15.8
+12,PMGRC-285-284-1,3/8/2022,5/6/2022,96A,whole blood frozen 3/8/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 2x 750 ul AW1 and 1x 750 ul AW2; 80 ul elute in EB,Peripheral Blood,2 Purple Top Tubes,75.4,73.8,74.6,,1.78,1.8,1.79,1.64,1.73,1.69,13.8,14,13.9
+13,PMGRC-285-284-1,3/8/2022,5/6/2022,96B,whole blood frozen 3/8/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 2x 750 ul AW1 and 1x 750 ul AW2; 80 ul elute in EB,Peripheral Blood,2 Purple Top Tubes,68.4,68,68.2,,1.76,1.79,1.78,1.39,1.71,1.55,21,20.8,20.9
+14,PMGRC-286-284-2,3/8/2022,5/5/2022,97A,whole blood frozen 3/8/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 1x 750 ul AW1 and 2x 700 ul AW2; 80 ul elute in EB,Peripheral Blood,2 Purple Top Tubes,53.8,55.6,54.7,,1.78,1.79,1.79,1.68,1.72,1.7,12.2,12.2,12.2
+15,PMGRC-286-284-2,3/8/2022,5/5/2022,97B,whole blood frozen 3/8/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 1x 750 ul AW1 and 2x 700 ul AW2; 80 ul elute in EB,Peripheral Blood,2 Purple Top Tubes,58.8,60.6,59.7,,1.76,1.8,1.78,1.47,1.71,1.59,13.2,12,12.6
+16,PMGRC-284-284-0,3/8/2022,5/6/2022,98A,whole blood frozen 3/8/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 2x 750 ul AW1 and 1x 750 ul AW2; 80 ul elute in EB,Peripheral Blood,2 Purple Top Tubes,65.6,70.6,68.1,,1.77,1.81,1.79,1.52,1.71,1.62,14.6,13.8,14.2
+17,PMGRC-284-284-0,3/8/2022,5/6/2022,98B,whole blood frozen 3/8/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 2x 750 ul AW1 and 1x 750 ul AW2; 80 ul elute in EB,Peripheral Blood,2 Purple Top Tubes,58.8,59.6,59.2,,1.81,1.8,1.81,1.82,1.79,1.81,12.2,12,12.1
+18,PMGRC-121-122-2,3/7/2022,5/5/2022,99A,whole blood frozen 3/8/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 1x 750 ul AW1 and 2x 700 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,52,54.8,53.4,,1.72,1.81,1.77,1.18,1.76,1.47,<0.050,<0.050,<0.050
+19,PMGRC-121-122-2,3/7/2022,5/5/2022,99B,whole blood frozen 3/8/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 1x 750 ul AW1 and 2x 700 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,53,54.6,53.8,,1.71,1.75,1.73,1.28,1.43,1.36,11.6,11.2,11.4
+20,PMGRC-249-248-2,3/16/2022,4/8/2022,100A,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,66,67.6,66.8,,1.83,,,1.97,,,12,11.6,11.8
+21,PMGRC-249-248-2,3/16/2022,4/8/2022,100B,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,58.4,57.6,58,,1.63,,,0.92,,,10.4,10.6,10.5
+22,PMGRC-248-248-0,3/16/2022,4/8/2022,101A,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,65.6,64.4,65,,1.71,,,1.13,,,13.8,13.4,13.6
+23,PMGRC-248-248-0,3/16/2022,4/8/2022,101B,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,55.2,55,55.1,,1.78,,,1.65,,,11.6,12.2,11.9
+24,PMGRC-290-289-1,3/18/2022,4/8/2022,102A,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,73.4,71.8,72.6,,1.78,,,1.52,,,12,12.2,12.1
+25,PMGRC-290-289-1,3/18/2022,4/8/2022,102B,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,71.6,72.2,71.9,,1.82,,,1.82,,,13,2.8,7.9
+26,PMGRC-289-289-0,3/18/2022,4/82022,103A,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,66.4,64.6,65.5,,1.8,,,1.41,,,13,13.8,13.4
+27,PMGRC-289-289-0,3/18/2022,4/82022,103B,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,66,66.4,66.2,,1.83,,,1.67,,,15,14.8,14.9
+28,PMGRC-295-294-2,3/18/2022,4/8/2022,104A,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,50.4,50.4,50.4,,1.8,,,1.58,,,11.4,12.6,12
+29,PMGRC-295-294-2,3/18/2022,4/8/2022,104B,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,54.4,55.2,54.8,,1.74,,,1.2,,,11.2,12.8,12
+30,PMGRC-294-294-0,3/18/2022,4/8/2022,105A,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,53.6,51.8,52.7,,1.79,,,1.52,,,13,12.4,12.7
+31,PMGRC-294-294-0,3/18/2022,4/8/2022,105B,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,88.2,86.6,87.4,,1.69,,,0.88,,,15.8,16.4,16.1
+32,PMGRC-288-289-2,3/18/2022,,106,,saliva,2 OCD-100.032 tubes,,,,,,,,,,,,,
+33,PMGRC-223-223-0,2/23/2022,,107,,saliva,2 OCD-100.032 tubes,,,,,,,,,,,,,
+34,PMGRC-224-223-2,2/23/2022,,108,,saliva,2 OCD-100.032 tubes,,,,,,,,,,,,,
+35,PMGRC-279-279-0,3/22/2022,4/8/2022,109A,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,19.7,20.2,19.95,,1.81,,,1.64,,,0.05,0.05,0.05
+36,PMGRC-279-279-0,3/22/2022,4/8/2022,109B,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,29,30.6,29.8,,1.81,,,1.38,,,0.05,0.05,0.05
+37,PMGRC-283-279-1,3/22/2022,4/8/2022,110A,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,32,35,33.5,,1.78,,,1.46,,,0.05,0.05,0.05
+38,PMGRC-283-279-1,3/22/2022,4/8/2022,110B,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,57,56,56.5,,1.79,,,1.38,,,12.4,12.8,12.6
+39,PMGRC-282-279-2,3/22/2022,4/8/2022,111A,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,27.4,26.8,27.1,,1.73,,,1.38,,,0.05,0.05,0.05
+40,PMGRC-282-279-2,3/22/2022,4/8/2022,111B,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,38.6,39.2,38.9,,1.72,,,1.31,,,10.4,10.6,10.5
+41,PMGRC-193-191-1,3/25/2022,4/11/2022,112A,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,32.4,32.4,32.4,,1.57,,,1.17,,,0.05,0.05,0.05
+42,PMGRC-193-191-1,3/25/2022,4/11/2022,112B,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,41.2,41.2,41.2,,1.76,,,1.18,,,0.05,0.05,0.05
+43,PMGRC-191-191-0,3/25/2022,4/11/2022,113A,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,53.2,51.4,52.3,,1.76,,,1.37,,,10.4,11.2,10.8
+44,PMGRC-191-191-0,3/25/2022,4/11/2022,113B,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,26,26.2,26.1,,1.61,,,0.93,,,0.05,0.05,0.05
+45,PMGRC-300-299-2,3/25/2022,4/11/2022,114A,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,37.8,36.4,37.1,,1.71,,,1.33,,,0.05,0.05,0.05
+46,PMGRC-300-299-2,3/25/2022,4/11/2022,114B,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,42,40.4,41.2,,1.75,,,1.38,,,10.8,11,10.9
+47,PMGRC-299-299-0,3/25/2022,4/11/2022,115A,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,17.9,19.5,18.7,,1.76,,,0.98,,,0.05,10.2,5.125
+48,PMGRC-299-299-0,3/25/2022,4/11/2022,115B,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,38.2,39.2,38.7,,1.84,,,1.5,,,15.4,15.8,15.6
+49,PMGRC-192-191-2,3/25/2022,4/11/2022,116A,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,46.6,46.6,46.6,,1.77,,,1.39,,,16.2,16.4,16.3
+50,PMGRC-192-191-2,3/25/2022,4/11/2022,116B,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,36.4,35.4,35.9,,1.74,,,1.23,,,0.05,0.05,0.05
+51,PMGRC-175-175-0,3/25/2022,4/11/2022,117A,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,45.6,46.2,45.9,,1.83,,,1.7,,,16.2,16.2,16.2
+52,PMGRC-175-175-0,3/25/2022,4/11/2022,117B,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,,,,,1.8,,,1.15,,,11.6,12.2,11.9
+53,PMGRC-174-175-2,3/25/2022,5/5/2022,118A,whole blood frozen 4/11/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 1x 750 ul AW1 and 2x 700 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,55.4,54.2,54.8,,1.69,1.83,1.76,1.11,1.6,1.36,11.2,10.8,11
+54,PMGRC-174-175-2,3/25/2022,5/5/2022,118B,whole blood frozen 4/11/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 1x 750 ul AW1 and 2x 700 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,48.8,47.6,48.2,,1.81,1.8,1.81,1.74,1.67,1.71,11.8,11.2,11.5
+55,PMGRC-173-175-1,3/25/2022,5/5/2022,119A,whole blood frozen 4/11/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 1x 750 ul AW1 and 2x 700 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,88,89.8,88.9,,1.84,1.78,1.81,1.75,1.57,1.66,14.4,13.2,13.8
+56,PMGRC-173-175-1,3/25/2022,5/5/2022,119B,whole blood frozen 4/11/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 1x 750 ul AW1 and 2x 700 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,47.6,47.4,47.5,,1.77,1.82,1.8,1.4,1.66,1.53,<0.050,<0.050,<0.050
+57,PMGRC-221-220-2,4/5/2022,5/5/2022,120A,whole blood frozen 4/18/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 1x 750 ul AW1 and 2x 700 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,69.2,71,70.1,,1.77,1.84,1.81,1.54,1.81,1.68,13.4,12.2,12.8
+58,PMGRC-221-220-2,4/5/2022,5/5/2022,120B,whole blood frozen 4/18/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 1x 750 ul AW1 and 2x 700 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,68.6,67.2,67.9,,1.77,1.84,1.81,1.59,1.81,1.7,12.2,12.6,12.4
+59,PMGRC-196-195-3,4/8/2022,5/4/2022,121A,whole blood frozen 4/18/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 2x 700 ul AW1 and 2x 700 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,58,58,58,,1.68,1.84,1.76,1.08,1.94,1.51,12.8,12.8,12.8
+60,PMGRC-196-195-3,4/8/2022,5/4/2022,121B,whole blood frozen 4/18/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 2x 700 ul AW1 and 2x 700 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,62.4,64,63.2,,1.73,1.77,1.75,1.18,1.3,1.24,11.8,12.2,12
+61,PMGRC-198-195-1,4/8/2022,5/4/2022,122A,whole blood frozen 4/18/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 2x 700 ul AW1 and 2x 700 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,75.4,74.2,74.8,,1.71,1.82,1.77,1.65,1.68,1.67,12.2,11.4,11.8
+62,PMGRC-198-195-1,4/8/2022,5/4/2022,122B,whole blood frozen 4/18/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 2x 700 ul AW1 and 2x 700 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,52.6,54.8,53.7,,1.74,1.8,1.77,1.32,1.83,1.58,10.8,10,10.4
+63,PMGRC-197-195-2,4/8/2022,5/4/2022,123A,whole blood frozen 4/18/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 2x 700 ul AW1 and 2x 700 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,65.4,69,67.2,,1.65,1.84,1.75,1.06,1.86,1.46,12.6,12.8,12.7
+64,PMGRC-197-195-2,4/8/2022,5/4/2022,123B,whole blood frozen 4/18/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 2x 700 ul AW1 and 2x 700 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,67.6,65.8,66.7,,1.8,1.85,1.83,1.57,1.9,1.74,12.8,11.8,12.3
+65,PMGRC-195-195-0,4/8/2022,5/3/2022,124A,whole blood frozen 4/18/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 2x 600 ul AW1 and 2x 680 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,29,29.2,29.1,,1.72,1.76,1.74,1.25,1.61,1.43,<0.050,<0.050,<0.050
+66,PMGRC-195-195-0,4/8/2022,5/3/2022,124B,whole blood frozen 4/18/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 2x 600 ul AW1 and 2x 680 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,42.4,42.2,42.3,,1.67,1.82,1.75,1.07,1.6,1.34,10.8,10.2,10.5
+67,PMGRC-37-39-2,4/12/2022,5/4/2022,125A,whole blood frozen 4/18/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 2x 700 ul AW1 and 2x 700 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,69,68.8,68.9,,1.83,1.74,1.79,1.94,1.36,1.65,12.6,13,12.8
+68,PMGRC-37-39-2,4/12/2022,5/4/2022,125B,whole blood frozen 4/18/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 2x 700 ul AW1 and 2x 700 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,73,73.8,73.4,,1.79,1.77,1.78,1.74,1.53,1.64,11.6,11.2,11.4
+69,PMGRC-333-333-0,4/12/2022,5/4/2022,126A,whole blood frozen 4/18/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 2x 700 ul AW1 and 2x 700 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,43.2,44.8,44,,1.78,1.84,1.81,1.6,1.72,1.66,10.4,10.2,10.3
+70,PMGRC-333-333-0,4/12/2022,5/4/2022,126B,whole blood frozen 4/18/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 2x 700 ul AW1 and 2x 700 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,76.6,77,76.8,,1.78,1.82,1.8,1.83,1.9,1.87,14.6,14.8,14.7
+71,PMGRC-39-39-0,4/12/2022,5/4/2022,127A,whole blood frozen 4/18/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 2x 700 ul AW1 and 2x 700 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,32.6,33,32.8,,1.66,1.79,1.73,1.03,1.6,1.32,<0.050,<0.050,<0.050
+72,PMGRC-39-39-0,4/12/2022,5/4/2022,127B,whole blood frozen 4/18/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 2x 700 ul AW1 and 2x 700 ul AW2; 80 ul elute in EB; diluted stock Rnase A 50% in P1 buffer to see if it still works this way to reduce cost,Peripheral Blood,Purple Top Tube,94.8,95.6,95.2,,1.77,1.79,1.78,1.23,1.3,1.27,10,<0.050,10
+73,PMGRC-38-39-1,4/12/2022,5/4/2022,128A,whole blood frozen 4/18/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 2x 700 ul AW1 and 2x 700 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,57.6,57.8,57.7,,1.78,1.78,1.78,1.5,1.53,1.52,12.8,11.6,12.2
+74,PMGRC-38-39-1,4/12/2022,5/4/2022,128B,whole blood frozen 4/18/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 2x 700 ul AW1 and 2x 700 ul AW2; 80 ul elute in EB; diluted stock Rnase A 50% in P1 buffer to see if it still works this way to reduce cost,Peripheral Blood,Purple Top Tube,47,46.8,46.9,,1.76,1.8,1.78,1.39,1.67,1.53,12,11.8,11.9
+75,PMGRC-298-296-1,4/18/2022,5/3/2022,129A,whole blood frozen 4/21/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 2x 600 ul AW1 and 2x 680 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,41.2,41.6,41.4,,1.72,1.8,1.76,1.39,1.68,1.54,<0.050,<0.050,<0.050
+76,PMGRC-298-296-1,4/18/2022,5/3/2022,129B,whole blood frozen 4/21/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 2x 600 ul AW1 and 2x 680 ul AW2; 80 ul elute in EB; diluted stock Rnase A 50% in P1 buffer to see if it still works this way to reduce cost,Peripheral Blood,Purple Top Tube,27.8,27.4,27.6,,1.8,1.68,1.74,1.39,1.15,1.27,<0.050,<0.050,<0.050
+77,PMGRC-55-53-1,4/19/2022,5/3/2022,130A,whole blood frozen 4/21/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 2x 600 ul AW1 and 2x 680 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,23.2,23.2,23.2,,1.64,1.68,1.66,0.94,1.27,1.11,<0.050,<0.050,<0.050
+78,PMGRC-55-53-1,4/19/2022,5/3/2022,130B,whole blood frozen 4/21/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 2x 600 ul AW1 and 2x 680 ul AW2; 80 ul elute in EB; diluted stock Rnase A 50% in P1 buffer to see if it still works this way to reduce cost,Peripheral Blood,Purple Top Tube,17.7,17.4,17.55,,1.68,1.65,1.67,1.01,0.96,0.99,<0.050,<0.050,<0.050
+79,PMGRC-57-53-2,4/19/2022,5/3/2022,131A,whole blood frozen 4/21/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 2x 600 ul AW1 and 2x 680 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,32.2,33.2,32.7,,1.74,1.71,1.73,1.2,1.12,1.16,<0.050,<0.050,<0.050
+80,PMGRC-57-53-2,4/19/2022,5/3/2022,131B,whole blood frozen 4/21/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 2x 600 ul AW1 and 2x 680 ul AW2; 80 ul elute in EB; diluted stock Rnase A 50% in P1 buffer to see if it still works this way to reduce cost,Peripheral Blood,Purple Top Tube,61,61.4,61.2,,1.75,1.82,1.79,1.33,1.79,1.56,<0.050,13.4,6.73
+81,PMGRC-53-53-0,4/19/2022,5/4/2022,132A,whole blood frozen 4/21/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 2x 700 ul AW1 and 2x 700 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,113,110,111.5,,1.84,1.83,1.84,1.89,2.06,1.98,16.6,16,16.3
+82,PMGRC-53-53-0,4/19/2022,5/4/2022,132B,whole blood frozen 4/21/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 2x 700 ul AW1 and 2x 700 ul AW2; 80 ul elute in EB; diluted stock Rnase A 50% in P1 buffer to see if it still works this way to reduce cost,Peripheral Blood,Purple Top Tube,84.4,83.4,83.9,,1.81,1.84,1.83,1.69,1.96,1.83,16.2,16,16.1
+83,PMGRC-311-312-1,4/20/2022,5/3/2022,133A,whole blood frozen 4/21/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 2x 600 ul AW1 and 2x 680 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,44.2,43.6,43.9,,1.81,1.72,1.77,1.34,1.18,1.26,<0.050,<0.050,<0.050
+84,PMGRC-311-312-1,4/20/2022,5/3/2022,133B,whole blood frozen 4/21/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 2x 600 ul AW1 and 2x 680 ul AW2; 80 ul elute in EB; diluted stock Rnase A 50% in P1 buffer to see if it still works this way to reduce cost,Peripheral Blood,Purple Top Tube,48.2,48.2,48.2,,1.81,1.8,1.81,1.58,1.41,1.5,<0.050,<0.050,<0.050
+85,PMGRC-312-312-0,4/20/2022,5/3/2022,134A,whole blood frozen 4/21/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 2x 600 ul AW1 and 2x 680 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,28,29,28.5,,1.68,1.73,1.71,1.13,1.14,1.14,<0.050,<0.050,<0.050
+86,PMGRC-312-312-0,4/20/2022,5/3/2022,134B,whole blood frozen 4/20/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 2x 600 ul AW1 and 2x 680 ul AW2; 80 ul elute in EB; diluted stock Rnase A 50% in P1 buffer to see if it still works this way to reduce cost,Peripheral Blood,Purple Top Tube,33.6,33,33.3,,1.74,1.71,1.73,1.32,1.17,1.25,<0.050,<0.050,<0.050
+87,PMGRC-302-302-0,4/19/2022,5/3/2022,135A,whole blood frozen 4/21/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 2x 600 ul AW1 and 2x 680 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,32,32,32,,1.68,1.8,1.74,1.21,1.49,1.35,<0.050,<0.050,<0.050
+88,PMGRC-302-302-0,4/19/2022,5/3/2022,135B,whole blood frozen 4/21/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 2x 600 ul AW1 and 2x 680 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,29.4,29.4,29.4,,1.72,1.69,1.71,1.23,1.04,1.14,<0.050,<0.050,<0.050
+89,PMGRC-297-296-2,4/18/2022,5/4/2022,136A,whole blood frozen 4/21/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 2x 700 ul AW1 and 2x 700 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,65.6,66.4,66,,1.79,1.83,1.81,1.51,1.89,1.7,11.8,11.4,11.6
+90,PMGRC-297-296-2,4/18/2022,5/4/2022,136B,whole blood frozen 4/21/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 2x 700 ul AW1 and 2x 700 ul AW2; 80 ul elute in EB; diluted stock Rnase A 50% in P1 buffer to see if it still works this way to reduce cost,Peripheral Blood,Purple Top Tube,67,68.2,67.6,,1.73,1.83,1.78,1.34,1.86,1.6,11.4,10.8,11.1
+91,PMGRC-296-296-0,4/18/2022,5/3/2022,137A,whole blood frozen 4/21/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 2x 600 ul AW1 and 2x 680 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,27.8,28.4,28.1,,1.77,1.81,1.79,1.77,1.53,1.65,<0.050,<0.050,<0.050
+92,PMGRC-296-296-0,4/18/2022,5/3/2022,137B,whole blood frozen 4/21/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 2x 600 ul AW1 and 2x 680 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,20,20.4,20.2,,1.74,1.75,1.75,1.35,1.31,1.33,<0.050,<0.050,<0.050
+93,PMGRC-170-170-0,4/20/2022,5/3/2022,138A,whole blood frozen 4/21/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 2x 600 ul AW1 and 2x 680 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,43.6,43.4,43.5,,1.67,1.02,1.35,1.8,1.34,1.57,<0.050,<0.050,<0.050
+94,PMGRC-170-170-0,4/20/2022,5/3/2022,138B,whole blood frozen 4/21/2022; blood thawed at RT for 20 min just before manual prep (column T) EXCEPT washed 2x 600 ul AW1 and 2x 680 ul AW2; 80 ul elute in EB,Peripheral Blood,Purple Top Tube,28.6,31.4,30,,1.67,1.02,1.35,1.77,1.4,1.59,<0.050,<0.050,<0.050
+95,PMGRC-220-220-0,4/5/2022,5/6/2022,139,,saliva,2 OCD-100.032 tubes,,,,,,,,,,,,,
+96,PMGRC-344-345-3,4/28/2022,5/6/2022,140A,manual prep (column T) EXCEPT washed 2x 750 ul AW1 and 1x 750 ul AW2; 80 ul elute in EB: fresh blood,Peripheral Blood,Purple Top Tube,82.4,83.6,83,,1.79,1.87,1.83,1.83,1.9,1.87,14.6,15.4,15
+97,PMGRC-344-345-3,4/28/2022,5/6/2022,140B,manual prep (column T) EXCEPT washed 2x 750 ul AW1 and 1x 750 ul AW2; 80 ul elute in EB: fresh blood,Peripheral Blood,Purple Top Tube,59,60.8,59.9,,1.77,1.61,1.69,1.83,1.73,1.78,13,13.4,13.2
+98,PMGRC-342-345-1,4/28/2022,5/6/2022,141A,manual prep (column T) EXCEPT washed 2x 750 ul AW1 and 1x 750 ul AW2; 80 ul elute in EB: fresh blood,Peripheral Blood,Purple Top Tube,77.2,76.4,76.8,,1.72,1.1,1.41,1.75,1.13,1.44,13.4,13.2,13.3
+99,PMGRC-342-345-1,4/28/2022,5/6/2022,141B,manual prep (column T) EXCEPT washed 2x 750 ul AW1 and 1x 750 ul AW2; 80 ul elute in EB: fresh blood,Peripheral Blood,Purple Top Tube,38.2,37.2,37.7,,1.78,1.36,1.57,1.27,1.4,1.34,<0.050,<0.050,<0.050
+100,PMGRC-368-366-1,4/29/2022,5/6/2022,142A,manual prep (column T) EXCEPT washed 2x 750 ul AW1 and 1x 750 ul AW2; 80 ul elute in EB: fresh blood,Peripheral Blood,Purple Top Tube,52.8,53.4,53.1,,1.69,1.03,1.36,1.83,1.53,1.68,12.8,12.6,12.7
+101,PMGRC-368-366-1,4/29/2022,5/6/2022,142B,manual prep (column T) EXCEPT washed 2x 750 ul AW1 and 1x 750 ul AW2; 80 ul elute in EB: fresh blood,Peripheral Blood,Purple Top Tube,39.8,40,39.9,,1.74,1.25,1.5,1.74,1.36,1.55,13.2,12.2,12.7
+102,PMGRC-367-366-2,4/29/2022,5/6/2022,143A,manual prep (column T) EXCEPT washed 2x 750 ul AW1 and 1x 750 ul AW2; 80 ul elute in EB: fresh blood,Peripheral Blood,Purple Top Tube,76.4,75.4,75.9,,1.81,1.65,1.73,1.82,1.8,1.81,12.4,12.6,12.5
+103,PMGRC-367-366-2,4/29/2022,5/6/2022,143B,manual prep (column T) EXCEPT washed 2x 750 ul AW1 and 1x 750 ul AW2; 80 ul elute in EB: fresh blood,Peripheral Blood,Purple Top Tube,61.2,57.8,59.5,,1.77,1.46,1.62,1.78,1.67,1.73,12.6,12.6,12.6
+104,PMGRC-366-366-0,4/29/2022,5/6/2022,144A,manual prep (column T) EXCEPT washed 2x 750 ul AW1 and 1x 750 ul AW2; 80 ul elute in EB: fresh blood,Peripheral Blood,Purple Top Tube,77.2,76.8,77,,1.78,1.36,1.57,1.82,1.71,1.77,13.8,13.4,13.6
+105,PMGRC-366-366-0,4/29/2022,5/6/2022,144B,manual prep (column T) EXCEPT washed 2x 750 ul AW1 and 1x 750 ul AW2; 80 ul elute in EB: fresh blood,Peripheral Blood,Purple Top Tube,39.4,39.8,39.6,,1.75,1.27,1.51,1.81,1.62,1.72,12.6,12.2,12.4
+106,PMGRC-238-217-2,5/13/2022,,145A,whole blood frozen 6/2/2022,Peripheral Blood,Purple Top Tube,,,,,,,,,,,,,
+107,PMGRC-238-217-2,5/13/2022,,145B,whole blood frozen 6/2/2022,Peripheral Blood,Purple Top Tube,,,,,,,,,,,,,
+108,PMGRC-217-217-0,5/3/2022,,146A,whole blood frozen 6/2/2022,Peripheral Blood,Purple Top Tube,,,,,,,,,,,,,
+109,PMGRC-217-217-0,5/3/2022,,146B,whole blood frozen 6/2/2022,Peripheral Blood,Purple Top Tube,,,,,,,,,,,,,
+110,PMGRC-237-217-1,5/3/2022,,147A,whole blood frozen 6/2/2022,Peripheral Blood,Purple Top Tube,,,,,,,,,,,,,
+111,PMGRC-237-217-1,5/3/2022,,147B,whole blood frozen 6/2/2022,Peripheral Blood,Purple Top Tube,,,,,,,,,,,,,
+112,PMGRC-356-355-2,5/12/2022,,148A,whole blood frozen 6/2/2022,Peripheral Blood,Purple Top Tube,,,,,,,,,,,,,
+113,PMGRC-356-355-2,5/12/2022,,148B,whole blood frozen 6/2/2022,Peripheral Blood,Purple Top Tube,,,,,,,,,,,,,
+114,PMGRC-354-355-1,5/12/2022,,149A,whole blood frozen 6/2/2022,Peripheral Blood,Purple Top Tube,,,,,,,,,,,,,
+115,PMGRC-354-355-1,5/12/2022,,149B,whole blood frozen 6/2/2022,Peripheral Blood,Purple Top Tube,,,,,,,,,,,,,
+116,PMGRC-292-291-2,5/20/2022,,150A,whole blood frozen 6/2/2022,Peripheral Blood,Purple Top Tube,,,,,,,,,,,,,
+117,PMGRC-292-291-2,5/20/2022,,150B,whole blood frozen 6/2/2022,Peripheral Blood,Purple Top Tube,,,,,,,,,,,,,
+118,PMGRC-162-161-2,5/20/2022,,151A,whole blood frozen 6/2/2022,Peripheral Blood,Purple Top Tube,,,,,,,,,,,,,
+119,PMGRC-162-161-2,5/20/2022,,151B,whole blood frozen 6/2/2022,Peripheral Blood,Purple Top Tube,,,,,,,,,,,,,
+120,PMGRC-291-291-0,5/20/2022,,152A,whole blood frozen 6/2/2022,Peripheral Blood,Purple Top Tube,,,,,,,,,,,,,
+121,PMGRC-291-291-0,5/20/2022,,152B,whole blood frozen 6/2/2022,Peripheral Blood,Purple Top Tube,,,,,,,,,,,,,
+122,PMGRC-161-161-0,5/20/2022,,153A,whole blood frozen 6/2/2022,Peripheral Blood,Purple Top Tube,,,,,,,,,,,,,
+123,PMGRC-161-161-0,5/20/2022,,153B,whole blood frozen 6/2/2022,Peripheral Blood,Purple Top Tube,,,,,,,,,,,,,
+124,PMGRC-163-161-1,5/20/2022,,154A,whole blood frozen 6/2/2022,Peripheral Blood,Purple Top Tube,,,,,,,,,,,,,
+125,PMGRC-163-161-1,5/20/2022,,154B,whole blood frozen 6/2/2022,Peripheral Blood,Purple Top Tube,,,,,,,,,,,,,
+126,PMGRC-376-375-2,5/20/2022,,155A,whole blood frozen 6/2/2022,Peripheral Blood,Purple Top Tube,,,,,,,,,,,,,
+127,PMGRC-376-375-2,5/20/2022,,155B,whole blood frozen 6/2/2022,Peripheral Blood,Purple Top Tube,,,,,,,,,,,,,
+128,PMGRC-293-291-1,5/20/2022,,156A,whole blood frozen 6/2/2022,Peripheral Blood,Purple Top Tube,,,,,,,,,,,,,
+129,PMGRC-293-291-1,5/20/2022,,156B,whole blood frozen 6/2/2022,Peripheral Blood,Purple Top Tube,,,,,,,,,,,,,
+130,PMGRC-355-355-0,5/12/2022,,157A,whole blood frozen 6/2/2022,Peripheral Blood,Purple Top Tube,,,,,,,,,,,,,
+131,PMGRC-355-355-0,5/12/2022,,157B,whole blood frozen 6/2/2022,Peripheral Blood,Purple Top Tube,,,,,,,,,,,,,
+132,PMGRC-220-220-0,,,158,NO SAMPLE COLLECTED,,,,,,,,,,,,,,,
+133,PMGRC-377-375-1,5/31/2022,,159A,whole blood frozen 6/9/2022,Peripheral Blood,Purple Top Tube,,,,,,,,,,,,,
+134,PMGRC-377-375-1,5/31/2022,,159B,whole blood frozen 6/9/2022,Peripheral Blood,Purple Top Tube,,,,,,,,,,,,,
+135,PMGRC-171-170-1,5/23/2022,,160A,whole blood frozen 6/9/2022,Peripheral Blood,Purple Top Tube,,,,,,,,,,,,,
+136,PMGRC-171-170-1,5/23/2022,,160B,whole blood frozen 6/9/2022,Peripheral Blood,Purple Top Tube,,,,,,,,,,,,,
+137,PMGRC-172-170-2,5/23/2022,,161A,whole blood frozen 6/9/2022,Peripheral Blood,Purple Top Tube,,,,,,,,,,,,,
+138,PMGRC-172-170-2,5/23/2022,,161B,whole blood frozen 6/9/2022,Peripheral Blood,Purple Top Tube,,,,,,,,,,,,,
+140,PMGRC-000000,02/23/2023,04/5/2023,,,,Something,,,,,,,,,,,,,
+141,PMGRC-534-534-0,,9/15/2023,,Qiagen Blood Mini,Peripheral Blood,Purple Top Tube,65.4,,,,,,,,,,,,
+142,PMGRC-533-534-2,,9/15/2023,,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,118,,,,,,,,,,,,
+143,PMGRC-535-534-3,,9/15/2023,,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,59.8,,,,,,,,,,,,
+144,PMGRC-536-534-3,,9/15/2023,,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,31.1,,,,,,,,,,,,
+145,PMGRC-287-287-0,,9/15/2023,Qiagen Blood Mini; Frozen Blood; manual,,Peripheral Blood,Purple Top Tube,47.5,,,,,,,,,,,,
+146,PMGRC-655-287-2,9/15/2023,,,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,92.8,,,,,,,,,,,,
+147,PMGRC-710-710-0,,9/15/2023,,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,71.4,,,,,,,,,,,,
+148,PMGRC-709-710-1,,9/15/2023,,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,49.7,,,,,,,,,,,,
+149,PMGRC-708-710-2,,9/15/2023,,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,30.4,,,,,,,,,,,,
+150,PMGRC-753-753-0,,9/15/2023,,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,147.0,,,,,,,,,,,,
+151,PMGRC-754-753-2,,9/15/2023,,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,367.0,,,,,,,,,,,,
+152,PMGRC-755-753-1,,9/15/2023,,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,43.5,,,,,,,,,,,,
+153,PMGRC-690-690-0,,9/15/2023,,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,125.0,,,,,,,,,,,,
+154,PMGRC-689-690-1,,9/15/2023,,standard protocol (see column T); Fresh Blood; manual,Peripheral Blood,Purple Top Tube,72.2,,,,,,,,,,,,
+155,PMGRC-569-569-0,,9/20/2023,,prep-IT; saliva; manual,Saliva,Blue top,42.5,,,,,,,,,,,,
+156,PMGRC-606-605-2,,,,,Saliva,Blue top,95.7,,,,,,,,,,,,
+157,PMGRC-570-569-2,,9/18/2023,,prep-IT; saliva; manual,Saliva,Blue top,15.8,,,,,,,,,,,,
+158,PMGRC-727-671-2,,9/18/2023,,prep-IT; saliva; manual,Saliva,Blue top,91.1,,,,,,,,,,,,
+159,PMGRC-546-529-1,,9/18/2023,,prep-IT; saliva; manual,Saliva,Blue top,43.6,,,,,,,,,,,,
+160,PMGRC-671-671-0,,9/18/2023,,prep-IT; saliva; manual,Saliva,Blue top,101.0,,,,,,,,,,,,
+161,PMGRC-728-671-1,,9/18/2023,,prep-IT; saliva; manual,Saliva,Blue top,56.3,,,,,,,,,,,,
+162,PMGRC-301-301-0,,9/18/2023,,prep-IT; saliva; manual,Saliva,Blue top,267.0,,,,,,,,,,,,
+163,PMGRC-605-605-0,,9/18/2023,,prep-IT; saliva; manual,Saliva,Blue top,41.8,,,,,,,,,,,,
+164,PMGRC-622-622-0,,9/18/2023,,prep-IT; saliva; manual,Saliva,Blue top,31.3,,,,,,,,,,,,
+165,PMGRC-545-529-2,,9/18/2023,,prep-IT; saliva; manual,Saliva,Blue top,30.5,,,,,,,,,,,,
+166,PMGRC-571-569-1,,9/18/2023,,prep-IT; saliva; manual,Saliva,Blue top,63.9,,,,,,,,,,,,
+167,PMGRC-507-506-2,,9/18/2023,,prep-IT; saliva; manual,Saliva,Blue top,93.0,,,,,,,,,,,,
+168,PMGRC-416-417-3,,9/18/2023,,prep-IT; saliva; manual,Saliva,Blue top,14.0,,,,,,,,,,,,
+169,PMGRC-500-503-2,,9/18/2023,,prep-IT; saliva; manual,Saliva,Blue top,10.0,,,,,,,,,,,,
+171,PMGRC-552-550-1,,9/18/2023,,prep-IT; saliva; manual,Saliva,Blue top,19.9,,,,,,,,,,,,
+172,PMGRC-475-477-2,,9/18/2023,,prep-IT; saliva; manual,Saliva,Blue top,17.1,,,,,,,,,,,,
+173,PMGRC-000000,2/23/2023,2/23/2023,,Some method,,,2.0,,,,,,,,,,,,
+174,PMGRC-773-773-0,9/1/2023,9/7/2023,,Qiagen Blood Mini; Frozen Blood; manual,Peripheral Blood,Purple Top Tube,41.0,,,,,,,,,,,,
+175,PMGRC-790-773-1,9/1/2023,9/7/2023,,Qiagen Blood Mini; Frozen Blood; manual,Peripheral Blood,Purple Top Tube,68.1,,,,,,,,,,,,
+176,PMGRC-789-773-2,9/1/2023,9/7/2023,,Qiagen Blood Mini; Frozen Blood; manual,Peripheral Blood,Purple Top Tube,43.6,,,,,,,,,,,,
+177,PMGRC-809-808-1,9/5/2023,9/7/2023,,Qiagen Blood Mini; Frozen Blood; manual,Peripheral Blood,Purple Top Tube,71.2,,,,,,,,,,,,
+178,PMGRC-810-808-2,9/5/2023,9/7/2023,,Qiagen Blood Mini; Frozen Blood; manual,Peripheral Blood,Purple Top Tube,56.2,,,,,,,,,,,,
+179,PMGRC-867-867-0,8/17/2023,9/7/2023,,Qiagen Blood Mini; Frozen Blood; manual,Peripheral Blood,Purple Top Tube,79.7,,,,,,,,,,,,
+180,PMGRC-868-867-2,8/17/2023,9/7/2023,,Qiagen Blood Mini; Frozen Blood; manual,Peripheral Blood,Purple Top Tube,28.2,,,,,,,,,,,,
+181,PMGRC-878-878-0,8/30/2023,9/7/2023,,Qiagen Blood Mini; Frozen Blood; manual,Peripheral Blood,Purple Top Tube,54.4,,,,,,,,,,,,
+182,PMGRC-926-926-0,,9/15/2023,,Qiagen Blood Mini; Frozen Blood; manual,Peripheral Blood,Purple Top Tube,65.0,,,,,,,,,,,,
+183,PMGRC-927-926-1,,9/15/2023,,Qiagen Blood Mini; Frozen Blood; manual,Peripheral Blood,Purple Top Tube,127.0,,,,,,,,,,,,
+184,PMGRC-925-926-2,,9/15/2023,,Qiagen Blood Mini; Frozen Blood; manual,Peripheral Blood,Purple Top Tube,85.3,,,,,,,,,,,,
+185,PMGRC-537-534-1,,9/15/2023,,Qiagen Blood Mini; Frozen Blood; manual,Peripheral Blood,Purple Top Tube,36.4,,,,,,,,,,,,
+186,PMGRC-770-770-0,,9/15/2023,,Qiagen Blood Mini; Frozen Blood; manual,Peripheral Blood,Purple Top Tube,126.0,,,,,,,,,,,,
+187,PMGRC-768-770-1,,9/15/2023,,Qiagen Blood Mini; Frozen Blood; manual,Peripheral Blood,Purple Top Tube,66.0,,,,,,,,,,,,
+188,PMGRC-760-760-0,,9/15/2023,,Qiagen Blood Mini; Frozen Blood; manual,Peripheral Blood,Purple Top Tube,67.1,,,,,,,,,,,,
+189,PMGRC-761-760-1,,9/15/2023,,Qiagen Blood Mini; Frozen Blood; manual,Peripheral Blood,Purple Top Tube,63.5,,,,,,,,,,,,
+190,PMGRC-759-760-2,,9/15/2023,,Qiagen Blood Mini; Frozen Blood; manual,Peripheral Blood,Purple Top Tube,83.0,,,,,,,,,,,,
+191,PMGRC-772-772-0,,9/15/2023,,Qiagen Blood Mini; Frozen Blood; manual,Peripheral Blood,Purple Top Tube,72.4,,,,,,,,,,,,
+192,PMGRC-540-540-0,,9/18/2023,,prep-IT; saliva; manual,Saliva,Blue top,8.4,,,,,,,,,,,,
+193,PMGRC-503-503-0,,9/18/2023,,prep-IT; saliva; manual,Saliva,Blue top,18.9,,,,,,,,,,,,
+194,PMGRC-232-232-0,,9/18/2023,,prep-IT; saliva; manual,Saliva,Blue top,121.0,,,,,,,,,,,,
+195,PMGRC-467-467-0,,9/18/2023,,prep-IT; saliva; manual,Saliva,Blue top,30.6,,,,,,,,,,,,
+196,PMGRC-268-266-1,,9/18/2023,Saliva,prep-IT; saliva; manual,Blue top,108.0,,,,,,,,,,,,,
+197,PMGRC-463-462-1,,9/18/2023,,prep-IT; saliva; manual,Saliva,Blue top,111.0,,,,,,,,,,,,
+198,PMGRC-144-143-2,,9/18/2023,,prep-IT; saliva; manual,Saliva,Blue top,< 1.0,,,,,,,,,,,,
+199,PMGRC-699-700-1,,9/20/2023,,prep-IT; saliva; manual,Saliva,Blue top,64.8,,,,,,,,,,,,
+200,PMGRC-505-302-1,,9/20/2023,,prep-IT; saliva; manual,Saliva,Blue top,48.7,,,,,,,,,,,,
+201,PMGRC-358-357-2,,9/20/2023,,prep-IT; saliva; manual,Saliva,Blue top,18.3,,,,,,,,,,,,
+202,PMGRC-399-391-1,,9/20/2023,,prep-IT; saliva; manual,Saliva,Blue top,23.7,,,,,,,,,,,,
+203,PMGRC-553-553-0,,9/20/2023,,prep-IT; saliva; manual,Saliva,Blue top,19.6,,,,,,,,,,,,
+204,PMGRC-554-553-2,,9/20/2023,,prep-IT; saliva; manual,Saliva,Blue top,48.6,,,,,,,,,,,,
+205,PMGRC-555-553-3,,9/20/2023,,prep-IT; saliva; manual,Saliva,Blue top,35.0,,,,,,,,,,,,
+206,PMGRC-151-151-0,,9/20/2023,Saliva,prep-IT; saliva; manual,,Blue top,25.9,,,,,,,,,,,,
+207,PMGRC-691-632-3,,9/20/2023,,prep-IT; saliva; manual,Saliva,Blue top,12.6,,,,,,,,,,,,
+208,PMGRC-253-251-1,,9/20/2023,,prep-IT; saliva; manual,Saliva,Blue top,61.8,,,,,,,,,,,,
+209,PMGRC-190-188-1,,9/20/2023,,prep-IT; saliva; manual,Saliva,Blue top,91.2,,,,,,,,,,,,
+210,PMGRC-188-188-0,,9/20/2023,,prep-IT; saliva; manual,Saliva,Blue top,53.3,,,,,,,,,,,,
+211,PMGRC-266-266-0,,9/20/2023,,prep-IT; saliva; manual,Saliva,Blue top,168.0,,,,,,,,,,,,
+212,PMGRC-470-467-1,,9/20/2023,,prep-IT; saliva; manual,Saliva,Blue top,75.3,,,,,,,,,,,,
+213,PMGRC-468-467-2,,9/20/2023,,prep-IT; saliva; manual,Saliva,Blue top,88.9,,,,,,,,,,,,
+214,PMGRC-334-335-2,,9/20/2023,,prep-IT; saliva; manual,Saliva,Blue top,14.2,,,,,,,,,,,,
+215,PMGRC-501-503-3,,9/20/2023,,prep-IT; saliva; manual,Saliva,Blue top,13.4,,,,,,,,,,,,
+216,PMGRC-532-477-4,,9/20/2023,,prep-IT; saliva; manual,Saliva,Blue top,13.9,,,,,,,,,,,,
+217,PMGRC-410-408-2,,9/20/2023,,prep-IT; saliva; manual,Saliva,Blue top,10.2,,,,,,,,,,,,
+218,PMGRC-252-251-2,,9/20/2023,,prep-IT; saliva; manual,Saliva,Blue top,11.9,,,,,,,,,,,,
+219,PMGRC-781-782-2,,9/20/2023,,prep-IT; saliva; manual,Saliva,Blue top,3.9,,,,,,,,,,,,
+220,PMGRC-542-540-1,,9/20/2023,,prep-IT; saliva; manual,Saliva,Blue top,7.9,,,,,,,,,,,,
+221,PMGRC-550-550-0,,9/20/2023,,prep-IT; saliva; manual,Saliva,Blue top,53.6,,,,,,,,,,,,
+222,PMGRC-732-653-1,,9/21/2023,,prep-IT; saliva; manual,Saliva,Blue top,50.3,,,,,,,,,,,,
+223,PMGRC-733-719-1,,9/21/2023,Saliva,prep-IT; saliva; manual,Blue top,,15.0,,,,,,,,,,,,
+224,PMGRC-782-782-0,,9/21/2023,,prep-IT; saliva; manual,Saliva,Blue top,41.8,,,,,,,,,,,,
+225,PMGRC-783-782-1,,9/21/2023,,prep-IT; saliva; manual,Saliva,Blue top,32.5,,,,,,,,,,,,
+226,PMGRC-635-635-0,,9/21/2023,,prep-IT; saliva; manual,Saliva,Blue top,35.8,,,,,,,,,,,,
+227,PMGRC-826-635-1,,9/21/2023,,prep-IT; saliva; manual,Saliva,Blue top,58.1,,,,,,,,,,,,
+228,PMGRC-636-635-2,,9/21/2023,,prep-IT; saliva; manual,Saliva,Blue top,47.1,,,,,,,,,,,,
+229,PMGRC-638-635-3,,9/21/2023,,prep-IT; saliva; manual,Saliva,Blue top,26.0,,,,,,,,,,,,
+230,PMGRC-637-635-3,,9/21/2023,,prep-IT; saliva; manual,Saliva,Blue top,45.8,,,,,,,,,,,,
+231,PMGRC-817-817-0,,9/21/2023,,prep-IT; saliva; manual,Saliva,Blue top,42.4,,,,,,,,,,,,
+232,PMGRC-778-779-2,,9/21/2023,,prep-IT; saliva; manual,Saliva,Blue top,38.9,,,,,,,,,,,,
+233,PMGRC-476-477-1,,9/21/2023,,prep-IT; saliva; manual,Saliva,Blue top,18.3,,,,,,,,,,,,
+234,PMGRC-120-118-1,,9/21/2023,,prep-IT; saliva; manual,Saliva,Blue top,5.1,,,,,,,,,,,,
+235,PMGRC-288-289-2,,9/21/2023,,prep-IT; saliva; manual,Saliva,Blue top,9.3,,,,,,,,,,,,
+236,PMGRC-204-204-0,,9/21/2023,,prep-IT; saliva; manual,Saliva,Blue top,17.6,,,,,,,,,,,,
+237,PMGRC-202-204-2,,9/21/2023,,prep-IT; saliva; manual,Saliva,Blue top,49.8,,,,,,,,,,,,
+238,PMGRC-542-540-1,,9/21/2023,,prep-IT; saliva; manual,Saliva,Blue top,4.7,,,,,,,,,,,,
+239,PMGRC-541-540-2,,9/21/2023,,prep-IT; saliva; manual,Saliva,Blue top,7.3,,,,,,,,,,,,
+240,PMGRC-532-477-4,,9/21/2023,,prep-IT; saliva; manual,Saliva,Blue top,10.2,,,,,,,,,,,,
+241,PMGRC-500-503-2,,9/21/2023,,prep-IT; saliva; manual,Saliva,Blue top,12.4,,,,,,,,,,,,
+242,PMGRC-119-118-2,,9/21/2023,,prep-IT; saliva; manual,Saliva,Blue top,35.3,,,,,,,,,,,,
+243,PMGRC-120-118-1,,9/21/2023,,prep-IT; saliva; manual,Saliva,Blue top,9.0,,,,,,,,,,,,
+244,PMGRC-779-779-0,,9/21/2023,,prep-IT; saliva; manual,Saliva,Blue top,35.1,,,,,,,,,,,,
+245,PMGRC-780-779-1,,9/21/2023,,prep-IT; saliva; manual,Saliva,Blue top,73.3,,,,,,,,,,,,

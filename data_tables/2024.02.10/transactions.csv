@@ -1,0 +1,51 @@
+id,account_number,company,transaction_date,payment_type,plan
+1,account_63,MetLife,2023-01-13 00:02:00,Credit,Pro
+2,account_267,FedEx,2023-01-15 17:00:00,Invoice,Basic
+3,account_458,Cisco Systems,2023-01-08 20:02:00,Invoice,Pro
+4,account_991,Dropbox,2023-01-30 08:23:00,Credit,Basic
+5,account_241,General Electric,2023-01-21 00:16:00,Invoice,Enterprise
+6,account_682,Gong,2023-01-02 16:02:00,Debit,Basic
+7,account_175,Stripe,2023-01-06 05:01:00,Invoice,Pro
+8,account_676,Home Depot,2023-01-05 08:25:00,Credit,Pro
+9,account_615,Goldman Sachs Group,2023-01-07 02:07:00,Credit,Pro
+10,account_69,Procter & Gamble,2023-01-21 00:58:00,Invoice,Enterprise
+11,account_945,Progressive,2023-01-18 07:26:00,Invoice,Basic
+12,account_232,Citigroup,2023-01-04 20:00:00,Invoice,Basic
+13,account_227,Stripe,2023-01-17 12:29:00,Invoice,Basic
+14,account_586,Oracle,2023-01-17 22:52:00,Debit,Pro
+15,account_789,JP Morgan Chase,2023-01-01 13:31:00,Credit,Enterprise
+16,account_495,Gamestop,2023-01-11 04:40:00,Invoice,Basic
+17,account_120,Kroger,2023-01-04 06:55:00,Invoice,Basic
+18,account_405,Nationwide,2023-01-17 06:42:00,Credit,Basic
+19,account_305,UnitedHealth Group,2023-01-07 01:10:00,Invoice,Basic
+20,account_20,Costco Wholesale,2023-01-17 17:17:00,Debit,Enterprise
+21,account_669,CVS Health,2023-01-13 15:58:00,Credit,Pro
+22,account_142,Chevron,2023-01-19 17:49:00,Credit,Pro
+23,account_122,Valero Energy,2023-01-19 22:13:00,Invoice,Basic
+24,account_659,FedEx,2023-01-27 21:33:00,Credit,Pro
+25,account_523,Comcast,2023-01-01 18:36:00,Invoice,Pro
+26,account_602,UPS,2023-01-30 09:57:00,Credit,Enterprise
+27,account_3,Progressive,2023-01-09 05:29:00,Credit,Pro
+28,account_940,Palentir Technologies,2023-01-04 21:53:00,Invoice,Basic
+29,account_704,Uber,2023-01-17 05:38:00,Invoice,Pro
+30,account_954,Target,2023-01-15 22:32:00,Invoice,Basic
+31,account_631,UPS,2023-01-06 07:42:00,Debit,Pro
+32,account_733,Target,2023-01-13 12:35:00,Debit,Pro
+33,account_998,Comcast,2023-01-20 07:55:00,Credit,Pro
+34,account_748,Gamestop,2023-01-05 10:41:00,Debit,Pro
+35,account_565,FedEx,2023-01-17 10:02:00,Debit,Pro
+36,account_418,Goldman Sachs Group,2023-01-26 05:22:00,Invoice,Pro
+37,account_740,General Motors,2023-01-31 02:58:00,Invoice,Basic
+38,account_849,Procter & Gamble,2023-01-15 09:42:00,Credit,Enterprise
+39,account_781,Nike,2023-01-03 22:47:00,Invoice,Pro
+40,account_137,Berkshire Hathaway,2023-01-01 17:57:00,Debit,Basic
+41,account_805,CVS Health,2023-01-13 05:26:00,Invoice,Pro
+42,account_984,Bumble,2023-01-24 09:10:00,Invoice,Enterprise
+43,account_766,Brex,2023-01-23 12:29:00,Debit,Pro
+44,account_961,Nike,2023-01-08 17:50:00,Invoice,Basic
+45,account_778,Comcast,2023-01-02 08:35:00,Credit,Basic
+46,account_248,Front,2023-01-26 00:27:00,Invoice,Pro
+47,account_453,Costco Wholesale,2023-01-01 19:12:00,Debit,Enterprise
+48,account_280,Walt Disney,2023-01-05 20:06:00,Invoice,Pro
+49,account_885,Oracle,2023-01-04 04:46:00,Credit,Basic
+50,account_713,Salesforce,2023-01-11 04:36:00,Credit,Enterprise

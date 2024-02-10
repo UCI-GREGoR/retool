@@ -1,0 +1,4 @@
+retool_sample_uuid,well_position,participant_id,nucleic_acid_concentration,volume_submitted,sample_name,biological_sex,tube_barcode,actual_sample_type,a260_a280,a260_a230,rna_contamination,dna_rna_integrity_number,notes,rack_barcode,sample_container_id,collaboration_id,created_at,modified_at,lims_sample_type
+946fb2e1-0230-4287-9d70-8adc6f8ba281,A01,PMGRC-120-30-2,1,1,Test1,Male,6510822617,EDTA Blood,1,0,0,2,,RT-3437_A00908463S,39,5,2023-03-17,2023-03-17 16:52:31.543187+00,gDNA
+a72ea34a-1382-4953-aed3-6390b4b1ff57,B01,PMGRC-119-30-1,2,2,Test3,Female,6510822629,Buccal Swab,0,23,0,2,,RT-3437_A00908463S,39,5,2023-03-17,2023-03-17 16:52:31.543187+00,Buccal Swab
+ffa7c34e-de10-4de3-a296-ac5db0d7fcb5,C01,PMGRC-120-30-2,3,3,Test2,Unknown,6510824625,Saliva,0,0,23,2,,RT-3437_A00908463S,39,5,2023-03-17,2023-03-17 16:52:31.543187+00,Saliva

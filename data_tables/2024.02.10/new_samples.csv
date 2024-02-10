@@ -1,0 +1,1319 @@
+id,role,participant_id,sample_type,collection_location,source,date_obtained,date_in_core_fridge,sample_status,date_shipped,tracking_number,date_received_by_uci
+1,2,PMGRC-89-88-2,PAX tube,CRU,peripheral blood,10/29/2021,OLD,Core Fridge,,,
+2,2,PMGRC-89-88-2,purple top,CRU,peripheral blood,10/29/2021,OLD,Shipped,,,
+3,1,PMGRC-90-88-1,PAX tube,CRU,peripheral blood,10/29/2021,OLD,Core Fridge,,,
+4,1,PMGRC-90-88-1,purple top,CRU,peripheral blood,10/29/2021,OLD,Shipped,,,
+5,0,PMGRC-88-88-0,PAX tube,Inpatient,peripheral blood,,OLD,Core Fridge,,,
+6,0,PMGRC-88-88-0,purple top,Inpatient,peripheral blood,,OLD,Shipped,,,
+7,2,PMGRC-105-106-2,PAX tube,CRU,peripheral blood,11/4/2021,OLD,Core Fridge,,,
+8,2,PMGRC-105-106-2,purple top,CRU,peripheral blood,11/4/2021,OLD,Shipped,,,
+9,1,PMGRC-103-106-1,PAX tube,CRU,peripheral blood,11/4/2021,OLD,Core Fridge,,,
+10,1,PMGRC-103-106-1,purple top,CRU,peripheral blood,11/4/2021,OLD,Shipped,,,
+11,0,PMGRC-106-106-0,PAX tube,Inpatient,peripheral blood,,OLD,Core Fridge,,,
+12,0,PMGRC-106-106-0,purple top,Inpatient,peripheral blood,,OLD,Shipped,,,
+13,2,PMGRC-113-114-2,PAX tube,CRU,peripheral blood,11/4/2021,OLD,Core Fridge,,,
+14,2,PMGRC-113-114-2,purple top,CRU,peripheral blood,11/4/2021,OLD,Shipped,,,
+15,0,PMGRC-114-114-0,PAX tube,CRU,peripheral blood,11/4/2021,OLD,Core Fridge,,,
+16,0,PMGRC-114-114-0,purple top,CRU,peripheral blood,11/4/2021,OLD,Shipped,,,
+17,1,PMGRC-115-114-1,PAX tube,CRU,peripheral blood,11/4/2021,OLD,Core Fridge,,,
+18,1,PMGRC-115-114-1,purple top,CRU,peripheral blood,11/4/2021,OLD,Shipped,,,
+19,0,PMGRC-125-125-0,PAX tube,Inpatient,peripheral blood,11/23/2021,OLD,Core Fridge,,,
+20,0,PMGRC-125-125-0,purple top,Inpatient,peripheral blood,11/23/2021,OLD,Shipped,,,
+21,1,PMGRC-127-125-1,purple top,CRU,peripheral blood,11/23/2021,OLD,Shipped,,,
+22,1,PMGRC-127-125-1,PAX tube,CRU,peripheral blood,11/23/2021,OLD,Core Fridge,,,
+23,0,PMGRC-116-116-0,PAX tube,Inpatient,peripheral blood,11/23/2021,OLD,Core Fridge,,,
+24,0,PMGRC-116-116-0,purple top,Inpatient,peripheral blood,11/23/2021,OLD,Shipped,,,
+25,2,PMGRC-117-116-2,purple top,CRU,peripheral blood,11/30/2021,OLD,Shipped,,,
+26,2,PMGRC-117-116-2,PAX tube,CRU,peripheral blood,11/30/2021,OLD,Core Fridge,,,
+27,0,PMGRC-137-137-0,purple top,Clinical Lab CNH,peripheral blood,11/19/2021,OLD,Shipped,,,
+28,0,PMGRC-137-137-0,PAX tube,Clinical Lab CNH,peripheral blood,11/19/2021,OLD,Core Fridge,,,
+29,1,PMGRC-139-11-1,purple top,CRU,peripheral blood,12/1/2021,OLD,Shipped,,,
+30,1,PMGRC-139-11-1,PAX tube,CRU,peripheral blood,12/1/2021,OLD,Core Fridge,,,
+31,0,PMGRC-11-11-0,purple top,CRU,peripheral blood,12/1/2021,OLD,Shipped,,,
+32,0,PMGRC-11-11-0,PAX tube,CRU,peripheral blood,12/1/2021,OLD,Core Fridge,,,
+33,2,PMGRC-12-11-2,PAX tube,CRU,peripheral blood,12/1/2021,OLD,Core Fridge,,,
+34,2,PMGRC-12-11-2,purple top,CRU,peripheral blood,12/1/2021,OLD,Shipped,,,
+35,0,PMGRC-130-130-0,PAX tube,Clinical Lab CNH,peripheral blood,12/3/2021,OLD,Core Fridge,,,
+36,0,PMGRC-130-130-0,purple top,Clinical Lab CNH,peripheral blood,12/3/2021,OLD,Shipped,,,
+37,0,PMGRC-86-86-0,purple top,CRU,peripheral blood,12/21/2021,OLD,Shipped,,,
+38,0,PMGRC-86-86-0,PAX tube,CRU,peripheral blood,12/21/2021,OLD,Core Fridge,,,
+39,1,PMGRC-85-86-1,purple top,CRU,peripheral blood,12/21/2021,OLD,Shipped,,,
+40,1,PMGRC-85-86-1,PAX tube,CRU,peripheral blood,12/21/2021,OLD,Core Fridge,,,
+41,2,PMGRC-80-86-2,purple top,CRU,peripheral blood,12/21/2021,OLD,Shipped,,,
+42,2,PMGRC-80-86-2,PAX tube,CRU,peripheral blood,12/21/2021,OLD,Core Fridge,,,
+43,2,PMGRC-126-125-2,purple top,CRU,peripheral blood,12/21/2021,OLD,Shipped,,,
+44,2,PMGRC-126-125-2,PAX tube,CRU,peripheral blood,12/21/2021,OLD,Core Fridge,,,
+45,0,PMGRC-131-131-0,purple top,CRU,peripheral blood,12/28/2021,OLD,Shipped,,,
+46,0,PMGRC-131-131-0,PAX tube,CRU,peripheral blood,12/28/2021,OLD,Core Fridge,,,
+47,2,PMGRC-132-131-2,purple top,CRU,peripheral blood,12/28/2021,OLD,Shipped,,,
+48,2,PMGRC-132-131-2,PAX tube,CRU,peripheral blood,12/28/2022,OLD,Core Fridge,,,
+49,1,PMGRC-133-131-1,purple top,CRU,peripheral blood,12/28/2022,OLD,Shipped,,,
+50,1,PMGRC-133-131-1,PAX tube,CRU,peripheral blood,12/28/2022,OLD,Core Fridge,,,
+51,2,PMGRC-4-3-2,purple top,CRU,peripheral blood,12/29/2022,OLD,Shipped,,,
+52,2,PMGRC-4-3-2,PAX tube,CRU,peripheral blood,12/29/2022,OLD,Core Fridge,,,
+53,2,PMGRC-4-3-2,purple top,CRU,peripheral blood,12/29/2022,OLD,Shipped,,,
+54,2,PMGRC-4-3-2,PAX tube,CRU,peripheral blood,12/29/2022,OLD,Core Fridge,,,
+55,1,PMGRC-50-48-1,purple top,CRU,peripheral blood,12/29/2022,OLD,Shipped,,,
+56,1,PMGRC-50-48-1,PAX tube,CRU,peripheral blood,12/29/2022,OLD,Core Fridge,,,
+57,2,PMGRC-44-43-2,purple top,CRU,peripheral blood,12/29/2022,OLD,Shipped,,,
+58,2,PMGRC-44-43-2,PAX tube,CRU,peripheral blood,12/29/2022,OLD,Core Fridge,,,
+59,0,PMGRC-43-43-0,purple top,CRU,peripheral blood,12/29/2021,OLD,Shipped,,,
+60,0,PMGRC-43-43-0,PAX tube,CRU,peripheral blood,12/29/2022,OLD,Core Fridge,,,
+61,1,PMGRC-45-43-1,purple top,CRU,peripheral blood,12/29/2021,OLD,Shipped,,,
+62,1,PMGRC-45-43-1,PAX tube,CRU,peripheral blood,12/29/2021,OLD,Core Fridge,,,
+63,1,PMGRC-70-68-1,purple top,CRU,peripheral blood,12/30/2021,OLD,Shipped,,,
+64,1,PMGRC-70-68-1,PAX tube,CRU,peripheral blood,12/30/2021,OLD,Core Fridge,,,
+65,2,PMGRC-69-68-2,purple top,CRU,peripheral blood,12/30/2021,OLD,Shipped,,,
+66,2,PMGRC-69-68-2,PAX tube,CRU,peripheral blood,12/30/2021,OLD,Core Fridge,,,
+67,0,PMGRC-68-68-0,purple top,CRU,peripheral blood,12/30/2021,OLD,Shipped,,,
+68,0,PMGRC-68-68-0,PAX tube,CRU,peripheral blood,12/30/2021,OLD,Core Fridge,,,
+69,0,PMGRC-146-146-0,PAX tube,Clinical Lab CNH,peripheral blood,12/10/2021,OLD,Core Fridge,,,
+70,0,PMGRC-146-146-0,purple top,Clinical Lab CNH,peripheral blood,12/10/2021,OLD,Shipped,,,
+71,2,PMGRC-147-146-2,PAX tube,Clinical Lab CNH,peripheral blood,12/10/2021,OLD,Core Fridge,,,
+72,2,PMGRC-147-146-2,purple top,Clinical Lab CNH,peripheral blood,12/10/2021,OLD,Shipped,,,
+73,1,PMGRC-157-146-1,PAX tube,CRU,peripheral blood,12/17/2021,OLD,Core Fridge,,,
+74,1,PMGRC-157-146-1,purple top,CRU,peripheral blood,12/17/2021,OLD,Shipped,,,
+75,2,PMGRC-149-148-2,purple top,CRU,peripheral blood,1/7/2022,OLD,Shipped,,,
+76,2,PMGRC-149-148-2,PAX tube,CRU,peripheral blood,1/7/2022,OLD,Core Fridge,,,
+77,1,PMGRC-150-148-1,purple top,CRU,peripheral blood,1/7/2022,OLD,Shipped,,,
+78,1,PMGRC-150-148-1,PAX tube,CRU,peripheral blood,1/7/2022,OLD,Core Fridge,,,
+79,0,PMGRC-148-148-0,purple top,CRU,peripheral blood,1/7/2022,OLD,Shipped,,,
+80,0,PMGRC-148-148-0,PAX tube,CRU,peripheral blood,1/7/2022,OLD,Core Fridge,,,
+81,2,PMGRC-168-167-2,purple top,CRU,peripheral blood,1/13/2022,OLD,Shipped,,,
+82,2,PMGRC-168-167-2,PAX tube,CRU,peripheral blood,1/13/2022,OLD,Core Fridge,,,
+83,1,PMGRC-169-167-1,purple top,CRU,peripheral blood,1/13/2022,OLD,Shipped,,,
+84,1,PMGRC-169-167-1,PAX tube,CRU,peripheral blood,1/13/2022,OLD,Core Fridge,,,
+85,0,PMGRC-167-167-0,purple top,Clinical Lab CNH,peripheral blood,1/13/2022,OLD,Shipped,,,
+86,0,PMGRC-167-167-0,PAX tube,Clinical Lab CNH,peripheral blood,1/13/2022,OLD,Core Fridge,,,
+87,0,PMGRC-13-13-0,purple top,CRU,peripheral blood,1/14/2022,OLD,Shipped,,,
+88,0,PMGRC-13-13-0,PAX tube,CRU,peripheral blood,1/14/2022,OLD,Core Fridge,,,
+89,1,PMGRC-166-164-1,purple top,CRU,peripheral blood,1/25/2022,OLD,Shipped,,,
+90,1,PMGRC-166-164-1,PAX tube,CRU,peripheral blood,1/25/2022,OLD,Core Fridge,,,
+91,2,PMGRC-165-164-2,purple top,CRU,peripheral blood,1/25/2022,OLD,Shipped,,,
+92,2,PMGRC-165-164-2,PAX tube,CRU,peripheral blood,1/25/2022,OLD,Core Fridge,,,
+93,0,PMGRC-164-164-0,purple top,CRU,peripheral blood,1/25/2022,OLD,Shipped,,,
+94,0,PMGRC-164-164-0,PAX tube,CRU,peripheral blood,1/25/2022,OLD,Core Fridge,,,
+95,0,PMGRC-81-81-0,purple top,CRU,peripheral blood,1/25/2022,OLD,Shipped,,,
+96,0,PMGRC-81-81-0,PAX tube,CRU,peripheral blood,1/25/2022,OLD,Core Fridge,,,
+97,2,PMGRC-218-81-2,purple top,CRU,peripheral blood,1/25/2022,OLD,Shipped,,,
+98,2,PMGRC-218-81-2,PAX tube,CRU,peripheral blood,1/25/2022,OLD,Core Fridge,,,
+99,0,PMGRC-206-206-0,purple top,CRU,peripheral blood,1/25/2022,OLD,Shipped,,,
+100,0,PMGRC-206-206-0,PAX tube,CRU,peripheral blood,1/25/2022,OLD,Core Fridge,,,
+101,2,PMGRC-207-206-2,purple top,CRU,peripheral blood,1/27/2022,OLD,Shipped,,,
+102,2,PMGRC-207-206-2,PAX tube,CRU,peripheral blood,1/27/2022,OLD,Core Fridge,,,
+103,0,PMGRC-5-5-0,purple top,CRU,peripheral blood,1/26/2022,OLD,Shipped,,,
+104,0,PMGRC-5-5-0,PAX tube,CRU,peripheral blood,1/26/2022,OLD,Core Fridge,,,
+105,1,PMGRC-6-5-1,purple top,CRU,peripheral blood,1/26/2022,OLD,Shipped,,,
+106,1,PMGRC-6-5-1,PAX tube,CRU,peripheral blood,1/26/2022,OLD,Core Fridge,,,
+107,2,PMGRC-7-5-2,purple top,CRU,peripheral blood,1/26/2022,OLD,Shipped,,,
+108,2,PMGRC-7-5-2,PAX tube,CRU,peripheral blood,1/26/2022,OLD,Core Fridge,,,
+109,0,PMGRC-194-194-0,purple top,CRU,peripheral blood,1/27/2022,OLD,Shipped,,,
+110,0,PMGRC-194-194-0,PAX tube,CRU,peripheral blood,1/27/2022,OLD,Core Fridge,,,
+111,1,PMGRC-229-194-1,purple top,CRU,peripheral blood,1/27/2022,OLD,Shipped,,,
+112,1,PMGRC-229-194-1,PAX tube,CRU,peripheral blood,1/27/2022,OLD,Core Fridge,,,
+113,0,PMGRC-48-48-0,purple top,Clinical Lab CNH,peripheral blood,1/28/2022,OLD,Shipped,,,
+114,0,PMGRC-48-48-0,PAX tube,Clinical Lab CNH,peripheral blood,1/28/2022,OLD,Core Fridge,,,
+115,2,PMGRC-49-48-2,purple top,CRU,peripheral blood,1/28/2022,OLD,Shipped,,,
+116,2,PMGRC-49-48-2,PAX tube,CRU,peripheral blood,1/28/2022,OLD,Core Fridge,,,
+117,0,PMGRC-79-79-0,purple top,CRU,peripheral blood,1/31/2022,OLD,Shipped,,,
+118,0,PMGRC-79-79-0,PAX tube,CRU,peripheral blood,1/31/2022,OLD,Core Fridge,,,
+119,1,PMGRC-230-79-1,purple top,CRU,peripheral blood,1/31/2022,OLD,Shipped,,,
+120,1,PMGRC-230-79-1,PAX tube,CRU,peripheral blood,1/31/2022,OLD,Core Fridge,,,
+121,2,PMGRC-231-79-2,purple top,CRU,peripheral blood,1/31/2022,OLD,Shipped,,,
+122,2,PMGRC-231-79-2,PAX tube,CRU,peripheral blood,1/31/2022,OLD,Core Fridge,,,
+123,0,PMGRC-209-209-0,purple top,Clinical Lab CNH,peripheral blood,2/1/2022,OLD,Shipped,,,
+124,0,PMGRC-209-209-0,PAX tube,Clinical Lab CNH,peripheral blood,2/1/2022,OLD,Core Fridge,,,
+125,1,PMGRC-208-209-1,purple top,CRU,peripheral blood,2/1/2022,OLD,Shipped,,,
+126,1,PMGRC-208-209-1,PAX tube,CRU,peripheral blood,2/1/2022,OLD,Core Fridge,,,
+127,1,PMGRC-128-116-1,purple top,CRU,peripheral blood,2/4/2022,OLD,Shipped,,,
+128,1,PMGRC-128-116-1,PAX tube,CRU,peripheral blood,2/4/2022,OLD,Core Fridge,,,
+129,0,PMGRC-234-234-0,purple top,Inpatient,peripheral blood,2/4/2022,OLD,Shipped,,,
+130,0,PMGRC-234-234-0,PAX tube,Inpatient,peripheral blood,2/4/2022,OLD,Core Fridge,,,
+131,0,PMGRC-82-82-0,purple top,CRU,peripheral blood,2/11/2022,OLD,Shipped,,,
+132,0,PMGRC-82-82-0,PAX tube,CRU,peripheral blood,2/11/2022,OLD,Core Fridge,,,
+133,2,PMGRC-83-82-2,purple top,CRU,peripheral blood,2/11/2022,OLD,Shipped,,,
+134,2,PMGRC-83-82-2,PAX tube,CRU,peripheral blood,2/11/2022,OLD,Core Fridge,,,
+135,1,PMGRC-84-82-1,purple top,CRU,peripheral blood,2/11/2022,OLD,Shipped,,,
+136,1,PMGRC-84-82-1,PAX tube,CRU,peripheral blood,2/11/2022,OLD,Core Fridge,,,
+137,1,PMGRC-135-107-1,purple top,CRU,peripheral blood,2/17/2022,OLD,Shipped,,,
+138,1,PMGRC-135-107-1,PAX tube,CRU,peripheral blood,2/17/2022,OLD,Core Fridge,,,
+139,0,PMGRC-107-107-0,purple top,CRU,peripheral blood,2/17/2022,OLD,Shipped,,,
+140,0,PMGRC-107-107-0,PAX tube,CRU,peripheral blood,2/17/2022,OLD,Core Fridge,,,
+141,2,PMGRC-111-107-2,purple top,CRU,peripheral blood,2/17/2022,OLD,Shipped,,,
+142,2,PMGRC-111-107-2,PAX tube,CRU,peripheral blood,2/17/2022,OLD,Core Fridge,,,
+143,2,PMGRC-47-46-2,purple top,CRU,peripheral blood,2/18/2022,OLD,Shipped,,,
+144,2,PMGRC-47-46-2,PAX tube,CRU,peripheral blood,2/18/2022,OLD,Core Fridge,,,
+145,0,PMGRC-46-46-0,purple top,CRU,peripheral blood,2/18/2022,OLD,Shipped,,,
+146,0,PMGRC-46-46-0,PAX tube,CRU,peripheral blood,2/18/2022,OLD,Core Fridge,,,
+147,1,PMGRC-241-32-1,purple top,CRU,peripheral blood,2/18/2022,OLD,Shipped,,,
+148,1,PMGRC-241-32-1,PAX tube,CRU,peripheral blood,2/18/2022,OLD,Core Fridge,,,
+149,0,PMGRC-32-32-0,purple top,CRU,peripheral blood,2/18/2022,OLD,Shipped,,,
+150,0,PMGRC-32-32-0,PAX tube,CRU,peripheral blood,2/18/2022,OLD,Core Fridge,,,
+151,2,PMGRC-31-32-2,purple top,CRU,peripheral blood,2/18/2022,OLD,Shipped,,,
+152,2,PMGRC-31-32-2,PAX tube,CRU,peripheral blood,2/18/2022,OLD,Core Fridge,,,
+153,0,PMGRC-226-226-0,purple top,CRU,peripheral blood,2/23/2022,OLD,,,,
+154,0,PMGRC-226-226-0,PAX tube,CRU,peripheral blood,2/23/2022,OLD,,,,
+155,2,PMGRC-227-226-2,purple top,CRU,peripheral blood,2/23/2022,OLD,,,,
+156,2,PMGRC-227-226-2,PAX tube,CRU,peripheral blood,2/23/2022,OLD,,,,
+157,0,PMGRC-223-223-0,buccal swab,Inpatient,,2/23/2022,OLD,Core Fridge,,,
+158,0,PMGRC-223-223-0,buccal swab,Inpatient,,2/23/2022,OLD,Core Fridge,,,
+159,2,PMGRC-224-223-2,buccal swab,Inpatient,,2/23/2022,OLD,Core Fridge,,,
+160,2,PMGRC-224-223-2,buccal swab,Inpatient,,2/23/2022,OLD,Core Fridge,,,
+161,1,PMGRC-225-223-1,buccal swab,Offsite,,,,,,,
+162,1,PMGRC-225-223-1,buccal swab,Offsite,,,,,,,
+163,0,PMGRC-108-108-0,PAX tube,CRU,peripheral blood,2/24/2022,OLD,Core Fridge,,,
+164,0,PMGRC-108-108-0,purple top,CRU,peripheral blood,2/24/2022,OLD,Shipped,,,
+165,2,PMGRC-109-108-2,PAX tube,CRU,peripheral blood,2/24/2022,OLD,Core Fridge,,,
+166,2,PMGRC-109-108-2,purple top,CRU,peripheral blood,2/24/2022,OLD,Shipped,,,
+167,1,PMGRC-110-108-1,PAX tube,CRU,peripheral blood,2/24/2022,OLD,Core Fridge,,,
+168,1,PMGRC-110-108-1,purple top,CRU,peripheral blood,2/24/2022,OLD,Shipped,,,
+169,0,PMGRC-60-60-0,PAX tube,CRU,peripheral blood,2/24/2022,OLD,Core Fridge,,,
+170,0,PMGRC-60-60-0,purple top,CRU,peripheral blood,2/24/2022,OLD,Shipped,,,
+171,3,PMGRC-59-60-3,PAX tube,CRU,peripheral blood,2/24/2022,OLD,Core Fridge,,,
+172,3,PMGRC-59-60-3,purple top,CRU,peripheral blood,2/24/2022,OLD,Shipped,,,
+173,3,PMGRC-61-60-3,PAX tube,CRU,peripheral blood,2/24/2022,OLD,Core Fridge,,,
+174,3,PMGRC-61-60-3,purple top,CRU,peripheral blood,2/24/2022,OLD,Shipped,,,
+175,3,PMGRC-62-60-3,PAX tube,CRU,peripheral blood,2/24/2022,OLD,Core Fridge,,,
+176,3,PMGRC-62-60-3,purple top,CRU,peripheral blood,2/24/2022,OLD,Shipped,,,
+177,2,PMGRC-63-60-2,PAX tube,CRU,peripheral blood,2/24/2022,OLD,Core Fridge,,,
+178,2,PMGRC-63-60-2,purple top,CRU,peripheral blood,2/24/2022,OLD,Shipped,,,
+179,1,PMGRC-64-60-1,PAX tube,CRU,peripheral blood,2/24/2022,OLD,Core Fridge,,,
+180,1,PMGRC-64-60-1,purple top,CRU,peripheral blood,2/24/2022,OLD,Shipped,,,
+181,0,PMGRC-52-52-0,PAX tube,CRU,peripheral blood,2/25/2022,OLD,Core Fridge,,,
+182,0,PMGRC-52-52-0,purple top,CRU,peripheral blood,2/25/2022,OLD,Shipped,,,
+183,0,PMGRC-186-186-0,PAX tube,CRU,peripheral blood,2/25/2022,OLD,Core Fridge,,,
+184,0,PMGRC-186-186-0,purple top,CRU,peripheral blood,2/25/2022,OLD,Shipped,,,
+185,0,PMGRC-265-265-0,PAX tube,Inpatient,peripheral blood,3/2/2022,OLD,Core Fridge,,,
+186,0,PMGRC-265-265-0,purple top,Inpatient,peripheral blood,3/2/2022,OLD,Core Fridge,,,
+187,0,PMGRC-122-122-0,PAX tube,CRU,peripheral blood,3/7/2022,OLD,Core Fridge,,,
+188,0,PMGRC-122-122-0,purple top,CRU,peripheral blood,3/7/2022,OLD,Core Fridge,,,
+189,2,PMGRC-121-122-2,PAX tube,CRU,peripheral blood,3/7/2022,OLD,Core Fridge,,,
+190,2,PMGRC-121-122-2,purple top,CRU,peripheral blood,3/7/2022,OLD,Core Fridge,,,
+191,1,PMGRC-123-122-1,PAX tube,CRU,peripheral blood,3/7/2022,OLD,Core Fridge,,,
+192,1,PMGRC-123-122-1,purple top,CRU,peripheral blood,3/7/2022,OLD,Core Fridge,,,
+193,0,PMGRC-205-205-0,PAX tube,Clinical Lab CNH,peripheral blood,3/7/2022,OLD,Core Fridge,,,
+194,0,PMGRC-205-205-0,purple top,Clinical Lab CNH,peripheral blood,3/7/2022,OLD,Core Fridge,,,
+195,0,PMGRC-239-239-0,PAX tube,CRU,peripheral blood,3/7/2022,OLD,Core Fridge,,,
+196,0,PMGRC-239-239-0,purple top,CRU,peripheral blood,3/7/2022,OLD,Core Fridge,,,
+197,0,PMGRC-240-240-0,PAX tube,CRU,peripheral blood,3/7/2022,OLD,Core Fridge,,,
+198,0,PMGRC-240-240-0,purple top,CRU,peripheral blood,3/7/2022,OLD,Core Fridge,,,
+199,2,PMGRC-249-248-2,PAX tube,CRU,peripheral blood,3/16/2022,OLD,Core Fridge,,,
+200,2,PMGRC-249-248-2,purple top,CRU,peripheral blood,3/16/2022,OLD,Core Fridge,,,
+201,0,PMGRC-248-248-0,PAX tube,Clinical Lab CNH,peripheral blood,3/16/2022,OLD,Core Fridge,,,
+202,0,PMGRC-248-248-0,purple top,Clinical Lab CNH,peripheral blood,3/16/2022,OLD,Core Fridge,,,
+203,2,PMGRC-288-289-2,buccal swab,Clinical Lab CNH,saliva,3/18/2022,OLD,Core Fridge,,,
+204,2,PMGRC-288-289-2,buccal swab,Clinical Lab CNH,saliva,3/18/2022,OLD,Core Fridge,,,
+205,0,PMGRC-289-289-0,PAX tube,CRU,peripheral blood,3/18/2022,OLD,Core Fridge,,,
+206,0,PMGRC-289-289-0,purple top,CRU,peripheral blood,3/18/2022,OLD,Core Fridge,,,
+207,1,PMGRC-290-289-1,PAX tube,CRU,peripheral blood,3/18/2022,OLD,Core Fridge,,,
+208,1,PMGRC-290-289-1,purple top,CRU,peripheral blood,3/18/2022,OLD,Core Fridge,,,
+209,0,PMGRC-294-294-0,PAX tube,CRU,peripheral blood,3/18/2022,OLD,Core Fridge,,,
+210,0,PMGRC-294-294-0,purple top,CRU,peripheral blood,3/18/2022,OLD,Core Fridge,,,
+211,2,PMGRC-295-294-2,PAX tube,CRU,peripheral blood,3/18/2022,OLD,Core Fridge,,,
+212,2,PMGRC-295-294-2,purple top,CRU,peripheral blood,3/18/2022,OLD,Core Fridge,,,
+213,0,PMGRC-279-279-0,PAX tube,CRU,peripheral blood,3/22/2022,OLD,Core Fridge,,,
+214,0,PMGRC-279-279-0,purple top,CRU,peripheral blood,3/22/2022,OLD,Core Fridge,,,
+215,2,PMGRC-282-279-2,PAX tube,CRU,peripheral blood,3/22/2022,OLD,Core Fridge,,,
+216,2,PMGRC-282-279-2,purple top,CRU,peripheral blood,3/22/2022,OLD,Core Fridge,,,
+217,1,PMGRC-283-279-1,PAX tube,CRU,peripheral blood,3/22/2022,OLD,Core Fridge,,,
+218,1,PMGRC-283-279-1,purple top,CRU,peripheral blood,3/22/2022,OLD,Core Fridge,,,
+219,0,PMGRC-175-175-0,PAX tube,CRU,peripheral blood,3/25/2022,OLD,Core Fridge,,,
+220,0,PMGRC-175-175-0,purple top,CRU,peripheral blood,3/25/2022,OLD,Core Fridge,,,
+221,2,PMGRC-174-175-2,PAX tube,CRU,peripheral blood,3/25/2022,OLD,Core Fridge,,,
+222,2,PMGRC-174-175-2,purple top,CRU,peripheral blood,3/25/2022,OLD,Core Fridge,,,
+223,1,PMGRC-173-175-1,PAX tube,CRU,peripheral blood,3/25/2022,OLD,Core Fridge,,,
+224,1,PMGRC-173-175-1,purple top,CRU,peripheral blood,3/25/2022,OLD,Core Fridge,,,
+225,0,PMGRC-299-299-0,PAX tube,CRU,peripheral blood,3/25/2022,OLD,Core Fridge,,,
+226,0,PMGRC-299-299-0,purple top,CRU,peripheral blood,3/25/2022,OLD,Core Fridge,,,
+227,2,PMGRC-300-299-2,PAX tube,CRU,peripheral blood,3/25/2022,OLD,Core Fridge,,,
+228,2,PMGRC-300-299-2,purple top,CRU,peripheral blood,3/25/2022,OLD,Core Fridge,,,
+229,0,PMGRC-191-191-0,PAX tube,CRU,peripheral blood,3/25/2022,OLD,Core Fridge,,,
+230,0,PMGRC-191-191-0,purple top,CRU,peripheral blood,3/25/2022,OLD,Core Fridge,,,
+231,2,PMGRC-192-191-2,PAX tube,CRU,peripheral blood,3/25/2022,OLD,Core Fridge,,,
+232,2,PMGRC-192-191-2,purple top,CRU,peripheral blood,3/25/2022,OLD,Core Fridge,,,
+233,1,PMGRC-193-191-1,PAX tube,CRU,peripheral blood,3/25/2022,OLD,Core Fridge,,,
+234,1,PMGRC-193-191-1,purple top,CRU,peripheral blood,3/25/2022,OLD,Core Fridge,,,
+235,0,PMGRC-220-220-0,buccal swab,Clinical Lab CNH,saliva,4/5/2022,4/12/2022,Core Fridge,,,
+236,0,PMGRC-220-220-0,buccal swab,Clinical Lab CNH,saliva,4/5/2022,4/12/2022,Core Fridge,,,
+237,2,PMGRC-221-220-2,PAX tube,CRU,peripheral blood,4/5/2022,4/12/2022,Core Fridge,,,
+238,2,PMGRC-221-220-2,purple top,CRU,peripheral blood,4/5/2022,4/12/2022,Core Fridge,,,
+239,0,PMGRC-195-195-0,PAX tube,CRU,peripheral blood,4/8/2022,4/12/2022,Core Fridge,,,
+240,0,PMGRC-195-195-0,purple top,CRU,peripheral blood,4/8/2022,4/12/2022,Core Fridge,,,
+241,3,PMGRC-196-195-3,PAX tube,CRU,peripheral blood,4/8/2022,4/12/2022,Core Fridge,,,
+242,3,PMGRC-196-195-3,purple top,CRU,peripheral blood,4/8/2022,4/12/2022,Core Fridge,,,
+243,2,PMGRC-197-195-2,PAX tube,CRU,peripheral blood,4/8/2022,4/12/2022,Core Fridge,,,
+244,2,PMGRC-197-195-2,purple top,CRU,peripheral blood,4/8/2022,4/12/2022,Core Fridge,,,
+245,1,PMGRC-198-195-1,PAX tube,CRU,peripheral blood,4/8/2022,4/12/2022,Core Fridge,,,
+246,1,PMGRC-198-195-1,purple top,CRU,peripheral blood,4/8/2022,4/12/2022,Core Fridge,,,
+247,0,PMGRC-39-39-0,PAX tube,CRU,peripheral blood,4/12/2022,4/12/2022,Core Fridge,,,
+248,0,PMGRC-39-39-0,purple top,CRU,peripheral blood,4/12/2022,4/12/2022,Core Fridge,,,
+249,2,PMGRC-37-39-2,PAX tube,CRU,peripheral blood,4/12/2022,4/12/2022,Core Fridge,,,
+250,2,PMGRC-37-39-2,purple top,CRU,peripheral blood,4/12/2022,4/12/2022,Core Fridge,,,
+251,1,PMGRC-38-39-1,PAX tube,CRU,peripheral blood,4/12/2022,4/12/2022,Core Fridge,,,
+252,1,PMGRC-38-39-1,purple top,CRU,peripheral blood,4/12/2022,4/12/2022,Core Fridge,,,
+253,0,PMGRC-333-333-0,PAX tube,CRU,peripheral blood,4/12/2022,4/12/2022,Core Fridge,,,
+254,0,PMGRC-333-333-0,purple top,CRU,peripheral blood,4/12/2022,4/12/2022,Core Fridge,,,
+255,0,PMGRC-296-296-0,PAX tube,CRU,peripheral blood,4/18/2022,4/20/2022,Core Fridge,,,
+256,0,PMGRC-296-296-0,purple top,CRU,peripheral blood,4/18/2022,4/20/2022,Core Fridge,,,
+257,2,PMGRC-297-296-2,PAX tube,CRU,peripheral blood,4/18/2022,4/20/2022,Core Fridge,,,
+258,2,PMGRC-297-296-2,purple top,CRU,peripheral blood,4/18/2022,4/20/2022,Core Fridge,,,
+259,1,PMGRC-298-296-1,PAX tube,CRU,peripheral blood,4/18/2022,4/20/2022,Core Fridge,,,
+260,1,PMGRC-298-296-1,purple top,CRU,peripheral blood,4/18/2022,4/20/2022,Core Fridge,,,
+261,0,PMGRC-53-53-0,PAX tube,CRU,peripheral blood,4/19/2022,4/20/2022,Core Fridge,,,
+262,0,PMGRC-53-53-0,purple top,CRU,peripheral blood,4/19/2022,4/20/2022,Core Fridge,,,
+263,1,PMGRC-55-53-1,PAX tube,CRU,peripheral blood,4/19/2022,4/20/2022,Core Fridge,,,
+264,1,PMGRC-55-53-1,purple top,CRU,peripheral blood,4/19/2022,4/20/2022,Core Fridge,,,
+265,2,PMGRC-57-53-2,PAX tube,CRU,peripheral blood,4/19/2022,4/20/2022,Core Fridge,,,
+266,2,PMGRC-57-53-2,purple top,CRU,peripheral blood,4/19/2022,4/20/2022,Core Fridge,,,
+267,0,PMGRC-302-302-0,PAX tube,CRU,peripheral blood,4/19/2022,4/20/2022,Core Fridge,,,
+268,0,PMGRC-302-302-0,purple top,CRU,peripheral blood,4/19/2022,4/20/2022,Core Fridge,,,
+269,0,PMGRC-170-170-0,PAX tube,Clinical Lab CNH,peripheral blood,4/20/2022,4/20/2022,Core Fridge,,,
+270,0,PMGRC-170-170-0,purple top,Clinical Lab CNH,peripheral blood,4/20/2022,4/20/2022,Core Fridge,,,
+271,0,PMGRC-312-312-0,PAX tube,CRU,peripheral blood,4/20/2022,4/20/2022,Core Fridge,,,
+272,0,PMGRC-312-312-0,purple top,CRU,peripheral blood,4/20/2022,4/20/2022,Core Fridge,,,
+273,1,PMGRC-311-312-1,PAX tube,CRU,peripheral blood,4/20/2022,4/20/2022,Core Fridge,,,
+274,1,PMGRC-311-312-1,purple top,CRU,peripheral blood,4/20/2022,5/3/2022,Core Fridge,,,
+275,1,PMGRC-342-345-1,PAX tube,CRU,peripheral blood,4/28/2022,5/3/2022,Core Fridge,,,
+276,1,PMGRC-342-345-1,purple top,CRU,peripheral blood,4/28/2022,5/3/2022,Core Fridge,,,
+277,3,PMGRC-344-345-3,PAX tube,CRU,peripheral blood,4/28/2022,5/3/2022,Core Fridge,,,
+278,3,PMGRC-344-345-3,purple top,CRU,peripheral blood,4/28/2022,5/3/2022,Core Fridge,,,
+279,0,PMGRC-366-366-0,PAX tube,CRU,peripheral blood,4/29/2022,5/3/2022,Core Fridge,,,
+280,0,PMGRC-366-366-0,purple top,CRU,peripheral blood,4/29/2022,5/3/2022,Core Fridge,,,
+281,2,PMGRC-367-366-2,PAX tube,CRU,peripheral blood,4/29/2022,5/3/2022,Core Fridge,,,
+282,2,PMGRC-367-366-2,purple top,CRU,peripheral blood,4/29/2022,5/3/2022,Core Fridge,,,
+283,1,PMGRC-368-366-1,PAX tube,CRU,peripheral blood,4/29/2022,5/3/2022,Core Fridge,,,
+284,1,PMGRC-368-366-1,purple top,CRU,peripheral blood,4/29/2022,5/3/2022,Core Fridge,,,
+285,0,PMGRC-217-217-0,PAX tube,CRU,peripheral blood,5/3/2022,5/23/2022,Core Fridge,,,
+286,0,PMGRC-217-217-0,purple top,CRU,peripheral blood,5/3/2022,5/23/2022,Core Fridge,,,
+287,1,PMGRC-237-217-1,PAX tube,CRU,peripheral blood,5/3/2022,5/23/2022,Core Fridge,,,
+288,1,PMGRC-237-217-1,purple top,CRU,peripheral blood,5/3/2022,5/23/2022,Core Fridge,,,
+289,2,PMGRC-238-217-2,PAX tube,CRU,peripheral blood,5/3/2022,5/23/2022,Core Fridge,,,
+290,2,PMGRC-238-217-2,purple top,CRU,peripheral blood,5/3/2022,5/23/2022,Core Fridge,,,
+291,0,PMGRC-220-220-0,PAX tube,Inpatient,peripheral blood,5/10/2022,5/23/2022,Core Fridge,,,
+292,1,PMGRC-354-355-1,PAX tube,CRU,peripheral blood,5/12/2022,5/23/2022,Core Fridge,,,
+293,1,PMGRC-354-355-1,purple top,CRU,peripheral blood,5/12/2022,5/23/2022,Core Fridge,,,
+294,0,PMGRC-355-355-0,PAX tube,CRU,peripheral blood,5/12/2022,5/23/2022,Core Fridge,,,
+295,0,PMGRC-355-355-0,purple top,CRU,peripheral blood,5/12/2022,5/23/2022,Core Fridge,,,
+296,2,PMGRC-356-355-2,PAX tube,CRU,peripheral blood,5/12/2022,5/23/2022,Core Fridge,,,
+297,2,PMGRC-356-355-2,purple top,CRU,peripheral blood,5/12/2022,5/23/2022,Core Fridge,,,
+298,0,PMGRC-161-161-0,PAX tube,CRU,peripheral blood,5/20/2022,5/23/2022,Core Fridge,,,
+299,0,PMGRC-161-161-0,purple top,CRU,peripheral blood,5/20/2022,5/23/2022,Core Fridge,,,
+300,2,PMGRC-162-161-2,PAX tube,CRU,peripheral blood,5/20/2022,5/23/2022,Core Fridge,,,
+301,2,PMGRC-162-161-2,purple top,CRU,peripheral blood,5/20/2022,5/23/2022,Core Fridge,,,
+302,1,PMGRC-163-161-1,PAX tube,CRU,peripheral blood,5/20/2022,5/23/2022,Core Fridge,,,
+303,1,PMGRC-163-161-1,purple top,CRU,peripheral blood,5/20/2022,5/23/2022,Core Fridge,,,
+304,0,PMGRC-291-291-0,PAX tube,Clinical Lab CNH,peripheral blood,5/20/2022,5/23/2022,Core Fridge,,,
+305,0,PMGRC-291-291-0,purple top,Clinical Lab CNH,peripheral blood,5/20/2022,5/23/2022,Core Fridge,,,
+306,2,PMGRC-292-291-2,PAX tube,CRU,peripheral blood,5/20/2022,5/23/2022,Core Fridge,,,
+307,2,PMGRC-292-291-2,purple top,CRU,peripheral blood,5/20/2022,5/23/2022,Core Fridge,,,
+308,1,PMGRC-293-291-1,PAX tube,CRU,peripheral blood,5/20/2022,5/23/2022,Core Fridge,,,
+309,1,PMGRC-293-291-1,purple top,CRU,peripheral blood,5/20/2022,5/23/2022,Core Fridge,,,
+310,2,PMGRC-376-375-2,PAX tube,CRU,peripheral blood,5/20/2022,5/23/2022,Core Fridge,,,
+311,2,PMGRC-376-375-2,purple top,CRU,peripheral blood,5/20/2022,5/23/2022,Core Fridge,,,
+312,1,PMGRC-171-170-1,PAX tube,CRU,peripheral blood,5/23/2022,6/9/2022,Core Fridge,,,
+313,1,PMGRC-171-170-1,purple top,CRU,peripheral blood,5/23/2022,6/9/2022,Core Fridge,,,
+314,2,PMGRC-172-170-2,PAX tube,CRU,peripheral blood,5/23/2022,6/9/2022,Core Fridge,,,
+315,2,PMGRC-172-170-2,purple top,CRU,peripheral blood,5/23/2022,6/9/2022,Core Fridge,,,
+316,1,PMGRC-377-375-1,PAX tube,CRU,peripheral blood,5/31/2022,6/9/2022,Core Fridge,,,
+317,1,PMGRC-377-375-1,purple top,CRU,peripheral blood,5/31/2022,6/9/2022,Core Fridge,,,
+318,0,PMGRC-401-401-0,PAX tube,Clinical Lab CNH,peripheral blood,6/9/2022,6/15/2022,Core Fridge,,,
+319,0,PMGRC-401-401-0,purple top,Clinical Lab CNH,peripheral blood,6/9/2022,6/15/2022,Core Fridge,,,
+320,0,PMGRC-401-401-0,purple top,Clinical Lab CNH,peripheral blood,6/9/2022,6/15/2022,Core Fridge,,,
+321,2,PMGRC-402-401-2,PAX tube,Clinical Lab CNH,peripheral blood,6/9/2022,6/15/2022,Core Fridge,,,
+322,2,PMGRC-402-401-2,purple top,Clinical Lab CNH,peripheral blood,6/9/2022,6/15/2022,Core Fridge,,,
+323,2,PMGRC-402-401-2,purple top,Clinical Lab CNH,peripheral blood,6/9/2022,6/15/2022,Core Fridge,,,
+324,1,PMGRC-406-401-1,PAX tube,Clinical Lab CNH,peripheral blood,6/9/2022,6/15/2022,Core Fridge,,,
+325,1,PMGRC-406-401-1,purple top,Clinical Lab CNH,peripheral blood,6/9/2022,6/15/2022,Core Fridge,,,
+326,1,PMGRC-406-401-1,purple top,Clinical Lab CNH,peripheral blood,6/9/2022,6/15/2022,Core Fridge,,,
+327,0,PMGRC-372-372-0,PAX tube,Clinical Lab CNH,peripheral blood,6/14/2022,6/15/2022,Core Fridge,,,
+328,0,PMGRC-372-372-0,purple top,Clinical Lab CNH,peripheral blood,6/14/2022,6/15/2022,Core Fridge,,,
+329,2,PMGRC-373-372-2,PAX tube,CRU,peripheral blood,6/14/2022,6/15/2022,Core Fridge,,,
+330,2,PMGRC-373-372-2,purple top,CRU,peripheral blood,6/14/2022,6/15/2022,Core Fridge,,,
+331,1,PMGRC-374-372-1,PAX tube,CRU,peripheral blood,6/14/2022,6/15/2022,Core Fridge,,,
+332,1,PMGRC-374-372-1,purple top,CRU,peripheral blood,6/14/2022,6/15/2022,Core Fridge,,,
+333,1,PMGRC-380-381-1,PAX tube,CRU,peripheral blood,6/14/2022,6/15/2022,Core Fridge,,,
+334,1,PMGRC-380-381-1,purple top,CRU,peripheral blood,6/14/2022,6/15/2022,Core Fridge,,,
+335,2,PMGRC-379-381-2,PAX tube,CRU,peripheral blood,6/14/2022,6/15/2022,Core Fridge,,,
+336,2,PMGRC-379-381-2,purple top,CRU,peripheral blood,6/14/2022,6/15/2022,Core Fridge,,,
+337,0,PMGRC-381-381-0,PAX tube,CRU,peripheral blood,6/14/2022,6/15/2022,Core Fridge,,,
+338,0,PMGRC-381-381-0,purple top,CRU,peripheral blood,6/14/2022,6/15/2022,Core Fridge,,,
+339,0,PMGRC-346-346-0,PAX tube,CRU,peripheral blood,6/15/2022,6/15/2022,Core Fridge,,,
+340,0,PMGRC-346-346-0,purple top,CRU,peripheral blood,6/15/2022,6/15/2022,Core Fridge,,,
+341,3,PMGRC-347-346-3,PAX tube,CRU,peripheral blood,6/15/2022,6/15/2022,Core Fridge,,,
+342,3,PMGRC-347-346-3,purple top,CRU,peripheral blood,6/15/2022,6/15/2022,Core Fridge,,,
+343,3,PMGRC-348-346-3,PAX tube,CRU,peripheral blood,6/15/2022,6/15/2022,Core Fridge,,,
+344,3,PMGRC-348-346-3,purple top,CRU,peripheral blood,6/15/2022,6/15/2022,Core Fridge,,,
+345,2,PMGRC-349-346-2,PAX tube,CRU,peripheral blood,6/15/2022,6/15/2022,Core Fridge,,,
+346,2,PMGRC-349-346-2,purple top,CRU,peripheral blood,6/15/2022,6/15/2022,Core Fridge,,,
+347,1,PMGRC-350-346-1,PAX tube,CRU,peripheral blood,6/15/2022,6/15/2022,Core Fridge,,,
+348,1,PMGRC-350-346-1,purple top,CRU,peripheral blood,6/15/2022,6/15/2022,Core Fridge,,,
+349,0,PMGRC-418-418-0,buccal swab,Offsite,saliva,6/15/2022,6/16/2022,Core Fridge,,,
+350,0,PMGRC-418-418-0,buccal swab,Offsite,saliva,6/15/2022,6/16/2022,Core Fridge,,,
+351,2,PMGRC-441-440-2,purple top,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+352,0,PMGRC-445-445-0,purple top,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+353,0,PMGRC-445-445-0,PAX tube,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+354,1,PMGRC-450-445-1,purple top,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+355,1,PMGRC-450-445-1,PAX tube,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+356,2,PMGRC-455-454-2,purple top,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+357,2,PMGRC-455-454-2,PAX tube,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+358,2,PMGRC-422-421-2,buccal swab,Offsite,saliva,6/15/2022,6/16/2022,Core Fridge,,,
+359,2,PMGRC-422-421-2,buccal swab,Offsite,saliva,6/15/2022,6/16/2022,Core Fridge,,,
+360,0,PMGRC-454-454-0,buccal swab,Offsite,saliva,6/15/2022,6/16/2022,Core Fridge,,,
+361,0,PMGRC-454-454-0,buccal swab,Offsite,saliva,6/15/2022,6/16/2022,Core Fridge,,,
+362,2,PMGRC-447-446-2,purple top,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+363,2,PMGRC-447-446-2,PAX tube,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+364,0,PMGRC-417-417-0,purple top,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+365,0,PMGRC-417-417-0,PAX tube,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+366,2,PMGRC-419-418-2,purple top,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+367,2,PMGRC-419-418-2,PAX tube,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+368,0,PMGRC-440-440-0,purple top,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+369,0,PMGRC-440-440-0,PAX tube,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+370,2,PMGRC-414-417-2,purple top,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+371,2,PMGRC-414-417-2,PAX tube,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+372,1,PMGRC-415-417-1,purple top,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+373,1,PMGRC-415-417-1,PAX tube,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+374,1,PMGRC-425-423-1,purple top,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+375,1,PMGRC-425-423-1,PAX tube,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+376,0,PMGRC-431-431-0,purple top,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+377,0,PMGRC-431-431-0,PAX tube,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+378,2,PMGRC-412-411-2,purple top,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+379,2,PMGRC-412-411-2,PAX tube,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+380,0,PMGRC-423-423-0,purple top,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+381,0,PMGRC-423-423-0,PAX tube,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+382,2,PMGRC-433-431-2,purple top,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+383,2,PMGRC-433-431-2,PAX tube,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+384,2,PMGRC-435-434-2,purple top,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+385,2,PMGRC-435-434-2,PAX tube,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+386,3,PMGRC-416-417-3,buccal swab,Offsite,saliva,6/15/2022,6/16/2022,Core Fridge,,,
+387,3,PMGRC-416-417-3,buccal swab,Offsite,saliva,6/15/2022,6/16/2022,Core Fridge,,,
+388,3,PMGRC-416-417-3,PAX tube,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+389,1,PMGRC-442-440-1,purple top,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+390,1,PMGRC-442-440-1,PAX tube,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+391,0,PMGRC-451-451-0,purple top,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+392,1,PMGRC-448-446-1,PAX tube,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+393,1,PMGRC-448-446-1,purple top,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+394,0,PMGRC-446-446-0,buccal swab,Offsite,saliva,6/15/2022,6/16/2022,Core Fridge,,,
+395,0,PMGRC-446-446-0,buccal swab,Offsite,saliva,6/15/2022,6/16/2022,Core Fridge,,,
+396,0,PMGRC-446-446-0,purple top,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+397,2,PMGRC-410-408-2,buccal swab,Offsite,saliva,6/15/2022,6/16/2022,Core Fridge,,,
+398,2,PMGRC-435-434-2,purple top,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+399,2,PMGRC-435-434-2,PAX tube,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+400,0,PMGRC-411-411-0,purple top,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+401,0,PMGRC-411-411-0,PAX tube,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+402,0,PMGRC-421-421-0,buccal swab,Offsite,saliva,6/15/2022,6/16/2022,Core Fridge,,,
+403,0,PMGRC-421-421-0,buccal swab,Offsite,saliva,6/15/2022,6/16/2022,Core Fridge,,,
+404,2,PMGRC-449-445-2,purple top,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+405,2,PMGRC-449-445-2,PAX tube,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+406,1,PMGRC-428-426-1,purple top,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+407,1,PMGRC-428-426-1,PAX tube,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+408,0,PMGRC-426-426-0,purple top,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+409,2,PMGRC-424-423-2,PAX tube,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+410,2,PMGRC-424-423-2,purple top,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+411,1,PMGRC-409-408-1,buccal swab,Offsite,saliva,6/15/2022,6/16/2022,Core Fridge,,,
+412,0,PMGRC-437-437-0,PAX tube,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+413,0,PMGRC-437-437-0,purple top,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+414,1,PMGRC-453-451-1,PAX tube,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+415,1,PMGRC-453-451-1,purple top,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+416,2,PMGRC-439-437-2,PAX tube,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+417,2,PMGRC-439-437-2,purple top,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+418,2,PMGRC-452-451-2,PAX tube,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+419,2,PMGRC-452-451-2,purple top,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+420,2,PMGRC-427-426-2,PAX tube,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+421,2,PMGRC-427-426-2,purple top,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+422,2,PMGRC-430-429-2,purple top,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+423,1,PMGRC-438-437-1,purple top,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+424,1,PMGRC-438-437-1,PAX tube,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+425,0,PMGRC-429-429-0,purple top,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+426,0,PMGRC-429-429-0,PAX tube,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+427,1,PMGRC-432-431-1,purple top,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+428,1,PMGRC-432-431-1,PAX tube,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+429,2,PMGRC-444-443-2,purple top,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+430,2,PMGRC-444-443-2,PAX tube,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+431,0,PMGRC-443-443-0,purple top,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+432,0,PMGRC-443-443-0,PAX tube,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+433,1,PMGRC-420-418-1,purple top,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+434,1,PMGRC-420-418-1,PAX tube,Offsite,peripheral blood,6/15/2022,6/16/2022,Core Fridge,,,
+435,0,PMGRC-104-104-0,purple top,Outpatient,peripheral blood,6/22/2022,6/22/2022,Core Fridge,,,
+436,0,PMGRC-104-104-0,PAX tube,Outpatient,peripheral blood,6/22/2022,6/22/2022,Core Fridge,,,
+437,2,PMGRC-138-104-2,purple top,Outpatient,peripheral blood,6/22/2022,6/22/2022,Core Fridge,,,
+438,2,PMGRC-138-104-2,PAX tube,Outpatient,peripheral blood,6/22/2022,6/22/2022,Core Fridge,,,
+439,0,PMGRC-462-462-0,purple top,Clinical Lab CNH,peripheral blood,6/24/2022,6/28/22,Core Fridge,,,
+440,0,PMGRC-462-462-0,PAX tube,Clinical Lab CNH,peripheral blood,6/24/2022,6/28/22,Core Fridge,,,
+441,2,PMGRC-464-462-2,buccal swab,Outpatient,saliva,6/24/2022,6/28/22,Core Fridge,,,
+442,2,PMGRC-464-462-2,buccal swab,Outpatient,saliva,6/24/2022,6/28/22,Core Fridge,,,
+443,1,PMGRC-463-462-1,buccal swab,Outpatient,saliva,6/24/2022,6/28/22,Core Fridge,,,
+444,1,PMGRC-463-462-1,buccal swab,Outpatient,saliva,6/24/2022,6/28/22,Core Fridge,,,
+445,2,PMGRC-465-466-2,purple top,CRU,peripheral blood,6/28/22,6/28/22,Core Fridge,,,
+446,2,PMGRC-465-466-2,purple top,CRU,peripheral blood,6/28/22,6/28/22,Core Fridge,,,
+447,2,PMGRC-465-466-2,PAX tube,CRU,peripheral blood,6/28/22,6/28/22,Core Fridge,,,
+448,1,PMGRC-469-466-1,purple top,CRU,peripheral blood,6/28/22,6/28/22,Core Fridge,,,
+449,1,PMGRC-469-466-1,purple top,CRU,peripheral blood,6/28/22,6/28/22,Core Fridge,,,
+450,1,PMGRC-469-466-1,PAX tube,CRU,peripheral blood,6/28/22,6/28/22,Core Fridge,,,
+451,2,PMGRC-321-323-2,purple top,CRU,peripheral blood,6/30/2022,7/8/22,Core Fridge,,,
+452,2,PMGRC-321-323-2,PAX tube,CRU,peripheral blood,6/30/2022,7/8/22,Core Fridge,,,
+453,1,PMGRC-322-323-1,purple top,CRU,peripheral blood,6/30/2022,7/8/22,Core Fridge,,,
+454,1,PMGRC-322-323-1,PAX tube,CRU,peripheral blood,6/30/2022,7/8/22,Core Fridge,,,
+455,0,PMGRC-323-323-0,purple top,CRU,peripheral blood,6/30/2022,7/8/22,Core Fridge,,,
+456,0,PMGRC-323-323-0,PAX tube,CRU,peripheral blood,6/30/2022,7/8/22,Core Fridge,,,
+457,2,PMGRC-393-392-2,purple top,CRU,peripheral blood,6/30/2022,7/8/22,Core Fridge,,,
+458,2,PMGRC-393-392-2,PAX tube,CRU,peripheral blood,6/30/2022,7/8/22,Core Fridge,,,
+459,0,PMGRC-392-392-0,purple top,CRU,peripheral blood,6/30/2022,7/8/22,Core Fridge,,,
+460,0,PMGRC-392-392-0,PAX tube,CRU,peripheral blood,6/30/2022,7/8/22,Core Fridge,,,
+461,0,PMGRC-176-176-0,purple top,CRU,peripheral blood,6/30/2022,7/8/22,Core Fridge,,,
+462,0,PMGRC-176-176-0,PAX tube,CRU,peripheral blood,6/30/2022,7/8/22,Core Fridge,,,
+463,2,PMGRC-177-176-2,purple top,CRU,peripheral blood,6/30/2022,7/8/22,Core Fridge,,,
+464,2,PMGRC-177-176-2,PAX tube,CRU,peripheral blood,6/30/2022,7/8/22,Core Fridge,,,
+465,0,PMGRC-233-233-0,purple top,CRU,peripheral blood,7/5/2022,7/13/22,Core Fridge,,,
+466,0,PMGRC-233-233-0,PAX tube,CRU,peripheral blood,7/5/2022,7/13/22,Core Fridge,,,
+467,0,PMGRC-388-388-0,purple top,CRU,peripheral blood,7/7/2022,7/13/22,Core Fridge,,,
+468,0,PMGRC-388-388-0,PAX tube,CRU,peripheral blood,7/7/2022,7/13/22,Core Fridge,,,
+469,2,PMGRC-389-388-2,purple top,CRU,peripheral blood,7/7/2022,7/13/22,Core Fridge,,,
+470,2,PMGRC-389-388-2,PAX tube,CRU,peripheral blood,7/7/2022,7/13/22,Core Fridge,,,
+471,1,PMGRC-390-388-1,purple top,CRU,peripheral blood,7/8/2022,7/13/22,Core Fridge,,,
+472,1,PMGRC-390-388-1,PAX tube,CRU,peripheral blood,7/8/2022,7/13/22,Core Fridge,,,
+473,0,PMGRC-351-351-0,purple top,CRU,peripheral blood,7/12/2022,7/13/22,Core Fridge,,,
+474,0,PMGRC-351-351-0,PAX tube,CRU,peripheral blood,7/12/2022,7/13/22,Core Fridge,,,
+475,1,PMGRC-352-351-1,purple top,CRU,peripheral blood,7/12/2022,7/13/22,Core Fridge,,,
+476,1,PMGRC-352-351-1,PAX tube,CRU,peripheral blood,7/12/2022,7/13/22,Core Fridge,,,
+477,2,PMGRC-353-351-2,purple top,CRU,peripheral blood,7/12/2022,7/13/22,Core Fridge,,,
+478,2,PMGRC-353-351-2,PAX tube,CRU,peripheral blood,7/12/2022,7/13/22,Core Fridge,,,
+479,0,PMGRC-478-478-0,purple top,CRU,peripheral blood,7/12/2022,7/13/22,Core Fridge,,,
+480,0,PMGRC-478-478-0,PAX tube,CRU,peripheral blood,7/12/2022,7/13/22,Core Fridge,,,
+481,2,PMGRC-479-478-2,purple top,CRU,peripheral blood,7/12/2022,7/13/22,Core Fridge,,,
+482,2,PMGRC-479-478-2,PAX tube,CRU,peripheral blood,7/12/2022,7/13/22,Core Fridge,,,
+483,1,PMGRC-394-392-1,purple top,CRU,peripheral blood,7/19/2022,7/20/22,Core Fridge,,,
+484,1,PMGRC-394-392-1,PAX tube,CRU,peripheral blood,7/19/2022,7/20/22,Core Fridge,,,
+485,0,PMGRC-382-382-0,purple top,CRU,peripheral blood,7/14/2022,7/20/22,Core Fridge,,,
+486,0,PMGRC-382-382-0,PAX tube,CRU,peripheral blood,7/14/2022,7/20/22,Core Fridge,,,
+487,1,PMGRC-384-382-1,purple top,CRU,peripheral blood,7/14/2022,7/20/22,Core Fridge,,,
+488,1,PMGRC-384-382-1,PAX tube,CRU,peripheral blood,7/14/2022,7/20/22,Core Fridge,,,
+489,2,PMGRC-383-382-2,purple top,CRU,peripheral blood,7/14/2022,7/20/22,Core Fridge,,,
+490,2,PMGRC-383-382-2,PAX tube,CRU,peripheral blood,7/14/2022,7/20/22,Core Fridge,,,
+491,1,PMGRC-384-382-1,purple top,CRU,peripheral blood,7/14/2022,7/20/2022,,,,
+492,1,PMGRC-384-382-1,PAX tube,CRU,peripheral blood,7/14/2022,7/20/2022,,,,
+493,1,PMGRC-394-392-1,purple top,CRU,peripheral blood,7/19/2022,7/20/2022,,,,
+494,1,PMGRC-394-392-1,PAX tube,CRU,peripheral blood,7/19/2022,7/20/2022,,,,
+495,0,PMGRC-129-129-0,purple top,Clinical Lab CNH,peripheral blood,7/20/2022,,,,,
+496,0,PMGRC-129-129-0,PAX tube,Clinical Lab CNH,peripheral blood,7/20/2022,,,,,
+497,0,PMGRC-403-403-0,purple top,Offsite,peripheral blood,7/20/2022,7/21/2022,,,,
+498,0,PMGRC-403-403-0,PAX tube,Offsite,peripheral blood,7/20/2022,7/21/2022,,,,
+499,1,PMGRC-404-403-1,purple top,Offsite,peripheral blood,7/20/2022,7/21/2022,,,,
+500,1,PMGRC-404-403-1,PAX tube,Offsite,peripheral blood,7/20/2022,7/21/2022,,,,
+501,2,PMGRC-405-403-2,purple top,Offsite,peripheral blood,7/20/2022,7/21/2022,,,,
+502,2,PMGRC-405-403-2,PAX tube,Offsite,peripheral blood,7/20/2022,7/21/2022,,,,
+503,0,PMGRC-136-136-0,purple top,CRU,peripheral blood,7/25/2022,8/5/2022,Core Fridge,,,
+504,0,PMGRC-136-136-0,PAX tube,CRU,peripheral blood,7/25/2022,8/5/2022,Core Fridge,,,
+505,0,PMGRC-459-459-0,purple top,CRU,peripheral blood,7/29/2022,8/5/2022,Core Fridge,,,
+506,0,PMGRC-459-459-0,PAX tube,CRU,peripheral blood,7/29/2022,8/5/2022,Core Fridge,,,
+507,2,PMGRC-460-459-2,purple top,CRU,peripheral blood,7/29/2022,8/5/2022,Core Fridge,,,
+508,2,PMGRC-460-459-2,PAX tube,CRU,peripheral blood,7/29/2022,8/5/2022,Core Fridge,,,
+509,1,PMGRC-461-459-1,purple top,CRU,peripheral blood,7/29/2022,8/5/2022,Core Fridge,,,
+510,1,PMGRC-461-459-1,PAX tube,CRU,peripheral blood,7/29/2022,8/5/2022,Core Fridge,,,
+511,2,PMGRC-313-316-2,PAX tube,CRU,peripheral blood,8/16/2022,8/19/2022,Core Fridge,,,
+512,2,PMGRC-313-316-2,purple top,CRU,peripheral blood,8/16/2022,8/19/2022,Core Fridge,,,
+513,1,PMGRC-314-316-1,PAX tube,CRU,peripheral blood,8/16/2022,8/19/2022,Core Fridge,,,
+514,1,PMGRC-314-316-1,purple top,CRU,peripheral blood,8/16/2022,8/19/2022,Core Fridge,,,
+515,3,PMGRC-315-316-3,PAX tube,CRU,peripheral blood,8/16/2022,8/19/2022,Core Fridge,,,
+516,3,PMGRC-315-316-3,purple top,CRU,peripheral blood,8/16/2022,8/19/2022,Core Fridge,,,
+517,0,PMGRC-316-316-0,PAX tube,CRU,peripheral blood,8/16/2022,8/19/2022,Core Fridge,,,
+518,0,PMGRC-316-316-0,purple top,CRU,peripheral blood,8/16/2022,8/19/2022,Core Fridge,,,
+519,0,PMGRC-158-158-0,PAX tube,Clinical Lab CNH,peripheral blood,8/17/2022,8/19/2022,Core Fridge,,,
+520,0,PMGRC-158-158-0,purple top,Clinical Lab CNH,peripheral blood,8/17/2022,8/19/2022,Core Fridge,,,
+521,2,PMGRC-159-158-2,PAX tube,CRU,peripheral blood,8/17/2022,8/19/2022,Core Fridge,,,
+522,2,PMGRC-159-158-2,purple top,CRU,peripheral blood,8/17/2022,8/19/2022,Core Fridge,,,
+523,1,PMGRC-160-158-1,PAX tube,CRU,peripheral blood,8/17/2022,8/19/2022,Core Fridge,,,
+524,1,PMGRC-160-158-1,purple top,CRU,peripheral blood,8/17/2022,8/19/2022,Core Fridge,,,
+525,0,PMGRC-124-124-0,PAX tube,CRU,peripheral blood,8/24/2022,8/25/2022,Core Fridge,,,
+526,0,PMGRC-124-124-0,purple top,CRU,peripheral blood,8/24/2022,8/25/2022,Core Fridge,,,
+527,0,PMGRC-363-363-0,PAX tube,CRU,peripheral blood,8/19/2022,8/25/2022,Core Fridge,,,
+528,0,PMGRC-363-363-0,purple top,CRU,peripheral blood,8/19/2022,8/25/2022,Core Fridge,,,
+529,2,PMGRC-364-363-2,PAX tube,CRU,peripheral blood,8/19/2022,8/25/2022,Core Fridge,,,
+530,2,PMGRC-364-363-2,purple top,CRU,peripheral blood,8/19/2022,8/25/2022,Core Fridge,,,
+531,1,PMGRC-365-363-1,PAX tube,CRU,peripheral blood,8/19/2022,8/25/2022,Core Fridge,,,
+532,1,PMGRC-365-363-1,purple top,CRU,peripheral blood,8/19/2022,8/25/2022,Core Fridge,,,
+533,1,PMGRC-491-493-1,PAX tube,CRU,peripheral blood,9/6/2022,9/8/22,Core Fridge,,,
+534,1,PMGRC-491-493-1,purple top,CRU,peripheral blood,9/6/2022,9/8/22,Core Fridge,,,
+535,2,PMGRC-492-493-2,PAX tube,CRU,peripheral blood,9/6/2022,9/8/22,Core Fridge,,,
+536,2,PMGRC-492-493-2,purple top,CRU,peripheral blood,9/6/2022,9/8/22,Core Fridge,,,
+537,0,PMGRC-522-522-0,PAX tube,CRU,peripheral blood,9/2/2022,9/8/22,Core Fridge,,,
+538,0,PMGRC-522-522-0,purple top,CRU,peripheral blood,9/2/2022,9/8/22,Core Fridge,,,
+539,2,PMGRC-521-522-2,PAX tube,CRU,peripheral blood,9/2/2022,9/8/22,Core Fridge,,,
+540,2,PMGRC-521-522-2,purple top,CRU,peripheral blood,9/2/2022,9/8/22,Core Fridge,,,
+541,0,PMGRC-281-281-0,PAX tube,CRU,peripheral blood,8/25/2022,9/8/22,Core Fridge,,,
+542,0,PMGRC-281-281-0,purple top,CRU,peripheral blood,8/25/2022,9/8/22,Core Fridge,,,
+543,2,PMGRC-523-281-2,PAX tube,CRU,peripheral blood,8/25/2022,9/8/22,Core Fridge,,,
+544,2,PMGRC-523-281-2,purple top,CRU,peripheral blood,8/25/2022,9/8/22,Core Fridge,,,
+545,0,PMGRC-188-188-0,buccal swab,Offsite,saliva,9/7/2022,9/8/22,Core Fridge,,,
+546,0,PMGRC-188-188-0,buccal swab,Offsite,saliva,9/7/2022,9/8/22,Core Fridge,,,
+547,2,PMGRC-189-188-2,buccal swab,Offsite,saliva,9/6/2022,9/8/22,Core Fridge,,,
+548,2,PMGRC-189-188-2,buccal swab,Offsite,saliva,9/6/2022,9/8/22,Core Fridge,,,
+549,1,PMGRC-190-188-1,buccal swab,Offsite,saliva,9/6/2022,9/8/22,Core Fridge,,,
+550,1,PMGRC-190-188-1,buccal swab,Offsite,saliva,9/6/2022,9/8/22,Core Fridge,,,
+551,0,PMGRC-266-266-0,buccal swab,Offsite,saliva,9/5/2022,9/8/22,Core Fridge,,,
+552,0,PMGRC-266-266-0,buccal swab,Offsite,saliva,9/5/2022,9/8/22,Core Fridge,,,
+553,2,PMGRC-267-266-2,buccal swab,Offsite,saliva,9/5/2022,9/8/22,Core Fridge,,,
+554,2,PMGRC-267-266-2,buccal swab,Offsite,saliva,9/5/2022,9/8/22,Core Fridge,,,
+555,1,PMGRC-268-266-1,buccal swab,Offsite,saliva,9/5/2022,9/8/22,Core Fridge,,,
+556,1,PMGRC-268-266-1,buccal swab,Offsite,saliva,9/5/2022,9/8/22,Core Fridge,,,
+557,0,PMGRC-232-232-0,buccal swab,Offsite,saliva,9/10/2022,9/13/2022,Core Fridge,,,
+558,0,PMGRC-232-232-0,buccal swab,Offsite,saliva,9/10/2022,9/13/2022,Core Fridge,,,
+559,0,PMGRC-467-467-0,buccal swab,Mailed Buccal,saliva,9/7/2022,9/16/2022,Core Fridge,,,
+560,0,PMGRC-467-467-0,buccal swab,Mailed Buccal,saliva,9/7/2022,9/16/2022,Core Fridge,,,
+561,2,PMGRC-468-467-2,buccal swab,Mailed Buccal,saliva,9/7/2022,9/16/2022,Core Fridge,,,
+562,2,PMGRC-468-467-2,buccal swab,Mailed Buccal,saliva,9/7/2022,9/16/2022,Core Fridge,,,
+563,1,PMGRC-470-467-1,buccal swab,Mailed Buccal,saliva,9/7/2022,9/16/2022,Core Fridge,,,
+564,1,PMGRC-470-467-1,buccal swab,Mailed Buccal,saliva,9/7/2022,9/16/2022,Core Fridge,,,
+565,0,PMGRC-178-178-0,PAX tube,Clinical Lab CNH,peripheral blood,9/9/2022,9/16/2022,Core Fridge,,,
+566,0,PMGRC-178-178-0,purple top,Clinical Lab CNH,peripheral blood,9/9/2022,9/16/2022,Core Fridge,,,
+567,2,PMGRC-179-178-2,PAX tube,CRU,peripheral blood,9/9/2022,9/16/2022,Core Fridge,,,
+568,2,PMGRC-179-178-2,purple top,CRU,peripheral blood,9/9/2022,9/16/2022,Core Fridge,,,
+569,1,PMGRC-180-178-1,PAX tube,CRU,peripheral blood,9/9/2022,9/16/2022,Core Fridge,,,
+570,1,PMGRC-180-178-1,purple top,CRU,peripheral blood,9/9/2022,9/16/2022,Core Fridge,,,
+571,0,PMGRC-538-538-0,PAX tube,CRU,peripheral blood,9/14/2022,9/16/2022,Core Fridge,,,
+572,0,PMGRC-538-538-0,purple top,CRU,peripheral blood,9/14/2022,9/16/2022,Core Fridge,,,
+573,2,PMGRC-539-538-2,PAX tube,CRU,peripheral blood,9/14/2022,9/16/2022,Core Fridge,,,
+574,2,PMGRC-539-538-2,purple top,CRU,peripheral blood,9/14/2022,9/16/2022,Core Fridge,,,
+575,0,PMGRC-375-375-0,buccal swab,Mailed Buccal,saliva,9/15/2022,9/16/2022,Core Fridge,,,
+576,0,PMGRC-375-375-0,buccal swab,Mailed Buccal,saliva,9/15/2022,9/16/2022,Core Fridge,,,
+577,1,PMGRC-527-522-1,PAX tube,CRU,peripheral blood,9/16/2022,9/16/2022,Core Fridge,,,
+578,1,PMGRC-527-522-1,purple top,CRU,peripheral blood,9/16/2022,9/16/2022,Core Fridge,,,
+579,0,PMGRC-512-512-0,PAX tube,CRU,peripheral blood,9/21/2022,9/22/2022,Core Fridge,,,
+580,0,PMGRC-512-512-0,purple top,CRU,peripheral blood,9/21/2022,9/22/2022,Core Fridge,,,
+581,2,PMGRC-513-512-2,PAX tube,CRU,peripheral blood,9/21/2022,9/22/2022,Core Fridge,,,
+582,2,PMGRC-513-512-2,purple top,CRU,peripheral blood,9/21/2022,9/22/2022,Core Fridge,,,
+583,0,PMGRC-543-543-0,PAX tube,CRU,peripheral blood,9/22/2022,9/22/2022,Core Fridge,,,
+584,0,PMGRC-543-543-0,purple top,CRU,peripheral blood,9/22/2022,9/22/2022,Core Fridge,,,
+585,2,PMGRC-544-543-2,PAX tube,CRU,peripheral blood,9/22/2022,9/22/2022,Core Fridge,,,
+586,2,PMGRC-544-543-2,purple top,CRU,peripheral blood,9/22/2022,9/22/2022,Core Fridge,,,
+587,2,PMGRC-254-233-2,buccal swab,Mailed Buccal,saliva,9/28/2022,9/30/2022,Core Fridge,,,
+588,2,PMGRC-254-233-2,buccal swab,Mailed Buccal,saliva,9/28/2022,9/30/2022,Core Fridge,,,
+589,0,PMGRC-488-488-0,PAX tube,Clinical Lab CNH,peripheral blood,10/5/2022,10/6/2022,Core Fridge,,,
+590,0,PMGRC-488-488-0,purple top,Clinical Lab CNH,peripheral blood,10/5/2022,10/6/2022,Core Fridge,,,
+591,2,PMGRC-489-488-2,PAX tube,Clinical Lab CNH,peripheral blood,10/5/2022,10/6/2022,Core Fridge,,,
+592,2,PMGRC-489-488-2,purple top,Clinical Lab CNH,peripheral blood,10/5/2022,10/6/2022,Core Fridge,,,
+593,1,PMGRC-490-488-1,PAX tube,Clinical Lab CNH,peripheral blood,10/5/2022,10/6/2022,Core Fridge,,,
+594,1,PMGRC-490-488-1,purple top,Clinical Lab CNH,peripheral blood,10/5/2022,10/6/2022,Core Fridge,,,
+595,0,PMGRC-517-517-0,PAX tube,CRU,peripheral blood,10/5/2022,10/6/2022,Core Fridge,,,
+596,0,PMGRC-517-517-0,purple top,CRU,peripheral blood,10/5/2022,10/6/2022,Core Fridge,,,
+597,2,PMGRC-518-517-2,PAX tube,CRU,peripheral blood,10/5/2022,10/6/2022,Core Fridge,,,
+598,2,PMGRC-518-517-2,purple top,CRU,peripheral blood,10/5/2022,10/6/2022,Core Fridge,,,
+599,1,PMGRC-519-517-1,PAX tube,CRU,peripheral blood,10/5/2022,10/6/2022,Core Fridge,,,
+600,1,PMGRC-519-517-1,purple top,CRU,peripheral blood,10/5/2022,10/6/2022,Core Fridge,,,
+601,2,PMGRC-334-335-2,buccal swab,Mailed Buccal,saliva,10/2/2022,10/6/2022,Core Fridge,,,
+602,2,PMGRC-334-335-2,buccal swab,Mailed Buccal,saliva,10/2/2022,10/6/2022,Core Fridge,,,
+603,0,PMGRC-335-335-0,buccal swab,Mailed Buccal,saliva,10/2/2022,10/6/2022,Core Fridge,,,
+604,0,PMGRC-335-335-0,buccal swab,Mailed Buccal,saliva,10/2/2022,10/6/2022,Core Fridge,,,
+605,1,PMGRC-336-335-1,buccal swab,Mailed Buccal,saliva,10/2/2022,10/6/2022,Core Fridge,,,
+606,1,PMGRC-336-335-1,buccal swab,Mailed Buccal,saliva,10/2/2022,10/6/2022,Core Fridge,,,
+607,2,PMGRC-524-525-2,PAX tube,CRU,peripheral blood,10/6/2022,10/12/2022,Core Fridge,,,
+608,2,PMGRC-524-525-2,purple top,CRU,peripheral blood,10/6/2022,10/12/2022,Core Fridge,,,
+609,0,PMGRC-525-525-0,PAX tube,CRU,peripheral blood,10/6/2022,10/12/2022,Core Fridge,,,
+610,0,PMGRC-525-525-0,purple top,CRU,peripheral blood,10/6/2022,10/12/2022,Core Fridge,,,
+611,3,PMGRC-526-525-3,PAX tube,CRU,peripheral blood,10/6/2022,10/12/2022,Core Fridge,,,
+612,3,PMGRC-526-525-3,purple top,CRU,peripheral blood,10/6/2022,10/12/2022,Core Fridge,,,
+613,1,PMGRC-528-525-1,PAX tube,CRU,peripheral blood,10/6/2022,10/12/2022,Core Fridge,,,
+614,1,PMGRC-528-525-1,purple top,CRU,peripheral blood,10/6/2022,10/12/2022,Core Fridge,,,
+615,0,PMGRC-509-509-0,PAX tube,CRU,peripheral blood,10/12/2022,10/12/2022,Core Fridge,,,
+616,0,PMGRC-509-509-0,purple top,CRU,peripheral blood,10/12/2022,10/12/2022,Core Fridge,,,
+617,2,PMGRC-510-509-2,PAX tube,CRU,peripheral blood,10/12/2022,10/12/2022,Core Fridge,,,
+618,2,PMGRC-510-509-2,purple top,CRU,peripheral blood,10/12/2022,10/12/2022,Core Fridge,,,
+619,1,PMGRC-511-509-1,PAX tube,CRU,peripheral blood,10/12/2022,10/12/2022,Core Fridge,,,
+620,1,PMGRC-511-509-1,purple top,CRU,peripheral blood,10/12/2022,10/12/2022,Core Fridge,,,
+621,1,PMGRC-140-104-1,buccal swab,Offsite,saliva,10/13/2022,10/20/22,Core Fridge,,,
+622,1,PMGRC-140-104-1,buccal swab,Offsite,saliva,10/13/2022,10/20/22,Core Fridge,,,
+623,0,PMGRC-485-485-0,PAX tube,CRU,peripheral blood,10/14/2022,10/20/22,Core Fridge,,,
+624,0,PMGRC-485-485-0,purple top,CRU,peripheral blood,10/14/2022,10/20/22,Core Fridge,,,
+625,2,PMGRC-486-485-2,PAX tube,CRU,peripheral blood,10/14/2022,10/20/22,Core Fridge,,,
+626,2,PMGRC-486-485-2,purple top,CRU,peripheral blood,10/14/2022,10/20/22,Core Fridge,,,
+627,1,PMGRC-487-485-1,PAX tube,CRU,peripheral blood,10/14/2022,10/20/22,Core Fridge,,,
+628,1,PMGRC-487-485-1,purple top,CRU,peripheral blood,10/14/2022,10/20/22,Core Fridge,,,
+629,0,PMGRC-477-477-0,buccal swab,Offsite,saliva,10/21/2022,10/21/2022,Core Fridge,GENEDX,,
+630,0,PMGRC-477-477-0,buccal swab,Offsite,saliva,10/21/2022,10/21/2022,Extracted/Banked,GENEDX,,
+631,0,PMGRC-578-578-0,PAX tube,CRU,peripheral blood,10/24/2022,10/25/2022,Core Fridge,,,
+632,0,PMGRC-578-578-0,purple top,CRU,peripheral blood,10/24/2022,10/25/2022,Core Fridge,,,
+633,2,PMGRC-577-578-2,PAX tube,CRU,peripheral blood,10/24/2022,10/25/2022,Core Fridge,,,
+634,2,PMGRC-577-578-2,purple top,CRU,peripheral blood,10/24/2022,10/25/2022,Core Fridge,,,
+635,0,PMGRC-572-572-0,PAX tube,Clinical Lab CNH,peripheral blood,10/25/2022,10/25/2022,Core Fridge,,,
+636,0,PMGRC-572-572-0,purple top,Clinical Lab CNH,peripheral blood,10/25/2022,10/25/2022,Core Fridge,,,
+637,2,PMGRC-566-568-2,PAX tube,CRU,peripheral blood,10/25/2022,10/25/2022,Core Fridge,,,
+638,2,PMGRC-566-568-2,purple top,CRU,peripheral blood,10/25/2022,10/25/2022,Core Fridge,,,
+639,1,PMGRC-567-568-1,PAX tube,CRU,peripheral blood,10/25/2022,10/25/2022,Core Fridge,,,
+640,1,PMGRC-567-568-1,purple top,CRU,peripheral blood,10/25/2022,10/25/2022,Core Fridge,,,
+641,1,PMGRC-579-578-1,PAX tube,CRU,peripheral blood,10/27/2022,10/28/2022,Core Fridge,,,
+642,1,PMGRC-579-578-1,purple top,CRU,peripheral blood,10/27/2022,10/28/2022,Core Fridge,,,
+643,0,PMGRC-576-576-0,PAX tube,CRU,peripheral blood,10/28/2022,10/28/2022,Core Fridge,,,
+644,0,PMGRC-576-576-0,purple top,CRU,peripheral blood,10/28/2022,10/28/2022,Core Fridge,,,
+645,0,PMGRC-562-562-0,PAX tube,CRU,peripheral blood,10/28/2022,11/1/2022,Core Fridge,,,
+646,0,PMGRC-562-562-0,purple top,CRU,peripheral blood,10/28/2022,11/1/2022,Core Fridge,,,
+647,0,PMGRC-540-540-0,buccal swab,Mailed Buccal,saliva,10/28/2022,11/2/2022,Core Fridge,,,
+648,0,PMGRC-540-540-0,buccal swab,Mailed Buccal,saliva,10/28/2022,11/2/2022,Core Fridge,,,
+649,2,PMGRC-541-540-2,buccal swab,Mailed Buccal,saliva,10/28/2022,11/2/2022,Core Fridge,,,
+650,2,PMGRC-541-540-2,buccal swab,Mailed Buccal,saliva,10/28/2022,11/2/2022,Core Fridge,,,
+651,1,PMGRC-542-540-1,buccal swab,Mailed Buccal,saliva,10/28/2022,11/2/2022,Core Fridge,,,
+652,1,PMGRC-542-540-1,buccal swab,Mailed Buccal,saliva,10/28/2022,11/2/2022,Core Fridge,,,
+653,0,PMGRC-550-550-0,buccal swab,Mailed Buccal,saliva,10/28/2022,11/2/2022,Core Fridge,,,
+654,0,PMGRC-550-550-0,buccal swab,Mailed Buccal,saliva,10/28/2022,11/2/2022,Core Fridge,,,
+655,2,PMGRC-551-550-2,buccal swab,Mailed Buccal,saliva,10/28/2022,11/2/2022,Core Fridge,,,
+656,2,PMGRC-551-550-2,buccal swab,Mailed Buccal,saliva,10/28/2022,11/2/2022,Core Fridge,,,
+657,1,PMGRC-552-550-1,buccal swab,Mailed Buccal,saliva,10/28/2022,11/2/2022,Core Fridge,,,
+658,1,PMGRC-552-550-1,buccal swab,Mailed Buccal,saliva,10/28/2022,11/2/2022,Core Fridge,,,
+659,2,PMGRC-504-302-2,buccal swab,Mailed Buccal,saliva,10/28/2022,11/2/2022,Core Fridge,,,
+660,2,PMGRC-504-302-2,buccal swab,Mailed Buccal,saliva,10/28/2022,11/2/2022,Core Fridge,,,
+661,1,PMGRC-505-302-1,buccal swab,Mailed Buccal,saliva,10/28/2022,11/2/2022,Core Fridge,,,
+662,1,PMGRC-505-302-1,buccal swab,Mailed Buccal,saliva,10/28/2022,11/2/2022,Core Fridge,,,
+663,0,PMGRC-482-482-0,PAX tube,CRU,peripheral blood,11/1/2022,11/1/2022,Core Fridge,,,
+664,0,PMGRC-482-482-0,purple top,CRU,peripheral blood,11/1/2022,11/1/2022,Core Fridge,,,
+665,2,PMGRC-483-482-2,PAX tube,CRU,peripheral blood,11/1/2022,11/1/2022,Core Fridge,,,
+666,2,PMGRC-483-482-2,purple top,CRU,peripheral blood,11/1/2022,11/1/2022,Core Fridge,,,
+667,1,PMGRC-484-482-1,PAX tube,CRU,peripheral blood,11/1/2022,11/1/2022,Core Fridge,,,
+668,1,PMGRC-484-482-1,purple top,CRU,peripheral blood,11/1/2022,11/1/2022,Core Fridge,,,
+669,0,PMGRC-568-568-0,PAX tube,Inpatient,peripheral blood,11/1/2022,11/1/2022,Core Fridge,,,
+670,0,PMGRC-568-568-0,purple top,Inpatient,peripheral blood,11/1/2022,11/1/2022,Core Fridge,,,
+671,2,PMGRC-475-477-2,buccal swab,Mailed Buccal,saliva,11/3/2022,11/10/2022,Core Fridge,,,
+672,2,PMGRC-475-477-2,buccal swab,Mailed Buccal,saliva,11/3/2022,11/10/2022,Core Fridge,,,
+673,1,PMGRC-476-477-1,buccal swab,Mailed Buccal,saliva,11/3/2022,11/10/2022,Core Fridge,,,
+674,1,PMGRC-476-477-1,buccal swab,Mailed Buccal,saliva,11/3/2022,11/10/2022,Core Fridge,,,
+675,4,PMGRC-532-477-4,buccal swab,Mailed Buccal,saliva,11/3/2022,11/10/2022,Core Fridge,,,
+676,4,PMGRC-532-477-4,buccal swab,Mailed Buccal,saliva,11/3/2022,11/10/2022,Core Fridge,,,
+677,2,PMGRC-500-503-2,buccal swab,Mailed Buccal,saliva,11/6/2022,11/10/2022,Core Fridge,,,
+678,2,PMGRC-500-503-2,buccal swab,Mailed Buccal,saliva,11/6/2022,11/10/2022,Core Fridge,,,
+679,3,PMGRC-501-503-3,buccal swab,Mailed Buccal,saliva,11/6/2022,11/10/2022,Core Fridge,,,
+680,3,PMGRC-501-503-3,buccal swab,Mailed Buccal,saliva,11/6/2022,11/10/2022,Core Fridge,,,
+681,1,PMGRC-502-503-1,buccal swab,Mailed Buccal,saliva,11/6/2022,11/10/2022,Core Fridge,,,
+682,1,PMGRC-502-503-1,buccal swab,Mailed Buccal,saliva,11/6/2022,11/10/2022,Core Fridge,,,
+683,0,PMGRC-503-503-0,buccal swab,Mailed Buccal,saliva,11/6/2022,11/10/2022,Core Fridge,,,
+684,0,PMGRC-503-503-0,buccal swab,Mailed Buccal,saliva,11/6/2022,11/10/2022,Core Fridge,,,
+685,0,PMGRC-324-324-0,PAX tube,CRU,peripheral blood,11/7/2022,11/10/2022,Core Fridge,,,
+686,0,PMGRC-324-324-0,purple top,CRU,peripheral blood,11/7/2022,11/10/2022,Core Fridge,,,
+687,2,PMGRC-325-324-2,PAX tube,CRU,peripheral blood,11/7/2022,11/10/2022,Core Fridge,,,
+688,2,PMGRC-325-324-2,purple top,CRU,peripheral blood,11/7/2022,11/10/2022,Core Fridge,,,
+689,0,PMGRC-118-118-0,buccal swab,Mailed Buccal,saliva,11/3/2022,11/16/2022,Core Fridge,,,
+690,0,PMGRC-118-118-0,buccal swab,Mailed Buccal,saliva,11/3/2022,11/16/2022,Core Fridge,,,
+691,2,PMGRC-119-118-2,buccal swab,Mailed Buccal,saliva,11/2/2022,11/16/2022,Core Fridge,,,
+692,2,PMGRC-119-118-2,buccal swab,Mailed Buccal,saliva,11/2/2022,11/16/2022,Core Fridge,,,
+693,1,PMGRC-120-118-1,buccal swab,Mailed Buccal,saliva,11/7/2022,11/16/2022,Core Fridge,,,
+694,1,PMGRC-120-118-1,buccal swab,Mailed Buccal,saliva,11/7/2022,11/16/2022,Core Fridge,,,
+695,0,PMGRC-472-472-0,PAX tube,CRU,peripheral blood,11/16/2022,11/22/2022,Core Fridge,,,
+696,0,PMGRC-472-472-0,purple top,CRU,peripheral blood,11/16/2022,11/22/2022,Core Fridge,,,
+697,2,PMGRC-473-472-2,PAX tube,CRU,peripheral blood,11/16/2022,11/22/2022,Core Fridge,,,
+698,2,PMGRC-473-472-2,purple top,CRU,peripheral blood,11/16/2022,11/22/2022,Core Fridge,,,
+699,0,PMGRC-497-497-0,purple top,CRU,peripheral blood,11/23/2022,11/29/22,Core Fridge,,,
+700,0,PMGRC-497-497-0,PAX tube,CRU,peripheral blood,11/23/2022,11/29/22,Core Fridge,,,
+701,2,PMGRC-499-497-2,purple top,CRU,peripheral blood,11/23/2022,11/29/22,Core Fridge,,,
+702,2,PMGRC-499-497-2,PAX tube,CRU,peripheral blood,11/23/2022,11/29/22,Core Fridge,,,
+703,1,PMGRC-498-497-1,PAX tube,CRU,peripheral blood,11/23/2022,11/29/22,Core Fridge,,,
+704,1,PMGRC-498-497-1,purple top,CRU,peripheral blood,11/23/2022,11/29/22,Core Fridge,,,
+705,0,PMGRC-549-549-0,buccal swab,Mailed Buccal,saliva,11/26/2022,12/1/22,Core Fridge,,,
+706,0,PMGRC-549-549-0,buccal swab,Mailed Buccal,saliva,11/26/2022,12/1/22,Core Fridge,,,
+707,0,PMGRC-611-611-0,PAX tube,Clinical Lab CNH,peripheral blood,12/3/2022,12/3/2022,Core Fridge,,,
+708,0,PMGRC-611-611-0,purple top,Clinical Lab CNH,peripheral blood,12/3/2022,12/3/2022,Core Fridge,,,
+709,2,PMGRC-612-611-2,PAX tube,Clinical Lab CNH,peripheral blood,12/3/2022,12/3/2022,Core Fridge,,,
+710,2,PMGRC-612-611-2,purple top,Clinical Lab CNH,peripheral blood,12/3/2022,12/3/2022,Core Fridge,,,
+711,1,PMGRC-614-615-1,PAX tube,Clinical Lab CNH,peripheral blood,12/3/2022,12/3/2022,Core Fridge,,,
+712,1,PMGRC-614-615-1,purple top,Clinical Lab CNH,peripheral blood,12/3/2022,12/3/2022,Core Fridge,,,
+713,0,PMGRC-615-615-0,PAX tube,Clinical Lab CNH,peripheral blood,12/3/2022,12/3/2022,Core Fridge,,,
+714,0,PMGRC-615-615-0,purple top,Clinical Lab CNH,peripheral blood,12/3/2022,12/3/2022,Core Fridge,,,
+715,0,PMGRC-152-152-0,buccal swab,Mailed Buccal,saliva,12/2/2022,12/6/2022,Core Fridge,,,
+716,0,PMGRC-152-152-0,buccal swab,Mailed Buccal,saliva,12/2/2022,12/6/2022,Core Fridge,,,
+717,2,PMGRC-153-152-2,buccal swab,Mailed Buccal,saliva,12/2/2022,12/6/2022,Core Fridge,,,
+718,2,PMGRC-153-152-2,buccal swab,Mailed Buccal,saliva,12/2/2022,12/6/2022,Core Fridge,,,
+719,1,PMGRC-154-152-1,buccal swab,Mailed Buccal,saliva,11/30/2022,12/6/2022,Core Fridge,,,
+720,1,PMGRC-154-152-1,buccal swab,Mailed Buccal,saliva,11/30/2022,12/6/2022,Core Fridge,,,
+721,3,PMGRC-155-152-3,buccal swab,Mailed Buccal,saliva,12/2/2022,12/6/2022,Core Fridge,,,
+722,3,PMGRC-155-152-3,buccal swab,Mailed Buccal,saliva,12/2/2022,12/6/2022,Core Fridge,,,
+723,3,PMGRC-156-152-3,buccal swab,Mailed Buccal,saliva,11/30/2022,12/6/2022,Core Fridge,,,
+724,3,PMGRC-156-152-3,buccal swab,Mailed Buccal,saliva,11/30/2022,12/6/2022,Core Fridge,,,
+725,0,PMGRC-357-357-0,buccal swab,Mailed Buccal,saliva,12/16/2022,12/20/2022,Core Fridge,,,
+726,0,PMGRC-357-357-0,buccal swab,Mailed Buccal,saliva,12/16/2022,12/20/2022,Core Fridge,,,
+727,2,PMGRC-358-357-2,buccal swab,Mailed Buccal,saliva,12/16/2022,12/20/2022,Core Fridge,,,
+728,2,PMGRC-358-357-2,buccal swab,Mailed Buccal,saliva,12/16/2022,12/20/2022,Core Fridge,,,
+729,1,PMGRC-359-357-1,buccal swab,Mailed Buccal,saliva,12/16/2022,12/20/2022,Core Fridge,,,
+730,1,PMGRC-359-357-1,buccal swab,Mailed Buccal,saliva,12/16/2022,12/20/2022,Core Fridge,,,
+731,2,PMGRC-623-622-2,PAX tube,CRU,peripheral blood,12/16/2022,12/20/2022,Core Fridge,,,
+732,2,PMGRC-623-622-2,purple top,CRU,peripheral blood,12/16/2022,12/20/2022,Core Fridge,,,
+733,0,PMGRC-661-661-0,PAX tube,CRU,peripheral blood,12/19/2022,12/20/2022,Core Fridge,,,
+734,0,PMGRC-661-661-0,purple top,CRU,peripheral blood,12/19/2022,12/20/2022,Core Fridge,,,
+735,2,PMGRC-662-661-2,PAX tube,CRU,peripheral blood,12/19/2022,12/20/2022,Core Fridge,,,
+736,2,PMGRC-662-661-2,purple top,CRU,peripheral blood,12/19/2022,12/20/2022,Core Fridge,,,
+737,1,PMGRC-663-661-1,PAX tube,CRU,peripheral blood,12/19/2022,12/20/2022,Core Fridge,,,
+738,1,PMGRC-663-661-1,purple top,CRU,peripheral blood,12/19/2022,12/20/2022,Core Fridge,,,
+739,0,PMGRC-590-590-0,PAX tube,Inpatient,peripheral blood,12/20/2022,12/20/2022,Core Fridge,,,
+740,0,PMGRC-590-590-0,purple top,Inpatient,peripheral blood,12/20/2022,12/20/2022,Core Fridge,,,
+741,2,PMGRC-591-590-2,PAX tube,CRU,peripheral blood,12/20/2022,12/20/2022,Core Fridge,,,
+742,2,PMGRC-591-590-2,purple top,CRU,peripheral blood,12/20/2022,12/20/2022,Core Fridge,,,
+743,1,PMGRC-592-590-1,PAX tube,CRU,peripheral blood,12/20/2022,12/20/2022,Core Fridge,,,
+744,1,PMGRC-592-590-1,purple top,CRU,peripheral blood,12/20/2022,12/20/2022,Core Fridge,,,
+745,1,PMGRC-399-391-1,buccal swab,Mailed Buccal,saliva,12/18/2022,12/22/2022,Core Fridge,,,
+746,1,PMGRC-399-391-1,buccal swab,Mailed Buccal,saliva,12/18/2022,12/22/2022,Core Fridge,,,
+747,0,PMGRC-391-391-0,purple top,CRU,peripheral blood,12/21/2022,12/22/2022,Core Fridge,,,
+748,0,PMGRC-391-391-0,PAX tube,CRU,peripheral blood,12/21/2022,12/22/2022,Core Fridge,,,
+749,2,PMGRC-400-391-2,purple top,CRU,peripheral blood,12/21/2022,12/22/2022,Core Fridge,,,
+750,2,PMGRC-400-391-2,PAX tube,CRU,peripheral blood,12/21/2022,12/22/2022,Core Fridge,,,
+751,0,PMGRC-181-181-0,PAX tube,CRU,peripheral blood,12/23/2022,12/29/22,Core Fridge,,,
+752,0,PMGRC-181-181-0,purple top,CRU,peripheral blood,12/23/2022,12/29/22,Core Fridge,,,
+753,3,PMGRC-647-181-3,PAX tube,CRU,peripheral blood,12/23/2022,12/29/22,Core Fridge,,,
+754,3,PMGRC-647-181-3,purple top,CRU,peripheral blood,12/23/2022,12/29/22,Core Fridge,,,
+755,3,PMGRC-648-181-3,PAX tube,CRU,peripheral blood,12/23/2022,12/29/22,Core Fridge,,,
+756,3,PMGRC-648-181-3,purple top,CRU,peripheral blood,12/23/2022,12/29/22,Core Fridge,,,
+757,3,PMGRC-649-181-3,PAX tube,CRU,peripheral blood,12/23/2022,12/29/22,Core Fridge,,,
+758,3,PMGRC-649-181-3,purple top,CRU,peripheral blood,12/23/2022,12/29/22,Core Fridge,,,
+759,2,PMGRC-182-181-2,PAX tube,CRU,peripheral blood,12/23/2022,12/29/22,Core Fridge,,,
+760,2,PMGRC-182-181-2,purple top,CRU,peripheral blood,12/23/2022,12/29/22,Core Fridge,,,
+761,1,PMGRC-219-181-1,PAX tube,CRU,peripheral blood,12/23/2022,12/29/22,Core Fridge,,,
+762,1,PMGRC-219-181-1,purple top,CRU,peripheral blood,12/23/2022,12/29/22,Core Fridge,,,
+763,0,PMGRC-494-494-0,PAX tube,CRU,peripheral blood,12/28/2022,12/29/22,Core Fridge,,,
+764,0,PMGRC-494-494-0,purple top,CRU,peripheral blood,12/28/2022,12/29/22,Core Fridge,,,
+765,3,PMGRC-495-494-3,PAX tube,CRU,peripheral blood,12/28/2022,12/29/22,Core Fridge,,,
+766,3,PMGRC-495-494-3,purple top,CRU,peripheral blood,12/28/2022,12/29/22,Core Fridge,,,
+767,2,PMGRC-496-494-2,PAX tube,CRU,peripheral blood,12/28/2022,12/29/22,Core Fridge,,,
+768,2,PMGRC-496-494-2,purple top,CRU,peripheral blood,12/28/2022,12/29/22,Core Fridge,,,
+769,2,PMGRC-308-310-2,PAX tube,CRU,peripheral blood,1/3/2023,1/6/2023,Core Fridge,,,
+770,2,PMGRC-308-310-2,purple top,CRU,peripheral blood,1/3/2023,1/6/2023,Core Fridge,,,
+771,1,PMGRC-309-310-1,PAX tube,CRU,peripheral blood,1/3/2023,1/6/2023,Core Fridge,,,
+772,1,PMGRC-309-310-1,purple top,CRU,peripheral blood,1/3/2023,1/6/2023,Core Fridge,,,
+773,0,PMGRC-310-310-0,PAX tube,CRU,peripheral blood,1/3/2023,1/6/2023,Core Fridge,,,
+774,0,PMGRC-310-310-0,purple top,CRU,peripheral blood,1/3/2023,1/6/2023,Core Fridge,,,
+775,2,PMGRC-644-645-2,PAX tube,CRU,peripheral blood,1/5/2023,1/6/2023,Core Fridge,,,
+776,2,PMGRC-644-645-2,purple top,CRU,peripheral blood,1/5/2023,1/6/2023,Core Fridge,,,
+777,0,PMGRC-645-645-0,PAX tube,CRU,peripheral blood,1/5/2023,1/6/2023,Core Fridge,,,
+778,0,PMGRC-645-645-0,purple top,CRU,peripheral blood,1/5/2023,1/6/2023,Core Fridge,,,
+779,1,PMGRC-646-645-1,PAX tube,CRU,peripheral blood,1/5/2023,1/6/2023,Core Fridge,,,
+780,1,PMGRC-646-645-1,purple top,CRU,peripheral blood,1/5/2023,1/6/2023,Core Fridge,,,
+781,0,PMGRC-369-369-0,PAX tube,CRU,peripheral blood,1/6/2023,1/11/2023,Core Fridge,,,
+782,0,PMGRC-369-369-0,purple top,CRU,peripheral blood,1/6/2023,1/11/2023,Core Fridge,,,
+783,1,PMGRC-371-369-1,PAX tube,CRU,peripheral blood,1/6/2023,1/11/2023,Core Fridge,,,
+784,1,PMGRC-371-369-1,purple top,CRU,peripheral blood,1/6/2023,1/11/2023,Core Fridge,,,
+785,2,PMGRC-370-369-2,PAX tube,CRU,peripheral blood,1/6/2023,1/11/2023,Core Fridge,,,
+786,2,PMGRC-370-369-2,purple top,CRU,peripheral blood,1/6/2023,1/11/2023,Core Fridge,,,
+787,0,PMGRC-553-553-0,buccal swab,Mailed Buccal,saliva,1/8/2023,1/11/2023,Core Fridge,,,
+788,0,PMGRC-553-553-0,buccal swab,Mailed Buccal,saliva,1/8/2023,1/11/2023,Core Fridge,,,
+789,2,PMGRC-554-553-2,buccal swab,Mailed Buccal,saliva,1/8/2023,1/11/2023,Core Fridge,,,
+790,2,PMGRC-554-553-2,buccal swab,Mailed Buccal,saliva,1/8/2023,1/11/2023,Core Fridge,,,
+791,3,PMGRC-555-553-3,buccal swab,Mailed Buccal,saliva,1/8/2023,1/11/2023,Core Fridge,,,
+792,3,PMGRC-555-553-3,buccal swab,Mailed Buccal,saliva,1/8/2023,1/11/2023,Core Fridge,,,
+793,0,PMGRC-674-674-0,buccal swab,Mailed Buccal,saliva,1/11/2023,1/13/23,Core Fridge,,,
+794,0,PMGRC-674-674-0,buccal swab,Mailed Buccal,saliva,1/11/2023,1/13/23,Core Fridge,,,
+795,0,PMGRC-602-602-0,PAX tube,CRU,peripheral blood,1/13/2023,1/17/2023,Core Fridge,,,
+796,0,PMGRC-602-602-0,purple top,CRU,peripheral blood,1/13/2023,1/17/2023,Core Fridge,,,
+797,2,PMGRC-603-602-2,PAX tube,CRU,peripheral blood,1/13/2023,1/17/2023,Core Fridge,,,
+798,2,PMGRC-603-602-2,buccal swab,CRU,peripheral blood,1/13/2023,1/17/2023,Core Fridge,,,
+799,1,PMGRC-604-602-1,PAX tube,CRU,peripheral blood,1/13/2023,1/17/2023,Core Fridge,,,
+800,1,PMGRC-604-602-1,purple top,CRU,peripheral blood,1/13/2023,1/17/2023,Core Fridge,,,
+801,2,PMGRC-620-619-2,PAX tube,CRU,peripheral blood,1/13/2023,1/17/2023,Core Fridge,,,
+802,2,PMGRC-620-619-2,purple top,CRU,peripheral blood,1/13/2023,1/17/2023,Core Fridge,,,
+803,1,PMGRC-621-619-1,PAX tube,CRU,peripheral blood,1/13/2023,1/17/2023,Core Fridge,,,
+804,1,PMGRC-621-619-1,purple top,CRU,peripheral blood,1/13/2023,1/17/2023,Core Fridge,,,
+805,0,PMGRC-151-151-0,buccal swab,Mailed Buccal,saliva,1/14/2023,1/17/2023,Core Fridge,,,
+806,0,PMGRC-151-151-0,buccal swab,Mailed Buccal,saliva,1/14/2023,1/17/2023,Core Fridge,,,
+807,1,PMGRC-687-547-1,buccal swab,Mailed Buccal,saliva,1/14/2023,1/17/2023,Core Fridge,,,
+808,1,PMGRC-687-547-1,buccal swab,Mailed Buccal,saliva,1/14/2023,1/17/2023,Core Fridge,,,
+809,0,PMGRC-280-280-0,buccal swab,Mailed Buccal,saliva,1/14/2023,1/26/2023,Core Fridge,,,
+810,0,PMGRC-280-280-0,buccal swab,Mailed Buccal,saliva,1/14/2023,1/26/2023,Core Fridge,,,
+811,0,PMGRC-575-575-0,PAX tube,CRU,peripheral blood,1/17/2023,1/17/2023,Core Fridge,,,
+812,0,PMGRC-575-575-0,purple top,CRU,peripheral blood,1/17/2023,1/17/2023,Core Fridge,,,
+813,2,PMGRC-573-575-2,PAX tube,CRU,peripheral blood,1/17/2023,1/17/2023,Core Fridge,,,
+814,2,PMGRC-573-575-2,purple top,CRU,peripheral blood,1/17/2023,1/17/2023,Core Fridge,,,
+815,3,PMGRC-574-575-3,PAX tube,CRU,peripheral blood,1/17/2023,1/17/2023,Core Fridge,,,
+816,3,PMGRC-574-575-3,purple top,CRU,peripheral blood,1/17/2023,1/17/2023,Core Fridge,,,
+817,1,PMGRC-564-575-1,PAX tube,CRU,peripheral blood,1/17/2023,1/17/2023,Core Fridge,,,
+818,1,PMGRC-564-575-1,purple top,CRU,peripheral blood,1/17/2023,1/17/2023,Core Fridge,,,
+819,0,PMGRC-547-547-0,buccal swab,Mailed Buccal,saliva,1/21/2023,1/26/2023,Core Fridge,,,
+820,0,PMGRC-547-547-0,buccal swab,Mailed Buccal,saliva,1/21/2023,1/26/2023,Core Fridge,,,
+821,2,PMGRC-548-547-2,buccal swab,Mailed Buccal,saliva,1/21/2023,1/26/2023,Core Fridge,,,
+822,2,PMGRC-548-547-2,buccal swab,Mailed Buccal,saliva,1/21/2023,1/26/2023,Core Fridge,,,
+823,2,PMGRC-656-658-2,PAX tube,Outpatient,peripheral blood,1/23/2023,1/23/2023,Core Fridge,,,
+824,2,PMGRC-656-658-2,purple top,Outpatient,peripheral blood,1/23/2023,1/23/2023,Core Fridge,,,
+825,1,PMGRC-657-658-1,PAX tube,Outpatient,peripheral blood,1/23/2023,1/23/2023,Core Fridge,,,
+826,1,PMGRC-657-658-1,purple top,Outpatient,peripheral blood,1/23/2023,1/23/2023,Core Fridge,,,
+827,0,PMGRC-658-658-0,PAX tube,Outpatient,peripheral blood,1/23/2023,1/23/2023,Core Fridge,,,
+828,0,PMGRC-658-658-0,purple top,Outpatient,peripheral blood,1/23/2023,1/23/2023,Core Fridge,,,
+829,3,PMGRC-659-658-3,PAX tube,Outpatient,peripheral blood,1/23/2023,1/23/2023,Core Fridge,,,
+830,3,PMGRC-659-658-3,purple top,Outpatient,peripheral blood,1/23/2023,1/23/2023,Core Fridge,,,
+831,2,PMGRC-676-677-2,buccal swab,Mailed Buccal,saliva,1/24/2023,1/26/2023,Core Fridge,,,
+832,2,PMGRC-676-677-2,buccal swab,Mailed Buccal,saliva,1/24/2023,1/26/2023,Core Fridge,,,
+833,0,PMGRC-677-677-0,buccal swab,Mailed Buccal,saliva,1/24/2023,1/26/2023,Core Fridge,,,
+834,0,PMGRC-677-677-0,buccal swab,Mailed Buccal,saliva,1/24/2023,1/26/2023,Core Fridge,,,
+835,1,PMGRC-678-677-1,buccal swab,Mailed Buccal,saliva,1/24/2023,1/26/2023,Core Fridge,,,
+836,1,PMGRC-678-677-1,buccal swab,Mailed Buccal,saliva,1/24/2023,1/26/2023,Core Fridge,,,
+837,3,PMGRC-679-677-3,buccal swab,Mailed Buccal,saliva,1/24/2023,1/26/2023,Core Fridge,,,
+838,3,PMGRC-679-677-3,buccal swab,Mailed Buccal,saliva,1/24/2023,1/26/2023,Core Fridge,,,
+839,2,PMGRC-330-332-2,PAX tube,CRU,peripheral blood,1/25/2023,1/25/2023,Core Fridge,,,
+840,2,PMGRC-330-332-2,purple top,CRU,peripheral blood,1/25/2023,1/25/2023,Core Fridge,,,
+841,1,PMGRC-331-332-1,PAX tube,CRU,peripheral blood,1/25/2023,1/25/2023,Core Fridge,,,
+842,1,PMGRC-331-332-1,purple top,CRU,peripheral blood,1/25/2023,1/25/2023,Core Fridge,,,
+843,0,PMGRC-332-332-0,PAX tube,CRU,peripheral blood,1/25/2023,1/25/2023,Core Fridge,,,
+844,0,PMGRC-332-332-0,purple top,CRU,peripheral blood,1/25/2023,1/25/2023,Core Fridge,,,
+845,0,PMGRC-204-204-0,PAX tube,Clinical Lab CNH,peripheral blood,1/27/2023,2/3/2023,Core Fridge,,,
+846,0,PMGRC-204-204-0,purple top,Clinical Lab CNH,peripheral blood,1/27/2023,2/3/2023,Core Fridge,,,
+847,0,PMGRC-697-697-0,PAX tube,Clinical Lab CNH,peripheral blood,1/27/2023,2/3/2023,Core Fridge,,,
+848,0,PMGRC-697-697-0,purple top,Clinical Lab CNH,peripheral blood,1/27/2023,2/3/2023,Core Fridge,,,
+849,2,PMGRC-698-697-2,buccal swab,Mailed Buccal,saliva,1/27/2023,2/3/2023,Core Fridge,,,
+850,0,PMGRC-626-626-0,purple top,CRU,peripheral blood,1/27/2023,2/3/2023,Core Fridge,,,
+851,0,PMGRC-626-626-0,PAX tube,CRU,peripheral blood,1/27/2023,2/3/2023,Core Fridge,,,
+852,2,PMGRC-627-626-2,purple top,CRU,peripheral blood,1/27/2023,2/3/2023,Core Fridge,,,
+853,2,PMGRC-627-626-2,PAX tube,CRU,peripheral blood,1/27/2023,2/3/2023,Core Fridge,,,
+854,1,PMGRC-628-626-1,purple top,CRU,peripheral blood,1/27/2023,2/3/2023,Core Fridge,,,
+855,1,PMGRC-628-626-1,PAX tube,CRU,peripheral blood,1/27/2023,2/3/2023,Core Fridge,,,
+856,2,PMGRC-633-632-2,buccal swab,Mailed Buccal,saliva,1/30/2023,2/3/2023,Core Fridge,,,
+857,2,PMGRC-633-632-2,buccal swab,Mailed Buccal,saliva,1/30/2023,2/3/2023,Core Fridge,,,
+858,1,PMGRC-634-632-1,buccal swab,Mailed Buccal,saliva,1/31/2023,2/3/2023,Core Fridge,,,
+859,1,PMGRC-634-632-1,buccal swab,Mailed Buccal,saliva,1/31/2023,2/3/2023,Core Fridge,,,
+860,3,PMGRC-691-632-3,buccal swab,Mailed Buccal,saliva,1/30/2023,2/3/2023,Core Fridge,,,
+861,3,PMGRC-691-632-3,buccal swab,Mailed Buccal,saliva,1/30/2023,2/3/2023,Core Fridge,,,
+862,2,PMGRC-507-506-2,buccal swab,Mailed Buccal,saliva,1/30/2023,2/3/2023,Core Fridge,,,
+863,2,PMGRC-507-506-2,buccal swab,Mailed Buccal,saliva,1/30/2023,2/3/2023,Core Fridge,,,
+864,0,PMGRC-112-112-0,buccal swab,Mailed Buccal,saliva,2/2/2023,2/3/2023,Core Fridge,,,
+865,0,PMGRC-112-112-0,buccal swab,Mailed Buccal,saliva,2/2/2023,2/3/2023,Core Fridge,,,
+866,0,PMGRC-320-320-0,PAX tube,Clinical Lab CNH,peripheral blood,2/6/2023,2/9/2023,Core Fridge,,,
+867,0,PMGRC-320-320-0,purple top,Clinical Lab CNH,peripheral blood,2/6/2023,2/9/2023,Core Fridge,,,
+868,2,PMGRC-329-320-2,PAX tube,CRU,peripheral blood,2/6/2023,2/9/2023,Core Fridge,,,
+869,2,PMGRC-329-320-2,purple top,CRU,peripheral blood,2/6/2023,2/9/2023,Core Fridge,,,
+870,0,PMGRC-493-493-0,buccal swab,Mailed Buccal,saliva,2/6/2023,2/9/2023,Core Fridge,,,
+871,0,PMGRC-493-493-0,buccal swab,Mailed Buccal,saliva,2/6/2023,2/9/2023,Core Fridge,,,
+872,0,PMGRC-345-345-0,PAX tube,CRU,peripheral blood,2/7/2023,2/9/2023,Core Fridge,,,
+873,0,PMGRC-345-345-0,purple top,CRU,peripheral blood,2/7/2023,2/9/2023,Core Fridge,,,
+874,2,PMGRC-343-345-2,PAX tube,CRU,peripheral blood,2/7/2023,2/9/2023,Core Fridge,,,
+875,2,PMGRC-343-345-2,purple top,CRU,peripheral blood,2/7/2023,2/9/2023,Core Fridge,,,
+876,0,PMGRC-569-569-0,buccal swab,Mailed Buccal,saliva,2/10/2023,2/16/2023,Core Fridge,,,
+877,0,PMGRC-569-569-0,buccal swab,Mailed Buccal,saliva,2/10/2023,2/16/2023,Core Fridge,,,
+878,2,PMGRC-570-569-2,buccal swab,Mailed Buccal,saliva,2/10/2023,2/16/2023,Core Fridge,,,
+879,2,PMGRC-570-569-2,buccal swab,Mailed Buccal,saliva,2/10/2023,2/16/2023,Core Fridge,,,
+880,1,PMGRC-571-569-1,buccal swab,Mailed Buccal,saliva,2/10/2023,2/16/2023,Core Fridge,,,
+881,1,PMGRC-571-569-1,buccal swab,Mailed Buccal,saliva,2/10/2023,2/16/2023,Core Fridge,,,
+882,2,PMGRC-144-143-2,buccal swab,Mailed Buccal,saliva,2/11/2023,2/16/2023,Core Fridge,,,
+883,2,PMGRC-144-143-2,buccal swab,Mailed Buccal,saliva,2/11/2023,2/16/2023,Core Fridge,,,
+884,1,PMGRC-145-143-1,buccal swab,Mailed Buccal,saliva,2/11/2023,2/16/2023,Core Fridge,,,
+885,1,PMGRC-145-143-1,buccal swab,Mailed Buccal,saliva,2/11/2023,2/16/2023,Core Fridge,,,
+886,1,PMGRC-337-320-1,PAX tube,CRU,peripheral blood,2/13/2023,2/16/2023,Core Fridge,,,
+887,1,PMGRC-337-320-1,purple top,CRU,peripheral blood,2/13/2023,2/16/2023,Core Fridge,,,
+888,0,PMGRC-605-605-0,buccal swab,Mailed Buccal,saliva,1/29/2023,2/23/2023,Core Fridge,,,
+889,0,PMGRC-605-605-0,buccal swab,Mailed Buccal,saliva,1/29/2023,2/23/2023,Core Fridge,,,
+890,2,PMGRC-606-605-2,buccal swab,Mailed Buccal,saliva,1/29/2023,2/23/2023,Core Fridge,,,
+891,2,PMGRC-606-605-2,buccal swab,Mailed Buccal,saliva,1/29/2023,2/23/2023,Core Fridge,,,
+892,1,PMGRC-607-605-1,buccal swab,Mailed Buccal,saliva,2/20/2023,2/23/2023,Core Fridge,,,
+893,1,PMGRC-607-605-1,buccal swab,Mailed Buccal,saliva,2/20/2023,2/23/2023,Core Fridge,,,
+894,0,PMGRC-529-529-0,PAX tube,CRU,peripheral blood,2/16/2023,2/24/2023,Core Fridge,,,
+895,0,PMGRC-529-529-0,purple top,CRU,peripheral blood,2/16/2023,2/24/2023,Core Fridge,,,
+896,3,PMGRC-711-529-3,PAX tube,CRU,peripheral blood,2/16/2023,2/24/2023,Core Fridge,,,
+897,3,PMGRC-711-529-3,purple top,CRU,peripheral blood,2/16/2023,2/24/2023,Core Fridge,,,
+898,0,PMGRC-622-622-0,buccal swab,other,saliva,2/17/2023,2/24/2023,Core Fridge,,,
+899,0,PMGRC-622-622-0,buccal swab,other,saliva,2/17/2023,2/24/2023,Core Fridge,,,
+900,0,PMGRC-559-559-0,PAX tube,CRU,peripheral blood,2/24/2023,2/24/2023,Core Fridge,,,
+901,0,PMGRC-559-559-0,purple top,CRU,peripheral blood,2/24/2023,2/24/2023,Core Fridge,,,
+902,2,PMGRC-560-559-2,PAX tube,CRU,peripheral blood,2/24/2023,2/24/2023,Core Fridge,,,
+903,2,PMGRC-560-559-2,purple top,CRU,peripheral blood,2/24/2023,2/24/2023,Core Fridge,,,
+904,1,PMGRC-561-559-1,PAX tube,CRU,peripheral blood,2/24/2023,2/24/2023,Core Fridge,,,
+905,1,PMGRC-561-559-1,purple top,CRU,peripheral blood,2/24/2023,2/24/2023,Core Fridge,,,
+906,1,PMGRC-705-706-1,PAX tube,CRU,peripheral blood,3/1/2023,3/9/2023,Core Fridge,,,
+907,1,PMGRC-705-706-1,purple top,CRU,peripheral blood,3/1/2023,3/9/2023,Core Fridge,,,
+908,0,PMGRC-706-706-0,PAX tube,CRU,peripheral blood,3/1/2023,3/9/2023,Core Fridge,,,
+909,0,PMGRC-706-706-0,purple top,CRU,peripheral blood,3/1/2023,3/9/2023,Core Fridge,,,
+910,2,PMGRC-707-706-2,PAX tube,CRU,peripheral blood,3/1/2023,3/9/2023,Core Fridge,,,
+911,2,PMGRC-707-706-2,purple top,CRU,peripheral blood,3/1/2023,3/9/2023,Core Fridge,,,
+912,2,PMGRC-545-529-2,buccal swab,Mailed Buccal,saliva,3/3/2023,3/8/2023,Core Fridge,,,
+913,2,PMGRC-545-529-2,buccal swab,Mailed Buccal,saliva,3/3/2023,3/8/2023,Core Fridge,,,
+914,1,PMGRC-546-529-1,buccal swab,Mailed Buccal,saliva,3/3/2023,3/8/2023,Core Fridge,,,
+915,1,PMGRC-546-529-1,buccal swab,Mailed Buccal,saliva,3/3/2023,3/8/2023,Core Fridge,,,
+916,0,PMGRC-301-301-0,buccal swab,Mailed Buccal,saliva,3/7/2023,3/8/2023,Core Fridge,,,
+917,0,PMGRC-301-301-0,buccal swab,Mailed Buccal,saliva,3/7/2023,3/8/2023,Core Fridge,,,
+918,1,PMGRC-699-700-1,buccal swab,Mailed Buccal,saliva,3/7/2023,3/8/2023,Core Fridge,,,
+919,1,PMGRC-699-700-1,buccal swab,Mailed Buccal,saliva,3/7/2023,3/8/2023,Core Fridge,,,
+920,2,PMGRC-701-700-2,buccal swab,Mailed Buccal,saliva,3/7/2023,3/8/2023,Core Fridge,,,
+921,2,PMGRC-701-700-2,buccal swab,Mailed Buccal,saliva,3/7/2023,3/8/2023,Core Fridge,,,
+922,0,PMGRC-700-700-0,buccal swab,other,FETAL EXTRACTED DNA,3/8/2023,,shipped to UCI,3/8/2023,771483606151,
+923,0,PMGRC-700-700-0,buccal swab,other,FETAL EXTRACTED DNA,3/8/2023,,shipped to UCI,3/8/2023,771483606151,
+924,0,PMGRC-718-718-0,PAX tube,CRU,peripheral blood,3/9/2023,3/9/2023,Core Fridge,,,
+925,0,PMGRC-718-718-0,purple top,CRU,peripheral blood,3/9/2023,3/9/2023,Core Fridge,,,
+926,2,PMGRC-613-615-2,PAX tube,CRU,peripheral blood,3/9/2023,3/9/2023,Core Fridge,,,
+927,2,PMGRC-613-615-2,purple top,CRU,peripheral blood,3/9/2023,3/9/2023,Core Fridge,,,
+928,0,PMGRC-583-583-0,PAX tube,CRU,peripheral blood,3/13/2023,3/16/2023,Core Fridge,,,
+929,0,PMGRC-583-583-0,purple top,CRU,peripheral blood,3/13/2023,3/16/2023,Core Fridge,,,
+930,2,PMGRC-584-583-2,PAX tube,CRU,peripheral blood,3/13/2023,3/16/2023,Core Fridge,,,
+931,2,PMGRC-584-583-2,purple top,CRU,peripheral blood,3/13/2023,3/16/2023,Core Fridge,,,
+932,1,PMGRC-585-583-1,PAX tube,CRU,peripheral blood,3/13/2023,3/16/2023,Core Fridge,,,
+933,1,PMGRC-585-583-1,purple top,CRU,peripheral blood,3/13/2023,3/16/2023,Core Fridge,,,
+934,3,PMGRC-586-583-3,PAX tube,CRU,peripheral blood,3/13/2023,3/16/2023,Core Fridge,,,
+935,3,PMGRC-586-583-3,purple top,CRU,peripheral blood,3/13/2023,3/16/2023,Core Fridge,,,
+936,2,PMGRC-727-671-2,buccal swab,Mailed Buccal,saliva,3/14/2023,3/16/2023,Core Fridge,,,
+937,2,PMGRC-727-671-2,buccal swab,Mailed Buccal,saliva,3/14/2023,3/16/2023,Core Fridge,,,
+938,0,PMGRC-668-668-0,PAX tube,CRU,peripheral blood,3/27/2023,3/27/2023,Core Fridge,,,
+939,0,PMGRC-668-668-0,purple top,CRU,peripheral blood,3/27/2023,3/27/2023,Core Fridge,,,
+940,2,PMGRC-669-668-2,PAX tube,CRU,peripheral blood,3/27/2023,3/27/2023,Core Fridge,,,
+941,2,PMGRC-669-668-2,purple top,CRU,peripheral blood,3/27/2023,3/27/2023,Core Fridge,,,
+942,0,PMGRC-671-671-0,buccal swab,Mailed Buccal,saliva,3/15/2023,3/31/2023,Core Fridge,,,
+943,0,PMGRC-671-671-0,buccal swab,Mailed Buccal,saliva,3/15/2023,3/31/2023,Core Fridge,,,
+944,1,PMGRC-728-671-1,buccal swab,Mailed Buccal,saliva,3/15/2023,3/31/2023,Core Fridge,,,
+945,1,PMGRC-728-671-1,buccal swab,Mailed Buccal,saliva,3/15/2023,3/31/2023,Core Fridge,,,
+946,1,PMGRC-724-668-1,PAX tube,CRU,peripheral blood,3/31/2023,3/31/2023,Core Fridge,,,
+947,1,PMGRC-724-668-1,purple top,CRU,peripheral blood,3/31/2023,3/31/2023,Core Fridge,,,
+948,0,PMGRC-729-729-0,PAX tube,CRU,peripheral blood,3/31/2023,3/31/2023,Core Fridge,,,
+949,0,PMGRC-729-729-0,purple top,CRU,peripheral blood,3/31/2023,3/31/2023,Core Fridge,,,
+950,2,PMGRC-708-710-2,PAX tube,CRU,peripheral blood,4/3/2023,4/6/2023,shipped to UCI,4/10/2023,771803114080,4/12/2023
+951,2,PMGRC-708-710-2,purple top,CRU,peripheral blood,4/3/2023,4/6/2023,shipped to UCI,4/10/2023,771803114080,4/12/2023
+952,1,PMGRC-709-710-1,PAX tube,CRU,peripheral blood,4/3/2023,4/6/2023,shipped to UCI,4/10/2023,771803114080,4/12/2023
+953,1,PMGRC-709-710-1,purple top,CRU,peripheral blood,4/3/2023,4/6/2023,shipped to UCI,4/10/2023,771803114080,4/12/2023
+954,0,PMGRC-710-710-0,PAX tube,CRU,peripheral blood,4/3/2023,4/6/2023,shipped to UCI,4/10/2023,771803114080,4/12/2023
+955,0,PMGRC-710-710-0,purple top,CRU,peripheral blood,4/3/2023,4/6/2023,shipped to UCI,4/10/2023,771803114080,4/12/2023
+956,0,PMGRC-287-287-0,PAX tube,CRU,peripheral blood,4/3/2023,4/6/2023,shipped to UCI,4/10/2023,771803114080,4/12/2023
+957,0,PMGRC-287-287-0,purple top,CRU,peripheral blood,4/3/2023,4/6/2023,shipped to UCI,4/10/2023,771803114080,4/12/2023
+958,2,PMGRC-655-287-2,PAX tube,CRU,peripheral blood,4/3/2023,4/6/2023,shipped to UCI,4/10/2023,771803114080,4/12/2023
+959,2,PMGRC-655-287-2,purple top,CRU,peripheral blood,4/3/2023,4/6/2023,shipped to UCI,4/10/2023,771803114080,4/12/2023
+960,2,PMGRC-533-534-2,PAX tube,CRU,peripheral blood,4/21/2023,4/28/2023,shipped to UCI,5/1/2023,772008009636,5/2/2023
+961,2,PMGRC-533-534-2,purple top,CRU,peripheral blood,4/21/2023,4/28/2023,shipped to UCI,5/1/2023,772008009636,5/2/2023
+962,0,PMGRC-534-534-0,PAX tube,CRU,peripheral blood,4/21/2023,4/28/2023,shipped to UCI,5/1/2023,772008009636,5/2/2023
+963,0,PMGRC-534-534-0,purple top,CRU,peripheral blood,4/21/2023,4/28/2023,shipped to UCI,5/1/2023,772008009636,5/2/2023
+964,3,PMGRC-535-534-3,PAX tube,CRU,peripheral blood,4/21/2023,4/28/2023,shipped to UCI,5/1/2023,772008009636,5/2/2023
+965,3,PMGRC-535-534-3,purple top,CRU,peripheral blood,4/21/2023,4/28/2023,shipped to UCI,5/1/2023,772008009636,5/2/2023
+966,3,PMGRC-536-534-3,PAX tube,CRU,peripheral blood,4/21/2023,4/28/2023,shipped to UCI,5/1/2023,772008009636,5/2/2023
+967,3,PMGRC-536-534-3,purple top,CRU,peripheral blood,4/21/2023,4/28/2023,shipped to UCI,5/1/2023,772008009636,5/2/2023
+968,1,PMGRC-537-534-1,PAX tube,CRU,peripheral blood,4/21/2023,4/28/2023,shipped to UCI,5/1/2023,772008009636,5/2/2023
+969,1,PMGRC-537-534-1,purple top,CRU,peripheral blood,4/21/2023,4/28/2023,shipped to UCI,5/1/2023,772008009636,5/2/2023
+970,1,PMGRC-741-743-1,buccal swab,Mailed Buccal,saliva,4/21/2023,4/28/2023,shipped to UCI,5/1/2023,772008009636,5/2/2023
+971,1,PMGRC-741-743-1,buccal swab,Mailed Buccal,saliva,4/21/2023,4/28/2023,shipped to UCI,5/1/2023,772008009636,5/2/2023
+972,2,PMGRC-742-743-2,buccal swab,Mailed Buccal,saliva,4/21/2023,4/28/2023,shipped to UCI,5/1/2023,772008009636,5/2/2023
+973,2,PMGRC-742-743-2,buccal swab,Mailed Buccal,saliva,4/21/2023,4/28/2023,shipped to UCI,5/1/2023,772008009636,5/2/2023
+974,0,PMGRC-743-743-0,buccal swab,Mailed Buccal,saliva,4/21/2023,4/28/2023,shipped to UCI,5/1/2023,772008009636,5/2/2023
+975,0,PMGRC-743-743-0,buccal swab,Mailed Buccal,saliva,4/21/2023,4/28/2023,shipped to UCI,5/1/2023,772008009636,5/2/2023
+976,0,PMGRC-753-753-0,PAX tube,CRU,peripheral blood,4/28/2023,4/28/2023,shipped to UCI,5/1/2023,772008009636,5/2/2023
+977,0,PMGRC-753-753-0,purple top,CRU,peripheral blood,4/28/2023,4/28/2023,shipped to UCI,5/1/2023,772008009636,5/2/2023
+978,2,PMGRC-754-753-2,PAX tube,CRU,peripheral blood,4/28/2023,4/28/2023,shipped to UCI,5/1/2023,772008009636,5/2/2023
+979,2,PMGRC-754-753-2,purple top,CRU,peripheral blood,4/28/2023,4/28/2023,shipped to UCI,5/1/2023,772008009636,5/2/2023
+980,1,PMGRC-755-753-1,PAX tube,CRU,peripheral blood,4/28/2023,4/28/2023,shipped to UCI,5/1/2023,772008009636,5/2/2023
+981,1,PMGRC-755-753-1,purple top,CRU,peripheral blood,4/28/2023,4/28/2023,shipped to UCI,5/1/2023,772008009636,5/2/2023
+982,1,PMGRC-768-770-1,PAX tube,CRU,peripheral blood,4/28/2023,4/28/2023,shipped to UCI,5/1/2023,772008009636,5/2/2023
+983,1,PMGRC-768-770-1,purple top,CRU,peripheral blood,4/28/2023,4/28/2023,shipped to UCI,5/1/2023,772008009636,5/2/2023
+984,2,PMGRC-766-767-2,buccal swab,Mailed Buccal,saliva,5/4/2023,5/5/2023,shipped to UCI,5/11/2023,772114179471,5/12/2023
+985,2,PMGRC-766-767-2,buccal swab,Mailed Buccal,saliva,5/4/2023,5/5/2023,shipped to UCI,5/11/2023,772114179471,5/12/2023
+986,0,PMGRC-767-767-0,buccal swab,Mailed Buccal,saliva,5/4/2023,5/5/2023,shipped to UCI,5/11/2023,772114179471,5/12/2023
+987,0,PMGRC-767-767-0,buccal swab,Mailed Buccal,saliva,5/4/2023,5/5/2023,shipped to UCI,5/11/2023,772114179471,5/12/2023
+988,0,PMGRC-772-772-0,PAX tube,Offsite,peripheral blood,5/4/2023,5/5/2023,shipped to UCI,5/11/2023,772114179471,5/12/2023
+989,0,PMGRC-772-772-0,purple top,Offsite,peripheral blood,5/4/2023,5/5/2023,shipped to UCI,5/11/2023,772114179471,5/12/2023
+990,0,PMGRC-690-690-0,PAX tube,CRU,peripheral blood,5/8/2023,5/11/2023,shipped to UCI,5/11/2023,772114179471,5/12/2023
+991,0,PMGRC-690-690-0,purple top,CRU,peripheral blood,5/8/2023,5/11/2023,shipped to UCI,5/11/2023,772114179471,5/12/2023
+992,2,PMGRC-688-690-2,PAX tube,CRU,peripheral blood,5/8/2023,5/11/2023,shipped to UCI,5/11/2023,772114179471,5/12/2023
+993,2,PMGRC-688-690-2,purple top,CRU,peripheral blood,5/8/2023,5/11/2023,shipped to UCI,5/11/2023,772114179471,5/12/2023
+994,1,PMGRC-689-690-1,PAX tube,CRU,peripheral blood,5/8/2023,5/11/2023,shipped to UCI,5/11/2023,772114179471,5/12/2023
+995,1,PMGRC-689-690-1,purple top,CRU,peripheral blood,5/8/2023,5/11/2023,shipped to UCI,5/11/2023,772114179471,5/12/2023
+996,2,PMGRC-769-770-2,PAX tube,CRU,peripheral blood,5/8/2023,5/11/2023,shipped to UCI,5/11/2023,772114179471,5/12/2023
+997,2,PMGRC-769-770-2,purple top,CRU,peripheral blood,5/10/2023,5/11/2023,shipped to UCI,5/11/2023,772114179471,5/12/2023
+998,0,PMGRC-760-760-0,PAX tube,CRU,peripheral blood,5/10/2023,5/11/2023,shipped to UCI,5/11/2023,772114179471,5/12/2023
+999,0,PMGRC-760-760-0,purple top,CRU,peripheral blood,5/10/2023,5/11/2023,shipped to UCI,5/11/2023,772114179471,5/12/2023
+1000,2,PMGRC-759-760-2,PAX tube,CRU,peripheral blood,5/10/2023,5/11/2023,shipped to UCI,5/11/2023,772114179471,5/12/2023
+1001,2,PMGRC-759-760-2,purple top,CRU,peripheral blood,5/10/2023,5/11/2023,shipped to UCI,5/11/2023,772114179471,5/12/2023
+1002,1,PMGRC-761-760-1,PAX tube,CRU,peripheral blood,5/10/2023,5/11/2023,shipped to UCI,5/11/2023,772114179471,5/12/2023
+1003,1,PMGRC-761-760-1,purple top,CRU,peripheral blood,5/10/2023,5/11/2023,shipped to UCI,5/11/2023,772114179471,5/12/2023
+1004,0,PMGRC-770-770-0,PAX tube,CRU,peripheral blood,5/2/2023,5/11/2023,shipped to UCI,5/11/2023,772114179471,5/12/2023
+1005,0,PMGRC-770-770-0,purple top,CRU,peripheral blood,5/2/2023,5/11/2023,shipped to UCI,5/11/2023,772114179471,5/12/2023
+1006,1,PMGRC-733-719-1,buccal swab,Mailed Buccal,saliva,5/15/2023,5/24/2023,shipped to UCI,5/25/23,772254633399,5/26/23
+1007,1,PMGRC-733-719-1,buccal swab,Mailed Buccal,saliva,5/15/2023,5/24/2023,shipped to UCI,5/25/23,772254633399,5/26/23
+1008,2,PMGRC-781-782-2,buccal swab,Mailed Buccal,saliva,5/18/2023,5/24/2023,shipped to UCI,5/25/23,772254633399,5/26/23
+1009,2,PMGRC-781-782-2,buccal swab,Mailed Buccal,saliva,5/18/2023,5/24/2023,shipped to UCI,5/25/23,772254633399,5/26/23
+1010,0,PMGRC-782-782-0,buccal swab,Mailed Buccal,saliva,5/18/2023,5/24/2023,shipped to UCI,5/25/23,772254633399,5/26/23
+1011,0,PMGRC-782-782-0,buccal swab,Mailed Buccal,saliva,5/18/2023,5/24/2023,shipped to UCI,5/25/23,772254633399,5/26/23
+1012,1,PMGRC-783-782-1,buccal swab,Mailed Buccal,saliva,5/18/2023,5/24/2023,shipped to UCI,5/25/23,772254633399,5/26/23
+1013,1,PMGRC-783-782-1,buccal swab,Mailed Buccal,saliva,5/18/2023,5/24/2023,shipped to UCI,5/25/23,772254633399,5/26/23
+1014,0,PMGRC-791-791-0,PAX tube,Clinical Lab CNH,peripheral blood,5/18/2023,5/24/2023,shipped to UCI,5/25/23,772254633399,5/26/23
+1015,0,PMGRC-791-791-0,purple top,Clinical Lab CNH,peripheral blood,5/18/2023,5/24/2023,shipped to UCI,5/25/23,772254633399,5/26/23
+1016,2,PMGRC-792-791-2,PAX tube,Clinical Lab CNH,peripheral blood,5/18/2023,5/24/2023,shipped to UCI,5/25/23,772254633399,5/26/23
+1017,2,PMGRC-792-791-2,purple top,Clinical Lab CNH,peripheral blood,5/18/2023,5/24/2023,shipped to UCI,5/25/23,772254633399,5/26/23
+1018,0,PMGRC-784-784-0,PAX tube,CRU,peripheral blood,5/23/2023,5/25/2023,shipped to UCI,5/25/23,772254633399,5/26/23
+1019,0,PMGRC-784-784-0,purple top,CRU,peripheral blood,5/23/2023,5/25/2023,shipped to UCI,5/25/23,772254633399,5/26/23
+1020,2,PMGRC-785-784-2,PAX tube,CRU,peripheral blood,5/23/2023,5/25/2023,shipped to UCI,5/25/23,772254633399,5/26/23
+1021,2,PMGRC-785-784-2,purple top,CRU,peripheral blood,5/23/2023,5/25/2023,shipped to UCI,5/25/23,772254633399,5/26/23
+1022,1,PMGRC-786-784-1,PAX tube,CRU,peripheral blood,5/23/2023,5/25/2023,shipped to UCI,5/25/23,772254633399,5/26/23
+1023,1,PMGRC-786-784-1,purple top,CRU,peripheral blood,5/23/2023,5/25/2023,shipped to UCI,5/25/23,772254633399,5/26/23
+1024,0,PMGRC-793-793-0,PAX tube,CRU,peripheral blood,5/24/2023,5/25/2023,shipped to UCI,5/25/23,772254633399,5/26/23
+1025,0,PMGRC-793-793-0,purple top,CRU,peripheral blood,5/24/2023,5/25/2023,shipped to UCI,5/25/23,772254633399,5/26/23
+1026,2,PMGRC-794-793-2,PAX tube,CRU,peripheral blood,5/24/2023,5/25/2023,shipped to UCI,5/25/23,772254633399,5/26/23
+1027,2,PMGRC-794-793-2,purple top,CRU,peripheral blood,5/24/2023,5/25/2023,shipped to UCI,5/25/23,772254633399,5/26/23
+1028,1,PMGRC-795-793-1,PAX tube,CRU,peripheral blood,5/24/2023,5/25/2023,shipped to UCI,5/25/23,772254633399,5/26/23
+1029,1,PMGRC-795-793-1,purple top,CRU,peripheral blood,5/24/2023,5/25/2023,shipped to UCI,5/25/23,772254633399,5/26/23
+1030,0,PMGRC-719-719-0,buccal swab,Mailed Buccal,saliva,5/25/2023,6/2/2023,shipped to UCI,6/7/2023,772377067832,6/8/23
+1031,0,PMGRC-719-719-0,buccal swab,Mailed Buccal,saliva,5/25/2023,6/2/2023,shipped to UCI,6/7/2023,772377067832,6/8/23
+1032,2,PMGRC-720-719-2,buccal swab,Mailed Buccal,saliva,5/25/2023,6/2/2023,shipped to UCI,6/7/2023,772377067832,6/8/23
+1033,2,PMGRC-720-719-2,buccal swab,Mailed Buccal,saliva,5/25/2023,6/2/2023,shipped to UCI,6/7/2023,772377067832,6/8/23
+1034,3,PMGRC-788-784-3,buccal swab,Mailed Buccal,saliva,5/26/2023,6/2/2023,shipped to UCI,6/7/2023,772377067832,6/8/23
+1035,3,PMGRC-788-784-3,buccal swab,Mailed Buccal,saliva,5/26/2023,6/2/2023,shipped to UCI,6/7/2023,772377067832,6/8/23
+1036,0,PMGRC-796-796-0,buccal swab,Mailed Buccal,saliva,6/5/2023,6/7/2023,shipped to UCI,6/7/2023,772377067832,6/8/23
+1037,0,PMGRC-796-796-0,buccal swab,Mailed Buccal,saliva,6/6/2023,6/7/2023,shipped to UCI,6/7/2023,772377067832,6/8/23
+1038,0,PMGRC-737-737-0,buccal swab,Mailed Buccal,saliva,6/6/2023,6/7/2023,shipped to UCI,6/7/2023,772377067832,6/8/23
+1039,0,PMGRC-737-737-0,buccal swab,Mailed Buccal,saliva,6/6/2023,6/7/2023,shipped to UCI,6/7/2023,772377067832,6/8/23
+1040,2,PMGRC-736-737-2,buccal swab,Mailed Buccal,saliva,6/6/2023,6/7/2023,shipped to UCI,6/7/2023,772377067832,6/8/23
+1041,2,PMGRC-736-737-2,buccal swab,Mailed Buccal,saliva,6/6/2023,6/7/2023,shipped to UCI,6/7/2023,772377067832,6/8/23
+1042,0,PMGRC-801-801-0,PAX tube,Offsite,peripheral blood,6/6/2023,6/7/2023,shipped to UCI,6/7/2023,772377067832,6/8/23
+1043,0,PMGRC-801-801-0,purple top,Offsite,peripheral blood,6/6/2023,6/7/2023,shipped to UCI,6/7/2023,772377067832,6/8/23
+1044,0,PMGRC-580-580-0,PAX tube,CRU,peripheral blood,6/8/2023,6/14/2023,shipped to UCI,6/14/2023,772446998461,6/15/2023
+1045,0,PMGRC-580-580-0,purple top,CRU,peripheral blood,6/8/2023,6/14/2023,shipped to UCI,6/14/2023,772446998461,6/15/2023
+1046,1,PMGRC-582-580-1,PAX tube,CRU,peripheral blood,6/8/2023,6/14/2023,shipped to UCI,6/14/2023,772446998461,6/15/2023
+1047,1,PMGRC-582-580-1,purple top,CRU,peripheral blood,6/8/2023,6/14/2023,shipped to UCI,6/14/2023,772446998461,6/15/2023
+1048,2,PMGRC-581-580-2,PAX tube,CRU,peripheral blood,6/8/2023,6/14/2023,shipped to UCI,6/14/2023,772446998461,6/15/2023
+1049,2,PMGRC-581-580-2,purple top,CRU,peripheral blood,6/8/2023,6/14/2023,shipped to UCI,6/14/2023,772446998461,6/15/2023
+1050,0,PMGRC-385-385-0,PAX tube,CRU,peripheral blood,6/14/2023,6/14/2023,shipped to UCI,6/14/2023,772446998461,6/15/2023
+1051,0,PMGRC-385-385-0,purple top,CRU,peripheral blood,6/14/2023,6/14/2023,shipped to UCI,6/14/2023,772446998461,6/15/2023
+1052,2,PMGRC-386-385-2,PAX tube,CRU,peripheral blood,6/14/2023,6/14/2023,shipped to UCI,6/14/2023,772446998461,6/15/2023
+1053,2,PMGRC-386-385-2,purple top,CRU,peripheral blood,6/14/2023,6/14/2023,shipped to UCI,6/14/2023,772446998461,6/15/2023
+1054,1,PMGRC-387-385-1,PAX tube,CRU,peripheral blood,6/14/2023,6/14/2023,shipped to UCI,6/14/2023,772446998461,6/15/2023
+1055,1,PMGRC-387-385-1,purple top,CRU,peripheral blood,6/14/2023,6/14/2023,shipped to UCI,6/14/2023,772446998461,6/15/2023
+1056,3,PMGRC-787-784-3,buccal swab,Mailed Buccal,saliva,6/7/2023,6/27/2023,shipped to UCI,6/27/2023,772573151160,6/28/2023
+1057,3,PMGRC-787-784-3,buccal swab,Mailed Buccal,saliva,6/7/2023,6/27/2023,shipped to UCI,6/27/2023,772573151160,6/28/2023
+1058,0,PMGRC-675-675-0,purple top,Clinical Lab CNH,peripheral blood,6/21/2023,6/27/2023,shipped to UCI,6/27/2023,772573151160,6/28/2023
+1059,0,PMGRC-675-675-0,PAX tube,Clinical Lab CNH,peripheral blood,6/21/2023,6/27/2023,shipped to UCI,6/27/2023,772573151160,6/28/2023
+1119,0,PMGRC-653-653-0,PAX tube,CRU,peripheral blood,6/30/2023,7/6/2023,shipped to UCI,7/6/2023,772660084529,7/7/2023
+1120,0,PMGRC-653-653-0,purple top,CRU,peripheral blood,6/30/2023,7/6/2023,shipped to UCI,7/6/2023,772660084529,7/7/2023
+1121,2,PMGRC-654-653-2,PAX tube,CRU,peripheral blood,6/30/2023,7/6/2023,shipped to UCI,7/6/2023,772660084529,7/7/2023
+1122,2,PMGRC-654-653-2,purple top,CRU,peripheral blood,6/30/2023,7/6/2023,shipped to UCI,7/6/2023,772660084529,7/7/2023
+1123,0,PMGRC-827-827-0,PAX tube,Clinical Lab CNH,peripheral blood,6/30/2023,7/6/2023,shipped to UCI,7/6/2023,772660084529,7/7/2023
+1124,0,PMGRC-827-827-0,purple top,Clinical Lab CNH,peripheral blood,6/30/2023,7/6/2023,shipped to UCI,7/6/2023,772660084529,7/7/2023
+1125,3,PMGRC-828-827-3,PAX tube,Clinical Lab CNH,peripheral blood,6/30/2023,7/6/2023,shipped to UCI,7/6/2023,772660084529,7/7/2023
+1126,3,PMGRC-828-827-3,purple top,Clinical Lab CNH,peripheral blood,6/30/2023,7/6/2023,shipped to UCI,7/6/2023,772660084529,7/7/2023
+1127,2,PMGRC-829-827-2,PAX tube,Clinical Lab CNH,peripheral blood,6/30/2023,7/6/2023,shipped to UCI,7/6/2023,772660084529,7/7/2023
+1128,2,PMGRC-829-827-2,purple top,Clinical Lab CNH,peripheral blood,6/30/2023,7/6/2023,shipped to UCI,7/6/2023,772660084529,7/7/2023
+1129,1,PMGRC-830-827-1,PAX tube,Clinical Lab CNH,peripheral blood,6/30/2023,7/6/2023,shipped to UCI,7/6/2023,772660084529,7/7/2023
+1130,1,PMGRC-830-827-1,purple top,Clinical Lab CNH,peripheral blood,6/30/2023,7/6/2023,shipped to UCI,7/6/2023,772660084529,7/7/2023
+1131,0,PMGRC-802-802-0,PAX tube,CRU,peripheral blood,7/3/2023,7/6/2023,shipped to UCI,7/6/2023,772660084529,7/7/2023
+1132,0,PMGRC-802-802-0,purple top,CRU,peripheral blood,7/3/2023,7/6/2023,shipped to UCI,7/6/2023,772660084529,7/7/2023
+1133,2,PMGRC-803-802-2,PAX tube,CRU,peripheral blood,7/3/2023,7/6/2023,shipped to UCI,7/6/2023,772660084529,7/7/2023
+1134,2,PMGRC-803-802-2,purple top,CRU,peripheral blood,7/3/2023,7/6/2023,shipped to UCI,7/6/2023,772660084529,7/7/2023
+1135,1,PMGRC-804-802-1,PAX tube,CRU,peripheral blood,7/3/2023,7/6/2023,shipped to UCI,7/6/2023,772660084529,7/7/2023
+1136,1,PMGRC-804-802-1,purple top,CRU,peripheral blood,7/3/2023,7/6/2023,shipped to UCI,7/6/2023,772660084529,7/7/2023
+1137,0,PMGRC-599-599-0,PAX tube,CRU,peripheral blood,7/6/2023,7/6/2023,shipped to UCI,7/6/2023,772660084529,7/7/2023
+1138,0,PMGRC-599-599-0,purple top,CRU,peripheral blood,7/6/2023,7/6/2023,shipped to UCI,7/6/2023,772660084529,7/7/2023
+1139,2,PMGRC-600-599-2,PAX tube,CRU,peripheral blood,7/6/2023,7/6/2023,shipped to UCI,7/6/2023,772660084529,7/7/2023
+1140,2,PMGRC-600-599-2,purple top,CRU,peripheral blood,7/6/2023,7/6/2023,shipped to UCI,7/6/2023,772660084529,7/7/2023
+1141,1,PMGRC-601-599-1,PAX tube,CRU,peripheral blood,7/6/2023,7/6/2023,shipped to UCI,7/6/2023,772660084529,7/7/2023
+1142,1,PMGRC-601-599-1,purple top,CRU,peripheral blood,7/6/2023,7/6/2023,shipped to UCI,7/6/2023,772660084529,7/7/2023
+1143,2,PMGRC-778-779-2,buccal swab,Mailed Buccal,saliva,7/10/2023,7/13/2023,shipped to UCI,7/19/2023,772782333111,7/21/2023
+1144,2,PMGRC-778-779-2,buccal swab,Mailed Buccal,saliva,7/10/2023,7/13/2023,shipped to UCI,7/19/2023,772782333111,7/21/2023
+1145,0,PMGRC-779-779-0,buccal swab,Mailed Buccal,saliva,7/10/2023,7/13/2023,shipped to UCI,7/19/2023,772782333111,7/21/2023
+1146,0,PMGRC-779-779-0,buccal swab,Mailed Buccal,saliva,7/10/2023,7/13/2023,shipped to UCI,7/19/2023,772782333111,7/21/2023
+1147,1,PMGRC-780-779-1,buccal swab,Mailed Buccal,saliva,7/10/2023,7/13/2023,shipped to UCI,7/19/2023,772782333111,7/21/2023
+1148,1,PMGRC-780-779-1,buccal swab,Mailed Buccal,saliva,7/10/2023,7/13/2023,shipped to UCI,7/19/2023,772782333111,7/21/2023
+1149,0,PMGRC-664-664-0,purple top,other,peripheral blood,7/12/2023,7/13/2023,shipped to UCI,7/19/2023,772782333111,7/21/2023
+1150,0,PMGRC-664-664-0,PAX tube,other,peripheral blood,7/12/2023,7/13/2023,shipped to UCI,7/19/2023,772782333111,7/21/2023
+1151,2,PMGRC-665-664-2,purple top,other,peripheral blood,7/12/2023,7/13/2023,shipped to UCI,7/19/2023,772782333111,7/21/2023
+1152,2,PMGRC-665-664-2,PAX tube,other,peripheral blood,7/12/2023,7/13/2023,shipped to UCI,7/19/2023,772782333111,7/21/2023
+1153,1,PMGRC-745-664-1,purple top,other,peripheral blood,7/12/2023,7/13/2023,shipped to UCI,7/19/2023,772782333111,7/21/2023
+1154,1,PMGRC-745-664-1,PAX tube,other,peripheral blood,7/12/2023,7/13/2023,shipped to UCI,7/19/2023,772782333111,7/21/2023
+1155,1,PMGRC-732-653-1,buccal swab,Mailed Buccal,saliva,7/18/2023,N/A,shipped to UCI,7/19/2023,772782333111,7/21/2023
+1156,1,PMGRC-732-653-1,buccal swab,Mailed Buccal,saliva,7/18/2023,N/A,shipped to UCI,7/19/2023,772782333111,7/21/2023
+1157,0,PMGRC-817-817-0,buccal swab,Mailed Buccal,saliva,7/7/2023,N/A,shipped to UCI,7/19/2023,772782333111,7/21/2023
+1158,0,PMGRC-817-817-0,buccal swab,Mailed Buccal,saliva,7/7/2023,N/A,shipped to UCI,7/19/2023,772782333111,7/21/2023
+1159,0,PMGRC-635-635-0,buccal swab,Mailed Buccal,saliva,7/17/2023,N/A,shipped to UCI,7/19/2023,772782333111,7/21/2023
+1160,0,PMGRC-635-635-0,buccal swab,Mailed Buccal,saliva,7/17/2023,N/A,shipped to UCI,7/19/2023,772782333111,7/21/2023
+1161,2,PMGRC-636-635-2,buccal swab,Mailed Buccal,saliva,7/17/2023,N/A,shipped to UCI,7/19/2023,772782333111,7/21/2023
+1162,2,PMGRC-636-635-2,buccal swab,Mailed Buccal,saliva,7/17/2023,N/A,shipped to UCI,7/19/2023,772782333111,7/21/2023
+1163,3,PMGRC-637-635-3,buccal swab,Mailed Buccal,saliva,7/17/2023,N/A,shipped to UCI,7/19/2023,772782333111,7/21/2023
+1164,3,PMGRC-637-635-3,buccal swab,Mailed Buccal,saliva,7/17/2023,N/A,shipped to UCI,7/19/2023,772782333111,7/21/2023
+1165,3,PMGRC-638-635-3,buccal swab,Mailed Buccal,saliva,7/17/2023,N/A,shipped to UCI,7/19/2023,772782333111,7/21/2023
+1166,3,PMGRC-638-635-3,buccal swab,Mailed Buccal,saliva,7/17/2023,N/A,shipped to UCI,7/19/2023,772782333111,7/21/2023
+1167,1,PMGRC-826-635-1,buccal swab,Mailed Buccal,saliva,7/17/2023,N/A,shipped to UCI,7/19/2023,772782333111,7/21/2023
+1168,1,PMGRC-826-635-1,buccal swab,Mailed Buccal,saliva,7/17/2023,N/A,shipped to UCI,7/19/2023,772782333111,7/21/2023
+1169,0,PMGRC-807-807-0,purple top,Offsite,peripheral blood,6/15/2023,N/A,shipped to UCI,6/15/2023,(handed-off),6/15/2023
+1170,0,PMGRC-807-807-0,PAX tube,Offsite,peripheral blood,6/15/2023,N/A,shipped to UCI,6/15/2023,(handed-off),6/15/2023
+1171,1,PMGRC-805-807-1,buccal swab,Offsite,saliva,6/15/2023,N/A,shipped to UCI,6/15/2023,(handed-off),6/15/2023
+1172,2,PMGRC-806-807-2,buccal swab,Offsite,saliva,6/15/2023,N/A,shipped to UCI,6/15/2023,(handed-off),6/15/2023
+1173,,PMGRC-847-848-2,purple top,CRU,peripheral blood,07/26/2023,,shipped to UCI,08/02/2023,772928711881,
+1174,,PMGRC-847-848-2,PAX tube,CRU,peripheral blood,07/26/2023,,shipped to UCI,08/02/2023,772928711881,
+1175,,PMGRC-848-848-0,purple top,CRU,peripheral blood,07/26/2023,,shipped to UCI,08/02/2023,772928711881,
+1176,,PMGRC-848-848-0,PAX tube,CRU,peripheral blood,07/26/2023,,shipped to UCI,08/02/2023,772928711881,
+1281,3,PMGRC-250-251-3,PAX tube,Inpatient,peripheral blood,08/10/2022,N/A,,N/A,,N/A
+1282,3,PMGRC-250-251-3,purple top,Inpatient,peripheral blood,08/10/2022,N/A,,N/A,,N/A
+1283,0,PMGRC-251-251-0,PAX tube,Inpatient,peripheral blood,08/10/2022,N/A,,N/A,,N/A
+1284,0,PMGRC-251-251-0,purple top,Inpatient,peripheral blood,08/10/2022,N/A,,N/A,,N/A
+1285,2,PMGRC-252-251-2,PAX tube,Inpatient,peripheral blood,08/10/2022,N/A,,N/A,,N/A
+1286,2,PMGRC-252-251-2,purple top,Inpatient,peripheral blood,08/10/2022,N/A,,N/A,,N/A
+1287,1,PMGRC-253-251-1,PAX tube,Inpatient,peripheral blood,08/10/2022,N/A,,N/A,,N/A
+1288,1,PMGRC-253-251-1,purple top,Inpatient,peripheral blood,08/10/2022,N/A,,N/A,,N/A
+1289,0,PMGRC-284-284-0,PAX tube,Inpatient,peripheral blood,03/08/2022,N/A,,N/A,,N/A
+1290,0,PMGRC-284-284-0,purple top,Inpatient,peripheral blood,03/08/2022,N/A,,N/A,,N/A
+1291,1,PMGRC-285-284-1,PAX tube,Inpatient,peripheral blood,03/08/2022,N/A,,N/A,,N/A
+1292,1,PMGRC-285-284-1,purple top,Inpatient,peripheral blood,03/08/2022,N/A,,N/A,,N/A
+1293,2,PMGRC-286-284-2,PAX tube,Inpatient,peripheral blood,03/08/2022,N/A,,N/A,,N/A
+1294,2,PMGRC-286-284-2,purple top,Inpatient,peripheral blood,03/08/2022,N/A,,N/A,,N/A
+1295,0,PMGRC-619-619-0,purple top,other,FETAL EXTRACTED DNA,04/13/2023,N/A,,N/A,,N/A
+1296,0,PMGRC-854-854-0,PAX tube,Clinical Lab CNH,peripheral blood,07/20/2023,N/A,shipped to UCI,N/A,,N/A
+1297,0,PMGRC-854-854-0,purple top,Clinical Lab CNH,peripheral blood,07/20/2023,N/A,shipped to UCI,N/A,,N/A
+1298,1,PMGRC-855-854-1,PAX tube,Clinical Lab CNH,peripheral blood,07/20/2023,N/A,shipped to UCI,N/A,,N/A
+1299,1,PMGRC-855-854-1,purple top,Clinical Lab CNH,peripheral blood,07/20/2023,N/A,shipped to UCI,N/A,,N/A
+1300,2,PMGRC-838-839-2,PAX tube,other,peripheral blood,07/27/2023,N/A,shipped to UCI,N/A,,N/A
+1301,2,PMGRC-838-839-2,purple top,other,peripheral blood,07/27/2023,N/A,shipped to UCI,N/A,,N/A
+1302,0,PMGRC-839-839-0,PAX tube,other,peripheral blood,07/27/2023,N/A,shipped to UCI,N/A,,N/A
+1303,0,PMGRC-839-839-0,purple top,other,peripheral blood,07/27/2023,N/A,shipped to UCI,N/A,,N/A
+1304,1,PMGRC-840-839-1,PAX tube,other,peripheral blood,07/27/2023,N/A,shipped to UCI,N/A,,N/A
+1305,1,PMGRC-840-839-1,purple top,other,peripheral blood,07/27/2023,N/A,shipped to UCI,N/A,,N/A
+1306,1,PMGRC-864-865-1,buccal swab,Mailed Buccal,saliva,08/04/2023,N/A,shipped to UCI,N/A,,N/A
+1307,1,PMGRC-864-865-1,buccal swab,Mailed Buccal,saliva,08/04/2023,N/A,shipped to UCI,N/A,,N/A
+1308,0,PMGRC-865-865-0,buccal swab,Mailed Buccal,saliva,08/04/2023,N/A,shipped to UCI,N/A,,N/A
+1309,0,PMGRC-865-865-0,buccal swab,Mailed Buccal,saliva,08/04/2023,N/A,shipped to UCI,N/A,,N/A
+1310,2,PMGRC-866-865-2,buccal swab,Mailed Buccal,saliva,08/04/2023,N/A,shipped to UCI,N/A,,N/A
+1311,2,PMGRC-866-865-2,buccal swab,Mailed Buccal,saliva,08/04/2023,N/A,shipped to UCI,N/A,,N/A
+1312,1,PMGRC-820-821-1,PAX tube,CRU,peripheral blood,08/08/2023,N/A,shipped to UCI,N/A,,N/A
+1313,1,PMGRC-820-821-1,purple top,CRU,peripheral blood,08/08/2023,N/A,shipped to UCI,N/A,,N/A
+1314,0,PMGRC-821-821-0,PAX tube,CRU,peripheral blood,08/08/2023,N/A,shipped to UCI,N/A,,N/A
+1315,0,PMGRC-821-821-0,purple top,CRU,peripheral blood,08/08/2023,N/A,shipped to UCI,N/A,,N/A
+1316,2,PMGRC-834-821-2,PAX tube,CRU,peripheral blood,08/08/2023,N/A,shipped to UCI,N/A,,N/A
+1317,2,PMGRC-834-821-2,purple top,CRU,peripheral blood,08/08/2023,N/A,shipped to UCI,N/A,,N/A
+1318,0,PMGRC-856-856-0,buccal swab,Mailed Buccal,saliva,08/09/2023,N/A,shipped to UCI,N/A,,N/A
+1319,0,PMGRC-856-856-0,buccal swab,Mailed Buccal,saliva,08/09/2023,N/A,shipped to UCI,N/A,,N/A
+1320,3,PMGRC-857-856-3,buccal swab,Mailed Buccal,saliva,08/09/2023,N/A,shipped to UCI,N/A,,N/A
+1321,3,PMGRC-857-856-3,buccal swab,Mailed Buccal,saliva,08/09/2023,N/A,shipped to UCI,N/A,,N/A
+1322,2,PMGRC-858-856-2,buccal swab,Mailed Buccal,saliva,08/09/2023,N/A,shipped to UCI,N/A,,N/A
+1323,2,PMGRC-858-856-2,buccal swab,Mailed Buccal,saliva,08/09/2023,N/A,shipped to UCI,N/A,,N/A
+1324,1,PMGRC-859-856-1,buccal swab,Mailed Buccal,saliva,08/09/2023,N/A,shipped to UCI,N/A,,N/A
+1325,1,PMGRC-859-856-1,buccal swab,Mailed Buccal,saliva,08/09/2023,N/A,shipped to UCI,N/A,,N/A
+1326,2,PMGRC-869-870-2,buccal swab,Mailed Buccal,saliva,08/21/2023,N/A,Core Fridge,N/A,,N/A
+1327,2,PMGRC-869-870-2,buccal swab,Mailed Buccal,saliva,08/21/2023,N/A,Core Fridge,N/A,,N/A
+1328,0,PMGRC-870-870-0,buccal swab,Mailed Buccal,saliva,08/21/2023,N/A,Core Fridge,N/A,,N/A
+1329,0,PMGRC-870-870-0,buccal swab,Mailed Buccal,saliva,08/21/2023,N/A,Core Fridge,N/A,,N/A
+1610,0,PMGRC-878-878-0,PAX tube,Offsite,peripheral blood,08/30/2023,08/30/2023,shipped to UCI,09/06/2023,773321889810,N/A
+1611,0,PMGRC-878-878-0,purple top,Offsite,peripheral blood,08/30/2023,08/30/2023,shipped to UCI,09/06/2023,773321889810,N/A
+1612,2,PMGRC-868-867-2,PAX tube,CRU,peripheral blood,08/17/2023,09/06/2023,shipped to UCI,09/06/2023,773321889810,N/A
+1613,2,PMGRC-868-867-2,purple top,CRU,peripheral blood,08/17/2023,09/06/2023,shipped to UCI,09/06/2023,773321889810,N/A
+1614,0,PMGRC-867-867-0,PAX tube,CRU,peripheral blood,08/17/2023,09/06/2023,shipped to UCI,09/06/2023,773321889810,N/A
+1615,0,PMGRC-867-867-0,purple top,CRU,peripheral blood,08/17/2023,09/06/2023,shipped to UCI,09/06/2023,773321889810,N/A
+1616,0,PMGRC-773-773-0,PAX tube,Inpatient,peripheral blood,09/01/2023,09/06/2023,shipped to UCI,09/06/2023,773321889810,N/A
+1617,0,PMGRC-773-773-0,purple top,Inpatient,peripheral blood,09/01/2023,09/06/2023,shipped to UCI,09/06/2023,773321889810,N/A
+1618,2,PMGRC-789-773-2,PAX tube,CRU,peripheral blood,09/01/2023,09/06/2023,shipped to UCI,09/06/2023,773321889810,N/A
+1619,2,PMGRC-789-773-2,purple top,CRU,peripheral blood,09/01/2023,09/06/2023,shipped to UCI,09/06/2023,773321889810,N/A
+1620,1,PMGRC-790-773-1,PAX tube,CRU,peripheral blood,09/01/2023,09/06/2023,shipped to UCI,09/06/2023,773321889810,N/A
+1621,1,PMGRC-790-773-1,purple top,CRU,peripheral blood,09/01/2023,09/06/2023,shipped to UCI,09/06/2023,773321889810,N/A
+1622,2,PMGRC-824-825-2,buccal swab,Mailed Buccal,saliva,09/03/2023,09/06/2023,shipped to UCI,09/06/2023,773321889810,N/A
+1623,2,PMGRC-824-825-2,buccal swab,Mailed Buccal,saliva,09/03/2023,09/06/2023,shipped to UCI,09/06/2023,773321889810,N/A
+1624,0,PMGRC-825-825-0,buccal swab,Mailed Buccal,saliva,09/03/2023,09/06/2023,shipped to UCI,09/06/2023,773321889810,N/A
+1625,0,PMGRC-825-825-0,buccal swab,Mailed Buccal,saliva,09/03/2023,09/06/2023,shipped to UCI,09/06/2023,773321889810,N/A
+1626,1,PMGRC-835-825-1,buccal swab,Mailed Buccal,saliva,09/03/2023,09/06/2023,shipped to UCI,09/06/2023,773321889810,N/A
+1627,1,PMGRC-835-825-1,buccal swab,Mailed Buccal,saliva,09/03/2023,09/06/2023,shipped to UCI,09/06/2023,773321889810,N/A
+1628,1,PMGRC-809-808-1,PAX tube,CRU,peripheral blood,09/05/2023,09/06/2023,shipped to UCI,09/06/2023,773321889810,N/A
+1629,1,PMGRC-809-808-1,purple top,CRU,peripheral blood,09/05/2023,09/06/2023,shipped to UCI,09/06/2023,773321889810,N/A
+1630,2,PMGRC-810-808-2,PAX tube,CRU,peripheral blood,09/05/2023,09/06/2023,shipped to UCI,09/06/2023,773321889810,N/A
+1631,2,PMGRC-810-808-2,purple top,CRU,peripheral blood,09/05/2023,09/06/2023,shipped to UCI,09/06/2023,773321889810,N/A
+1632,2,PMGRC-811-812-2,buccal swab,Mailed Buccal,saliva,09/06/2023,09/13/2023,shipped to UCI,09/14/2023,773399626303,N/A
+1633,2,PMGRC-811-812-2,buccal swab,Mailed Buccal,saliva,09/06/2023,09/13/2023,shipped to UCI,09/14/2023,773399626303,N/A
+1634,0,PMGRC-812-812-0,buccal swab,Mailed Buccal,saliva,09/06/2023,09/13/2023,shipped to UCI,09/14/2023,773399626303,N/A
+1635,0,PMGRC-812-812-0,buccal swab,Mailed Buccal,saliva,09/06/2023,09/13/2023,shipped to UCI,09/14/2023,773399626303,N/A
+1636,1,PMGRC-813-812-1,buccal swab,Mailed Buccal,saliva,09/06/2023,09/13/2023,shipped to UCI,09/14/2023,773399626303,N/A
+1637,1,PMGRC-813-812-1,buccal swab,Mailed Buccal,saliva,09/06/2023,09/13/2023,shipped to UCI,09/14/2023,773399626303,N/A
+1638,0,PMGRC-506-506-0,buccal swab,Mailed Buccal,saliva,09/10/2023,09/13/2023,shipped to UCI,09/14/2023,773399626303,N/A
+1639,0,PMGRC-506-506-0,buccal swab,Mailed Buccal,saliva,09/10/2023,09/13/2023,shipped to UCI,09/14/2023,773399626303,N/A
+1640,2,PMGRC-925-926-2,PAX tube,CRU,peripheral blood,09/11/2023,09/13/2023,shipped to UCI,09/14/2023,773399626303,N/A
+1641,2,PMGRC-925-926-2,purple top,CRU,peripheral blood,09/11/2023,09/13/2023,shipped to UCI,09/14/2023,773399626303,N/A
+1642,0,PMGRC-926-926-0,PAX tube,CRU,peripheral blood,09/11/2023,09/13/2023,shipped to UCI,09/14/2023,773399626303,N/A
+1643,0,PMGRC-926-926-0,purple top,CRU,peripheral blood,09/11/2023,09/13/2023,shipped to UCI,09/14/2023,773399626303,N/A
+1644,1,PMGRC-927-926-1,PAX tube,CRU,peripheral blood,09/11/2023,09/13/2023,shipped to UCI,09/14/2023,773399626303,N/A
+1645,1,PMGRC-927-926-1,purple top,CRU,peripheral blood,09/11/2023,09/13/2023,shipped to UCI,09/14/2023,773399626303,N/A
+1646,0,PMGRC-118-118-0,buccal swab,Mailed Buccal,saliva,09/11/2023,09/14/2023,shipped to UCI,10/03/2023,773616233832,N/A
+1647,0,PMGRC-118-118-0,buccal swab,Mailed Buccal,saliva,09/11/2023,09/14/2023,shipped to UCI,10/03/2023,773616233832,N/A
+1648,3,PMGRC-923-878-3,buccal swab,Mailed Buccal,saliva,09/21/2023,10/03/2023,shipped to UCI,10/03/2023,773616233832,N/A
+1649,3,PMGRC-923-878-3,buccal swab,Mailed Buccal,saliva,09/21/2023,10/03/2023,shipped to UCI,10/03/2023,773616233832,N/A
+1650,0,PMGRC-871-871-0,buccal swab,Mailed Buccal,saliva,09/21/2023,10/03/2023,shipped to UCI,10/03/2023,773616233832,N/A
+1651,0,PMGRC-871-871-0,buccal swab,Mailed Buccal,saliva,09/21/2023,10/03/2023,shipped to UCI,10/03/2023,773616233832,N/A
+1652,1,PMGRC-872-871-1,buccal swab,Mailed Buccal,saliva,09/21/2023,10/03/2023,shipped to UCI,10/03/2023,773616233832,N/A
+1653,1,PMGRC-872-871-1,buccal swab,Mailed Buccal,saliva,09/21/2023,10/03/2023,shipped to UCI,10/03/2023,773616233832,N/A
+1654,2,PMGRC-873-871-2,buccal swab,Mailed Buccal,saliva,09/21/2023,10/03/2023,shipped to UCI,10/03/2023,773616233832,N/A
+1655,2,PMGRC-873-871-2,buccal swab,Mailed Buccal,saliva,09/21/2023,10/03/2023,shipped to UCI,10/03/2023,773616233832,N/A
+1656,0,PMGRC-941-941-0,PAX tube,Offsite,peripheral blood,09/21/2023,10/03/2023,shipped to UCI,10/03/2023,773616233832,N/A
+1657,0,PMGRC-941-941-0,purple top,Offsite,peripheral blood,09/21/2023,10/04/2023,shipped to UCI,10/03/2023,773616233832,N/A
+1658,0,PMGRC-924-924-0,PAX tube,Offsite,peripheral blood,08/28/2023,10/03/2023,shipped to UCI,10/03/2023,773616233832,N/A
+1659,0,PMGRC-924-924-0,purple top,Offsite,peripheral blood,08/28/2023,10/04/2023,shipped to UCI,10/03/2023,773616233832,N/A
+1660,0,PMGRC-935-935-0,buccal swab,Mailed Buccal,saliva,10/03/2023,10/10/2023,shipped to UCI,10/10/2023,773691989770,N/A
+1661,0,PMGRC-935-935-0,buccal swab,Mailed Buccal,saliva,10/03/2023,10/10/2023,shipped to UCI,10/10/2023,773691989770,N/A
+1662,2,PMGRC-934-935-2,buccal swab,Mailed Buccal,saliva,10/03/2023,10/10/2023,shipped to UCI,10/10/2023,773691989770,N/A
+1663,2,PMGRC-934-935-2,buccal swab,Mailed Buccal,saliva,10/03/2023,10/10/2023,shipped to UCI,10/10/2023,773691989770,N/A
+1664,2,PMGRC-860-861-2,PAX tube,Offsite,peripheral blood,10/09/2023,10/10/2023,shipped to UCI,10/10/2023,773691989770,N/A
+1665,2,PMGRC-860-861-2,purple top,Offsite,peripheral blood,10/09/2023,10/10/2023,shipped to UCI,10/10/2023,773691989770,N/A
+1666,0,PMGRC-861-861-0,PAX tube,Offsite,peripheral blood,10/09/2023,10/10/2023,shipped to UCI,10/10/2023,773691989770,N/A
+1667,0,PMGRC-861-861-0,purple top,Offsite,peripheral blood,10/09/2023,10/10/2023,shipped to UCI,10/10/2023,773691989770,N/A
+1668,2,PMGRC-939-940-2,buccal swab,Mailed Buccal,saliva,10/19/2023,10/25/2023,shipped to UCI,10/25/2023,773864380518,N/A
+1669,2,PMGRC-939-940-2,buccal swab,Mailed Buccal,saliva,10/19/2023,10/25/2023,shipped to UCI,10/25/2023,773864380518,N/A
+1670,0,PMGRC-940-940-0,buccal swab,Mailed Buccal,saliva,10/19/2023,10/25/2023,shipped to UCI,10/25/2023,773864380518,N/A
+1671,0,PMGRC-940-940-0,buccal swab,Mailed Buccal,saliva,10/19/2023,10/25/2023,shipped to UCI,10/25/2023,773864380518,N/A
+1672,0,PMGRC-758-758-0,buccal swab,Mailed Buccal,saliva,10/20/2023,10/25/2023,shipped to UCI,10/25/2023,773864380518,N/A
+1673,0,PMGRC-758-758-0,buccal swab,Mailed Buccal,saliva,10/20/2023,10/25/2023,shipped to UCI,10/25/2023,773864380518,N/A
+1674,0,PMGRC-547-547-0,buccal swab,Mailed Buccal,saliva,10/16/2023,11/07/2023,Core Fridge,N/A,,N/A
+1675,0,PMGRC-547-547-0,buccal swab,Mailed Buccal,saliva,10/16/2023,11/07/2023,Core Fridge,N/A,,N/A
+1676,0,PMGRC-796-796-0,PAX tube,Offsite,peripheral blood,11/06/2023,11/07/2023,Core Fridge,N/A,,N/A
+1677,0,PMGRC-796-796-0,purple top,Offsite,peripheral blood,11/06/2023,11/07/2023,Core Fridge,N/A,,N/A
+1678,2,PMGRC-822-823-2,PAX tube,CRU,peripheral blood,11/08/2023,11/08/2023,shipped to UCI,11/08/2023,774037679763,N/A
+1679,2,PMGRC-822-823-2,purple top,CRU,peripheral blood,11/08/2023,11/08/2023,shipped to UCI,11/08/2023,774037679763,N/A
+1680,0,PMGRC-823-823-0,PAX tube,CRU,peripheral blood,11/08/2023,11/08/2023,shipped to UCI,11/08/2023,774037679763,N/A
+1681,0,PMGRC-823-823-0,purple top,CRU,peripheral blood,11/08/2023,11/08/2023,shipped to UCI,11/08/2023,774037679763,N/A
+1682,1,PMGRC-833-823-1,PAX tube,CRU,peripheral blood,11/08/2023,11/08/2023,shipped to UCI,11/08/2023,774037679763,N/A
+1683,1,PMGRC-833-823-1,purple top,CRU,peripheral blood,11/08/2023,11/08/2023,shipped to UCI,11/08/2023,774037679763,N/A
+1696,1,PMGRC-1057-940-1,buccal swab,Mailed Buccal,saliva,10/15/2023,10/25/2023,shipped to UCI,10/25/2023,773864380518,N/A
+1697,1,PMGRC-1057-940-1,buccal swab,Mailed Buccal,saliva,10/15/2023,10/25/2023,shipped to UCI,10/25/2023,773864380518,N/A
+1698,3,PMGRC-1059-801-3,buccal swab,Mailed Buccal,saliva,10/19/2023,10/25/2023,shipped to UCI,10/25/2023,773864380518,N/A
+1699,3,PMGRC-1059-801-3,buccal swab,Mailed Buccal,saliva,10/19/2023,10/25/2023,shipped to UCI,10/25/2023,773864380518,N/A
+1700,2,PMGRC-1060-801-2,buccal swab,Mailed Buccal,saliva,10/19/2023,10/25/2023,shipped to UCI,10/25/2023,773864380518,N/A
+1701,2,PMGRC-1060-801-2,buccal swab,Mailed Buccal,saliva,10/19/2023,10/25/2023,shipped to UCI,10/25/2023,773864380518,N/A
+1702,1,PMGRC-1061-801-1,buccal swab,Mailed Buccal,saliva,10/19/2023,10/25/2023,shipped to UCI,10/25/2023,773864380518,N/A
+1703,1,PMGRC-1061-801-1,buccal swab,Mailed Buccal,saliva,10/19/2023,10/25/2023,shipped to UCI,10/25/2023,773864380518,N/A
+1704,2,PMGRC-1062-1063-2,purple top,CRU,peripheral blood,10/25/2023,10/25/2023,shipped to UCI,10/25/2023,773864380518,N/A
+1705,2,PMGRC-1062-1063-2,PAX tube,CRU,peripheral blood,10/25/2023,10/25/2023,shipped to UCI,10/25/2023,773864380518,N/A
+1706,0,PMGRC-1063-1063-0,purple top,CRU,peripheral blood,10/25/2023,10/25/2023,shipped to UCI,10/25/2023,773864380518,N/A
+1707,0,PMGRC-1063-1063-0,PAX tube,CRU,peripheral blood,10/25/2023,10/25/2023,shipped to UCI,10/25/2023,773864380518,N/A
+1708,0,PMGRC-1074-1074-0,buccal swab,Mailed Buccal,saliva,11/09/2023,11/28/2023,shipped to UCI,11/28/2023,774261692381,11/29/2023
+1709,0,PMGRC-1074-1074-0,buccal swab,Mailed Buccal,saliva,11/09/2023,11/28/2023,shipped to UCI,11/28/2023,774261692381,11/29/2023
+1710,3,PMGRC-1079-1065-3,buccal swab,Mailed Buccal,saliva,11/16/2023,11/28/2023,shipped to UCI,11/28/2023,774261692381,11/29/2023
+1711,3,PMGRC-1079-1065-3,buccal swab,Mailed Buccal,saliva,11/16/2023,11/28/2023,shipped to UCI,11/28/2023,774261692381,11/29/2023
+1712,2,PMGRC-1075-1065-2,buccal swab,Mailed Buccal,saliva,11/16/2023,11/28/2023,shipped to UCI,11/28/2023,774261692381,11/29/2023
+1713,2,PMGRC-1075-1065-2,buccal swab,Mailed Buccal,saliva,11/16/2023,11/28/2023,shipped to UCI,11/28/2023,774261692381,11/29/2023
+1714,1,PMGRC-1080-1065-1,buccal swab,Mailed Buccal,saliva,11/17/2023,11/28/2023,shipped to UCI,11/28/2023,774261692381,11/29/2023
+1715,1,PMGRC-1080-1065-1,buccal swab,Mailed Buccal,saliva,11/17/2023,11/28/2023,shipped to UCI,11/28/2023,774261692381,11/29/2023
+1716,3,PMGRC-1076-1065-3,buccal swab,Mailed Buccal,saliva,11/19/2023,11/28/2023,shipped to UCI,11/28/2023,774261692381,11/29/2023
+1717,3,PMGRC-1076-1065-3,buccal swab,Mailed Buccal,saliva,11/19/2023,11/28/2023,shipped to UCI,11/28/2023,774261692381,11/29/2023
+1718,2,PMGRC-1077-1078-2,buccal swab,Mailed Buccal,saliva,11/20/2023,11/28/2023,shipped to UCI,11/28/2023,774261692381,11/29/2023
+1719,2,PMGRC-1077-1078-2,buccal swab,Mailed Buccal,saliva,11/20/2023,11/28/2023,shipped to UCI,11/28/2023,774261692381,11/29/2023
+1720,0,PMGRC-1078-1078-0,buccal swab,Mailed Buccal,saliva,11/20/2023,11/28/2023,shipped to UCI,11/28/2023,774261692381,11/29/2023
+1721,0,PMGRC-1078-1078-0,buccal swab,Mailed Buccal,saliva,11/20/2023,11/28/2023,shipped to UCI,11/28/2023,774261692381,11/29/2023
+1722,0,PMGRC-1065-1065-0,buccal swab,Mailed Buccal,saliva,11/21/2023,11/28/2023,shipped to UCI,11/28/2023,774261692381,11/29/2023
+1723,0,PMGRC-1065-1065-0,buccal swab,Mailed Buccal,saliva,11/21/2023,11/28/2023,shipped to UCI,11/28/2023,774261692381,11/29/2023
+1724,0,PMGRC-1081-1081-0,buccal swab,Mailed Buccal,saliva,12/03/2023,12/07/2023,shipped to UCI,12/20/2023,774558025942,12/21/2023
+1725,0,PMGRC-1081-1081-0,buccal swab,Mailed Buccal,saliva,12/03/2023,12/07/2023,shipped to UCI,12/20/2023,774558025942,12/21/2023
+1726,2,PMGRC-1082-1081-2,buccal swab,Mailed Buccal,saliva,12/03/2023,12/07/2023,shipped to UCI,12/20/2023,774558025942,12/21/2023
+1727,2,PMGRC-1082-1081-2,buccal swab,Mailed Buccal,saliva,12/03/2023,12/07/2023,shipped to UCI,12/20/2023,774558025942,12/21/2023
+1728,1,PMGRC-1083-1081-1,buccal swab,Mailed Buccal,saliva,12/03/2023,12/07/2023,shipped to UCI,12/20/2023,774558025942,12/21/2023
+1729,1,PMGRC-1083-1081-1,buccal swab,Mailed Buccal,saliva,12/03/2023,12/07/2023,shipped to UCI,12/20/2023,774558025942,12/21/2023
+1730,1,PMGRC-1056-1064-1,buccal swab,Mailed Buccal,saliva,12/05/2023,12/07/2023,shipped to UCI,12/20/2023,774558025942,12/21/2023
+1731,1,PMGRC-1056-1064-1,buccal swab,Mailed Buccal,saliva,12/05/2023,12/07/2023,shipped to UCI,12/20/2023,774558025942,12/21/2023
+1732,2,PMGRC-1090-1091-2,buccal swab,Mailed Buccal,saliva,12/11/2023,12/20/2023,shipped to UCI,12/20/2023,774558025942,12/21/2023
+1733,2,PMGRC-1090-1091-2,buccal swab,Mailed Buccal,saliva,12/11/2023,12/20/2023,shipped to UCI,12/20/2023,774558025942,12/21/2023
+1734,0,PMGRC-1091-1091-0,buccal swab,Mailed Buccal,saliva,12/11/2023,12/20/2023,shipped to UCI,12/20/2023,774558025942,12/21/2023
+1735,0,PMGRC-1091-1091-0,buccal swab,Mailed Buccal,saliva,12/11/2023,12/20/2023,shipped to UCI,12/20/2023,774558025942,12/21/2023
+1736,1,PMGRC-1089-1091-1,PAX tube,CRU,peripheral blood,12/13/2023,12/20/2023,shipped to UCI,12/20/2023,774558025942,12/21/2023
+1737,1,PMGRC-1089-1091-1,purple top,CRU,peripheral blood,12/13/2023,12/20/2023,shipped to UCI,12/20/2023,774558025942,12/21/2023
+1738,0,PMGRC-1101-1101-0,PAX tube,Offsite,peripheral blood,12/14/2023,12/20/2023,shipped to UCI,12/20/2023,774558025942,12/21/2023
+1739,0,PMGRC-1101-1101-0,purple top,Offsite,peripheral blood,12/14/2023,12/20/2023,shipped to UCI,12/20/2023,774558025942,12/21/2023
+1740,0,PMGRC-641-641-0,buccal swab,Mailed Buccal,saliva,12/21/2023,01/10/2024,shipped to UCI,01/10/2024,774754257406,01/11/2024
+1741,0,PMGRC-641-641-0,buccal swab,Mailed Buccal,saliva,12/21/2023,01/10/2024,shipped to UCI,01/10/2024,774754257406,01/11/2024
+1742,2,PMGRC-642-641-2,buccal swab,Mailed Buccal,saliva,12/21/2023,01/10/2024,shipped to UCI,01/10/2024,774754257406,01/11/2024
+1743,2,PMGRC-642-641-2,buccal swab,Mailed Buccal,saliva,12/21/2023,01/10/2024,shipped to UCI,01/10/2024,774754257406,01/11/2024
+1744,1,PMGRC-643-641-1,buccal swab,Mailed Buccal,saliva,12/21/2023,01/10/2024,shipped to UCI,01/10/2024,774754257406,01/11/2024
+1745,1,PMGRC-643-641-1,buccal swab,Mailed Buccal,saliva,12/21/2023,01/10/2024,shipped to UCI,01/10/2024,774754257406,01/11/2024
+1746,2,PMGRC-1084-1085-2,buccal swab,Mailed Buccal,saliva,12/22/2023,01/10/2024,shipped to UCI,01/10/2024,774754257406,01/11/2024
+1747,2,PMGRC-1084-1085-2,buccal swab,Mailed Buccal,saliva,12/22/2023,01/10/2024,shipped to UCI,01/10/2024,774754257406,01/11/2024
+1748,0,PMGRC-1085-1085-0,buccal swab,Mailed Buccal,saliva,12/22/2023,01/10/2024,shipped to UCI,01/10/2024,774754257406,01/11/2024
+1749,0,PMGRC-1085-1085-0,buccal swab,Mailed Buccal,saliva,12/22/2023,01/10/2024,shipped to UCI,01/10/2024,774754257406,01/11/2024
+1750,0,PMGRC-1099-1099-0,buccal swab,Mailed Buccal,saliva,01/02/2023,01/10/2024,shipped to UCI,01/10/2024,774754257406,01/11/2024
+1751,0,PMGRC-1099-1099-0,buccal swab,Mailed Buccal,saliva,01/02/2023,01/10/2024,shipped to UCI,01/10/2024,774754257406,01/11/2024
+1752,0,PMGRC-608-608-0,PAX tube,CRU,peripheral blood,01/05/2024,01/10/2024,shipped to UCI,01/10/2024,774754257406,01/11/2024
+1753,0,PMGRC-608-608-0,purple top,CRU,peripheral blood,01/05/2024,01/10/2024,shipped to UCI,01/10/2024,774754257406,01/11/2024
+1754,1,PMGRC-609-608-1,PAX tube,CRU,peripheral blood,01/05/2024,01/10/2024,shipped to UCI,01/10/2024,774754257406,01/11/2024
+1755,1,PMGRC-609-608-1,purple top,CRU,peripheral blood,01/05/2024,01/10/2024,shipped to UCI,01/10/2024,774754257406,01/11/2024
+1756,2,PMGRC-610-608-2,PAX tube,CRU,peripheral blood,01/05/2024,01/10/2024,shipped to UCI,01/10/2024,774754257406,01/11/2024
+1757,2,PMGRC-610-608-2,purple top,CRU,peripheral blood,01/05/2024,01/10/2024,shipped to UCI,01/10/2024,774754257406,01/11/2024
+1758,0,PMGRC-1097-1097-0,buccal swab,Mailed Buccal,saliva,01/07/2024,01/10/2024,shipped to UCI,01/10/2024,774754257406,01/11/2024
+1759,0,PMGRC-1097-1097-0,buccal swab,Mailed Buccal,saliva,01/07/2024,01/10/2024,shipped to UCI,01/10/2024,774754257406,01/11/2024
+1760,2,PMGRC-1098-1097-2,buccal swab,Mailed Buccal,saliva,01/07/2024,01/10/2024,shipped to UCI,01/10/2024,774754257406,01/11/2024
+1761,2,PMGRC-1098-1097-2,buccal swab,Mailed Buccal,saliva,01/07/2024,01/10/2024,shipped to UCI,01/10/2024,774754257406,01/11/2024
+1762,2,PMGRC-1093-1094-2,buccal swab,Mailed Buccal,saliva,01/08/2024,01/12/2024,Core Fridge,N/A,,N/A
+1763,2,PMGRC-1093-1094-2,buccal swab,Mailed Buccal,saliva,01/08/2024,01/12/2024,Core Fridge,N/A,,N/A
+1764,0,PMGRC-1094-1094-0,buccal swab,Mailed Buccal,saliva,01/08/2024,01/12/2024,Core Fridge,N/A,,N/A
+1765,0,PMGRC-1094-1094-0,buccal swab,Mailed Buccal,saliva,01/08/2024,01/12/2024,Core Fridge,N/A,,N/A
+1766,1,PMGRC-1100-1094-1,buccal swab,Mailed Buccal,saliva,01/08/2024,01/12/2024,Core Fridge,N/A,,N/A
+1767,1,PMGRC-1100-1094-1,buccal swab,Mailed Buccal,saliva,01/08/2024,01/12/2024,Core Fridge,N/A,,N/A
+1768,2,PMGRC-1066-1067-2,PAX tube,Offsite,peripheral blood,01/11/2024,01/12/2024,Core Fridge,N/A,,N/A
+1769,2,PMGRC-1066-1067-2,purple top,Offsite,peripheral blood,01/11/2024,01/12/2024,Core Fridge,N/A,,N/A
+1770,0,PMGRC-1067-1067-0,PAX tube,Offsite,peripheral blood,01/11/2024,01/12/2024,Core Fridge,N/A,,N/A
+1771,0,PMGRC-1067-1067-0,purple top,Offsite,peripheral blood,01/11/2024,01/12/2024,Core Fridge,N/A,,N/A
+1772,1,PMGRC-1068-1067-1,PAX tube,Offsite,peripheral blood,01/11/2024,01/12/2024,Core Fridge,N/A,,N/A
+1773,1,PMGRC-1068-1067-1,purple top,Offsite,peripheral blood,01/11/2024,01/12/2024,Core Fridge,N/A,,N/A

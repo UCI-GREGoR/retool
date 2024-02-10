@@ -1,0 +1,2 @@
+genetic_findings_id,updated_at,created_at,participant_id,retool_sample_uuid,gene,gene_class,condition,inheritance_description,zygosity,variant_genome_build,variant_type,chrom,pos,ref,alt,hgvsc,hgvsp,transcript,sv_name,sv_type,significance,clinvar_scv,moon_import_date,moon_analysis_date,interpreter,qcer
+35,2023-03-28 13:27:36.594885+00,2023-03-28 13:27:36.594885+00,PMGRC-118-30-0,,,,,,,,,,,,,,,,,,,,,,,
