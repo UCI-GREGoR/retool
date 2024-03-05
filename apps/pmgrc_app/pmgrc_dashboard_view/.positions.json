@@ -1,0 +1,81 @@
+{
+  "chart_age_at_enrollment": {
+    "container": "tabbedContainer1",
+    "subcontainer": "ab990",
+    "row": 3,
+    "height": 8,
+    "width": 8
+  },
+  "chart_participant_sex": {
+    "container": "tabbedContainer1",
+    "subcontainer": "ab990",
+    "row": 3,
+    "col": 8,
+    "height": 8,
+    "width": 4
+  },
+  "chart_reported_race": {
+    "container": "tabbedContainer1",
+    "subcontainer": "ab990",
+    "row": 11,
+    "height": 9.6,
+    "width": 12
+  },
+  "mainHeaderNavigation1": {
+    "subcontainer": "header",
+    "height": 2.4,
+    "width": 12
+  },
+  "mainSidebarNavigation1": {
+    "height": 2.4,
+    "width": 2
+  },
+  "stat_duo_count": {
+    "container": "tabbedContainer1",
+    "subcontainer": "ab990",
+    "row": 0.4,
+    "col": 7,
+    "height": 0.8,
+    "width": 2
+  },
+  "stat_proband_count": {
+    "container": "tabbedContainer1",
+    "subcontainer": "ab990",
+    "row": 0.4,
+    "col": 3,
+    "height": 0.8,
+    "width": 2
+  },
+  "stat_single_count": {
+    "container": "tabbedContainer1",
+    "subcontainer": "ab990",
+    "row": 0.4,
+    "col": 5,
+    "height": 0.8,
+    "width": 2
+  },
+  "stat_total_count": {
+    "container": "tabbedContainer1",
+    "subcontainer": "ab990",
+    "row": 0.4,
+    "height": 0.8
+  },
+  "stat_trio_count": {
+    "container": "tabbedContainer1",
+    "subcontainer": "ab990",
+    "row": 0.4,
+    "col": 9,
+    "height": 0.8
+  },
+  "tabbedContainer1": {
+    "col": 2,
+    "height": 0.2,
+    "width": 10
+  },
+  "tabs1": {
+    "container": "tabbedContainer1",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 12
+  }
+}

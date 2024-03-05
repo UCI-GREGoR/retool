@@ -1,0 +1,1 @@
+select count(proband_relationship) from new_participants where proband_relationship = 'Self';
