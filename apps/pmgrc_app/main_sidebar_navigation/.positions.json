@@ -1,0 +1,11 @@
+{
+  "moduleContainer": {
+    "height": 12,
+    "width": 12
+  },
+  "sidebar_navigation_links": {
+    "container": "moduleContainer",
+    "height": 0.8,
+    "width": 12
+  }
+}

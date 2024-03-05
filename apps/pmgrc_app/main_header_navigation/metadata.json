@@ -1,0 +1,17 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "14fb6f10-c8fe-11ed-9adf-03bea7f729b5",
+  "appTemplate": {
+    "mobileAppSettings": {
+      "object": {
+        "mobileOfflineModeEnabled": false
+      }
+    },
+    "appMaxWidth": "1560px",
+    "queryStatusVisibility": true,
+    "isGlobalWidget": true,
+    "version": "3.9.0",
+    "markdownLinkBehavior": "never"
+  }
+}
