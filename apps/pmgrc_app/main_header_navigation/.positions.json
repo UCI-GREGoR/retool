@@ -1,0 +1,29 @@
+{
+  "avatar2": {
+    "container": "moduleContainer",
+    "subcontainer": "header",
+    "col": 10,
+    "height": 0.2,
+    "width": 2
+  },
+  "image1": {
+    "container": "moduleContainer",
+    "height": 1,
+    "width": 1
+  },
+  "moduleContainer": {
+    "height": 12,
+    "width": 12
+  },
+  "text1": {
+    "container": "moduleContainer",
+    "col": 2,
+    "height": 0.6
+  },
+  "textInput1": {
+    "container": "moduleContainer",
+    "col": 5,
+    "height": 1,
+    "width": 5
+  }
+}
