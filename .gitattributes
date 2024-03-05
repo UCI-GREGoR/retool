@@ -1,0 +1,5 @@
+
+**/*.rsx linguist-language=TSX
+**/.positions.json linguist-generated=true
+**/.mobile_positions.json linguist-generated=true
+**/.defaults.json linguist-generated=true
